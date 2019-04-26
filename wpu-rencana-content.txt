@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Membuat sistem blog (cms) lengkap
