@@ -15,3 +15,4 @@ RENCANA KONTEN WPU
 - Python
   ^ Django
 - Tips dan trik programming ala Pak Sandhika Galih
+- Membuat sistem blog (cms) lengkap
