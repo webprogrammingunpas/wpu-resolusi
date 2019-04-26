@@ -14,12 +14,15 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
-- Tips dan trik programming ala Pak Sandhika Galih
+- Quick Tips dan trik programming ala Pak Sandhika Galih
+ * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
 - Ruby on Rails
 - Database
+ * Materi join table di Mysql 
 - CSS
   * Framework CSS
     ^ Sass
 - Keamanan Website
 - Odoo
+
