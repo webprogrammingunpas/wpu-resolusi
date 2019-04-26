@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
   * ES6
+  * NodeJS
   * Framework Javascript
     ^ Vue
     ^ React
@@ -12,4 +13,8 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ Django
+- Tips dan trik programming ala Pak Sandhika Galih
+- Membuat sistem blog (cms) lengkap
+- Ruby on Rails
 -Database
