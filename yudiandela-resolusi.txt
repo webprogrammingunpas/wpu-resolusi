@@ -1,0 +1,8 @@
+Salam kenal pak, Saya Yudi Andela dari Aceh.
+Saat ini saya bekerja di Instansi Militer Angkatan Darat tidak ada urusan dengan programmer.
+Namun karena hobi, saya ingin mempelajari bahasa pemograman khusus nya di bagian Web Development.
+
+Resolusi saya : 
+- Mempelajari Node JS dan framework Laravel
+- Mempelajari Framework React JS
+- Membuat Website / Aplikasi WEB yang berguna untuk kepentingan umum
