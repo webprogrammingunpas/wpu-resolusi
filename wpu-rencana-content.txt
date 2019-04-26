@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Tips dan trik programming ala Pak Sandhika Galih
