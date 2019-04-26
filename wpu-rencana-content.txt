@@ -12,4 +12,5 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ Django
 - Tips dan trik programming ala Pak Sandhika Galih
