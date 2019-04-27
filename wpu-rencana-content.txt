@@ -18,8 +18,12 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
 - Ruby on Rails
 - Database
+ * Firebase
 - CSS
   * Framework CSS
     ^ Sass
 - Keamanan Website
 - Odoo
+- Testing tool
+ * katalon
+- Docker & AWS
