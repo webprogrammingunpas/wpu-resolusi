@@ -16,6 +16,8 @@ RENCANA KONTEN WPU
   ^ Django
 - Tips dan trik programming ala Pak Sandhika Galih
 - Membuat sistem blog (cms) lengkap
+  ^back end
+  ^front end
 - Ruby on Rails
 - Database
 - CSS
