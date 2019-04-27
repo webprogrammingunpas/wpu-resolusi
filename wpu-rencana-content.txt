@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * OOP
   * ES6
   * NodeJS
   * Framework Javascript
@@ -23,3 +24,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Htaccess
+- Regex
+- Membahas algoritma yang populer 
