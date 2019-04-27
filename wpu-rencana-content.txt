@@ -24,3 +24,4 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 -aplikasi android : hybrid web dijadikan android pak
+-bahas menegani sertifikat ssl pak 
