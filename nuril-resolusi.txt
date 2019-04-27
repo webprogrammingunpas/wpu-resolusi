@@ -1,0 +1,9 @@
+Assalamu'alaikum Pak Dika, perkenalkan nama saya Nuril. Mahasiswa dari STMIK Widya Pratama Kota Pekalongan.
+
+Resolusi saya :
++ Saya masih belajar ngoding menggunakan bahasa PHP Dasar dan OOP PHP .
++ Setelah mendalami bahasa PHP, lanjut ke framework PHP.
++ Kemudian belajar REST API.
++ Lalu belajar membuat Bot Telegram, saya berharap Pak Dika juga membuat konten tentang Bot Telegram menggunakan bahasa PHP.
+
+Semoga ilmu yang Pak Dika sampaikan ke Kami, bermanfaat dan berkah. Aamiin
