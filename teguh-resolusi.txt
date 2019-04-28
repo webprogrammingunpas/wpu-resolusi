@@ -1,0 +1,9 @@
+Assalamu'alaikum pak, saya Teguh dari Bogor, salam kenal baru belajar pemograman.
+Resolusi saya adalah :
+  - Membuat website sekolah sederhana (karena saya seorang pengajar di salah satu SD di Depok, yang kebetulan belum mempunyai website sendiri)
+  - Membuat website sekoah aktraktif yang memungkinkan, guru, siswa, dan orang tua bisa mengkses memlui login
+  - Membuat pembelajaran online untuk siswa SD
+  - membuat web profile sendiri
+  - terus belajar di channel Web Programming Unpas
+  - belajar frame work javascript, php,dan lainnya
+  - Bisa memanfaatkan ilmu seperti pak Dhika

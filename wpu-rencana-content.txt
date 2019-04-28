@@ -23,3 +23,5 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- live coding (malam hari ya pak...he)
+- tips dan trik dibanyakin
