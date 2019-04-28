@@ -23,7 +23,8 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
 - Ruby on Rails
 - Database
- * Materi join table di Mysql 
+  ^ NoSQL MongoDB
+  ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
     ^ Sass
