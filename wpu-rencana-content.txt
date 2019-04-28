@@ -32,4 +32,5 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
-
+- Aplikasi android
+- Sertifikat SSL
