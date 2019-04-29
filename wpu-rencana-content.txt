@@ -5,11 +5,13 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
-    ^ React
-    ^ Angular
+    ^ React : React JS, React Native
+    ^ Angular / Typescript
+  * Go / Golang
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+   * Docker and Kubernetes
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
