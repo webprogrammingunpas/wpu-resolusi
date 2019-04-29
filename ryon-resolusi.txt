@@ -1,0 +1,9 @@
+Halo pak, salam kenal nama saya ryo dari medan.
+
+Resolusi saya :
+- Mendalami website dengan framework
+  ^ Laravel
+  ^ Framework7
+- Mendalami Javascript,vue, react, node.js
+
+I hope you can make tutorial about laravel soon. Thanks you.
