@@ -1,0 +1,7 @@
+Halo pak, salam kenal nama saya Somad dari Bangka
+
+Resolusi Saya :
+- belajar C#, php dan javascript
+- belajar WEBAPI integrasi data dari RS ke aplikasi web pemerintahan pusat dan daerah
+- dimana web pemerintah banyak menggunakan zendframe work dan CI
+- Bekerja di rumah sakit
