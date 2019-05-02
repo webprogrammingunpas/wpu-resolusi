@@ -1,0 +1,6 @@
+hallo pak, saya widya pelajar kls 2 dari smkn1 kota bengkulu 
+resolusi saya tahun ini ingin menguasai :
+-nodejs
+-react
+-angular 
+-phyton
