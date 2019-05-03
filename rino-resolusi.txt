@@ -1,0 +1,4 @@
+Halo pak, saya rino.
+Resolusi saya kedepannya :
+1. Membuat aplikasi front end dengan javacript
+2. Memaksimalkan penggunaan git untuk bekerja secara tim
