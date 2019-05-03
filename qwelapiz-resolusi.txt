@@ -1,0 +1,7 @@
+hallo pak, saya qwelapiz dari depok
+makasih tutorial nya selama ini, sangat membantu saya untuk belajar di waktu luang
+
+resolusi saya :
+  - belajar membuat aplikasi android 
+  - mendesai aplikasi android
+  - menintegrasi kan nya dengan database 
