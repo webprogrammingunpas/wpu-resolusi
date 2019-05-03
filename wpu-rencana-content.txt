@@ -34,4 +34,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ integrasi kan dengan database, firebase
+  ^ integrasi kan dengan api google & facebook
 - Sertifikat SSL
+- Flutter
