@@ -1,0 +1,8 @@
+Mahasiswa IT dari Kalbis Institute semester 4
+
+Resolusi 2019:
+1. Menguasai pemrograman web : html, css, php, javascript
+2. Web lanjut: boostrap, materialize, ajax, react
+3. Menguasai pemrograman desktop: java, C#
+4. Menguasai SQL Maria DB dan SQL Oracle
+5. Menguasai phyton : AI, Machine Learning, Natural Language
