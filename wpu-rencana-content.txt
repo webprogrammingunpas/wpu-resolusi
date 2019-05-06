@@ -1,5 +1,12 @@
 RENCANA KONTEN WPU
 
+- Wordpress
+  * Cara menggunakan wordpress di webhosting (bikin menu, page, dll)
+  * cara import template
+- Jasa pembuatan website untuk pemula
+  * menyiapkan beberapa template web (web profile, web ecommerce, web portfolio)
+  * cara menentukan harga website (harga per page, per update, dll)
+  * cara menawarkan jasa pembuatan website
 - Javascript
   * ES6
   * NodeJS
