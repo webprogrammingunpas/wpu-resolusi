@@ -1,0 +1,6 @@
+Halo pak dhika, salam kenal nama saya Mohammada Aprilianto dari Kediri.
+
+Resolusi Saya :
+- Membuat template website menggunakan framework CI
+- Hosting website yang isinya menjual jasa pembuatan website
+- Membuat tutorial cara menjual website untuk pemula
