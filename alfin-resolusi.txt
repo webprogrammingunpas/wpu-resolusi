@@ -1,0 +1,5 @@
+Hallo salam kenal nama saya alfin dari BOGOR : 
+ini resolusi saya :
+- Membuat website menggunakan framework laravel
+- Belajar microframework laravel yaitu lumen
+- Membuat website menggunakan javascript
