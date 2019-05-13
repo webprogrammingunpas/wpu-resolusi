@@ -1,0 +1,2 @@
+resolusi saya :
+- membuat web fullstack javascript di mana beck-end yang di gunakan yaitu node.js frameworknya express js dan front endnya menggunakan react js
