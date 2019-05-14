@@ -1,0 +1,4 @@
+resolusi 2019
+salam kenal pak dari rumah
+- bekerja di start up
+- node js
