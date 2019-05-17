@@ -1,0 +1,7 @@
+Halo pak sandhika, saya Salman dari Bekasi. Saya sudah lulus kuliah dan masih ingin mengembangkan kemampuan saya di dunia IT
+dengan mempelajari bahasa pemrograman yang lain.
+
+Resolusi saya:
+1. Memperdalam modern javascript
+2. Mempelajari Node JS
+3. Mempeajari Mobile Apps
