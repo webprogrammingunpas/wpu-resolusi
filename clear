@@ -1,0 +1,165 @@
+* [33m920362b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m membuat file aldian resolusi txt
+*   [33mb67b350[m Merge pull request #21 from restufh12/master
+[32m|[m[33m\[m  
+[32m|[m *   [33m8ee07cf[m Merge branch 'master' into master
+[32m|[m [34m|[m[32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+* [34m|[m   [33m9a2f08e[m Merge pull request #20 from ramliagustiawan/master
+[36m|[m[1;31m\[m [34m\[m  
+[36m|[m * [34m\[m   [33m4e80e91[m Merge branch 'master' into master
+[36m|[m [1;32m|[m[36m\[m [34m\[m  
+[36m|[m [1;32m|[m[36m/[m [34m/[m  
+[36m|[m[36m/[m[1;32m|[m [34m|[m   
+* [1;32m|[m [34m|[m   [33mca91759[m Merge pull request #19 from GitHubFeri/master
+[1;34m|[m[1;35m\[m [1;32m\[m [34m\[m  
+[1;34m|[m * [1;32m|[m [34m|[m [33mf5f290f[m menambahkan back end & front end pada blog cms
+[1;34m|[m * [1;32m|[m [34m|[m [33mc4b8a2f[m menambahkan resolusi saya
+* [1;35m|[m [1;32m|[m [34m|[m   [33m9ba4e10[m Merge pull request #18 from ihsaninh/master
+[1;36m|[m[31m\[m [1;35m\[m [1;32m\[m [34m\[m  
+[1;36m|[m * [1;35m\[m [1;32m\[m [34m\[m   [33me3f4586[m Merge branch 'master' into master
+[1;36m|[m [32m|[m[1;36m\[m [1;35m\[m [1;32m\[m [34m\[m  
+[1;36m|[m [32m|[m[1;36m/[m [1;35m/[m [1;32m/[m [34m/[m  
+[1;36m|[m[1;36m/[m[32m|[m [1;35m|[m [1;32m|[m [34m|[m   
+* [32m|[m [1;35m|[m [1;32m|[m [34m|[m   [33mdd0f357[m Merge pull request #17 from xvferdy/master
+[34m|[m[35m\[m [32m\[m [1;35m\[m [1;32m\[m [34m\[m  
+[34m|[m * [32m|[m [1;35m|[m [1;32m|[m [34m|[m [33mdd13ad5[m :pray: Membuat file xvferdy-resolusi.txt
+[34m|[m [1;35m|[m [32m|[m[1;35m/[m [1;32m/[m [34m/[m  
+[34m|[m [1;35m|[m[1;35m/[m[32m|[m [1;32m|[m [34m|[m   
+* [1;35m|[m [32m|[m [1;32m|[m [34m|[m   [33m95bec20[m Merge pull request #16 from renobappenas/master
+[36m|[m[1;31m\[m [1;35m\[m [32m\[m [1;32m\[m [34m\[m  
+[36m|[m * [1;35m|[m [32m|[m [1;32m|[m [34m|[m [33m4425ec5[m menambahkan : sweet alert & join table di mysql
+[36m|[m * [1;35m|[m [32m|[m [1;32m|[m [34m|[m [33me578a11[m membuat file saitama-resolusi.txt
+[36m|[m [1;35m|[m[1;35m/[m [32m/[m [1;32m/[m [34m/[m  
+* [1;35m|[m [32m|[m [1;32m|[m [34m|[m   [33m12b0014[m Merge pull request #15 from Hanasbp/master
+[1;35m|[m[1;33m\[m [1;35m\[m [32m\[m [1;32m\[m [34m\[m  
+[1;35m|[m [1;33m|[m[1;35m/[m [32m/[m [1;32m/[m [34m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m [32m|[m [1;32m|[m [34m|[m   
+[1;35m|[m * [32m|[m [1;32m|[m [34m|[m [33m55268bb[m belajar dengan baik
+[1;35m|[m * [32m|[m [1;32m|[m [34m|[m [33mc20510e[m menambahkan Library Javascript dan Webpack pada file
+[1;35m|[m * [32m|[m [1;32m|[m [34m|[m [33mf287979[m membuat file hanas-resolusi.txt
+[1;35m|[m [1;33m|[m * [1;32m|[m [34m|[m [33me43dad2[m menambahkan wpu resolusi Database MongoDB
+[1;35m|[m [1;33m|[m * [1;32m|[m [34m|[m [33m95aa330[m Update resolusi saya
+[1;35m|[m [1;33m|[m * [1;32m|[m [34m|[m [33maa7d46b[m Rename file
+[1;35m|[m [1;33m|[m * [1;32m|[m [34m|[m [33m23aa937[m Membuat File Ihsan-resolusi
+[1;35m|[m [1;33m|[m[1;35m/[m [1;32m/[m [34m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m [1;32m|[m [34m|[m   
+[1;35m|[m [1;33m|[m * [34m|[m [33m5186960[m ssl
+[1;35m|[m [1;33m|[m * [34m|[m [33m672fceb[m tambahkan aplikasi android
+[1;35m|[m [1;33m|[m[1;35m/[m [34m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m [34m|[m   
+[1;35m|[m [1;33m|[m * [33m25c5e7d[m Menambahkan materi tentang database
+[1;35m|[m [1;33m|[m * [33m88268df[m Rename restu-resolusi to restu-resolusi.txt
+[1;35m|[m [1;33m|[m * [33m479fb37[m Membuat file resolusi-restu
+[1;35m|[m [1;33m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m   
+* [1;33m|[m   [33m80dd252[m Merge pull request #14 from endrose/master
+[1;34m|[m[1;35m\[m [1;33m\[m  
+[1;34m|[m * [1;33m\[m   [33m039ad9c[m Merge branch 'master' into master
+[1;34m|[m [1;36m|[m[1;34m\[m [1;33m\[m  
+[1;34m|[m [1;36m|[m[1;34m/[m [1;33m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m [1;33m|[m   
+* [1;36m|[m [1;33m|[m   [33m69909ce[m Merge pull request #13 from Dimaspadma/master
+[32m|[m[33m\[m [1;36m\[m [1;33m\[m  
+[32m|[m * [1;36m\[m [1;33m\[m   [33m8423f6f[m Merge branch 'master' into master
+[32m|[m [34m|[m[32m\[m [1;36m\[m [1;33m\[m  
+[32m|[m [34m|[m[32m/[m [1;36m/[m [1;33m/[m  
+[32m|[m[32m/[m[34m|[m [1;36m|[m [1;33m|[m   
+* [34m|[m [1;36m|[m [1;33m|[m   [33m286e0a0[m Merge pull request #12 from beniepedia/master
+[36m|[m[1;31m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[36m|[m * [34m\[m [1;36m\[m [1;33m\[m   [33m144915c[m Merge branch 'master' into master
+[36m|[m [1;32m|[m[36m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[36m|[m [1;32m|[m[36m/[m [34m/[m [1;36m/[m [1;33m/[m  
+[36m|[m[36m/[m[1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   
+* [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   [33m5dfde17[m Merge pull request #11 from aderandika/master
+[1;34m|[m[1;35m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[1;34m|[m * [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m   [33m6b2f977[m Merge branch 'master' into master
+[1;34m|[m [1;36m|[m[1;34m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[1;34m|[m [1;36m|[m[1;34m/[m [1;32m/[m [34m/[m [1;36m/[m [1;33m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   
+* [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   [33mf0dabe5[m Merge pull request #10 from Nktpamungkas/master
+[32m|[m[33m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[32m|[m * [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m   [33mfd2fcaa[m Merge branch 'master' into master
+[32m|[m [34m|[m[32m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[32m|[m [34m|[m[32m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m [1;33m/[m  
+[32m|[m[32m/[m[34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   
+* [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   [33maf8399d[m Merge pull request #9 from rahmatttrh/master
+[36m|[m[1;31m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[36m|[m * [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m   [33m339595b[m Merge branch 'master' into master
+[36m|[m [1;32m|[m[36m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[36m|[m [1;32m|[m[36m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m [1;33m/[m  
+[36m|[m[36m/[m[1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   
+* [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m   [33m5e2bb1f[m Merge pull request #8 from yudiandela/master
+[1;34m|[m[1;35m\[m [1;32m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m [1;33m\[m  
+[1;34m|[m * [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m [33m16162ba[m menambahkan nodejs di bagian Javascript
+[1;34m|[m * [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m [33me903b2a[m mengubah baris 2 di resolusi saya
+[1;34m|[m * [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [1;33m|[m [33macae028[m membuat file yudiandela-resolusi.txt
+[1;34m|[m [1;33m|[m [1;32m|[m[1;33m_[m[34m|[m[1;33m_[m[1;36m|[m[1;33m_[m[1;32m|[m[1;33m_[m[34m|[m[1;33m_[m[1;36m|[m[1;33m/[m  
+[1;34m|[m [1;33m|[m[1;33m/[m[1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m   
+* [1;33m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m   [33m0ebd6ad[m Merge pull request #7 from dwirizqi/master
+[1;36m|[m[31m\[m [1;33m\[m [1;32m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m  
+[1;36m|[m * [1;33m\[m [1;32m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m   [33m8bca9bf[m Merge branch 'master' into master
+[1;36m|[m [32m|[m[1;36m\[m [1;33m\[m [1;32m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m  
+[1;36m|[m [32m|[m[1;36m/[m [1;33m/[m [1;32m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;36m|[m[1;36m/[m[32m|[m [1;33m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m   
+* [32m|[m [1;33m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m   [33m5273ad2[m Merge pull request #6 from gadroxjr/master
+[1;33m|[m[35m\[m [32m\[m [1;33m\[m [1;32m\[m [34m\[m [1;36m\[m [1;32m\[m [34m\[m [1;36m\[m  
+[1;33m|[m [35m|[m[1;33m_[m[32m|[m[1;33m/[m [1;32m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m[1;33m/[m[35m|[m [32m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m   
+[1;33m|[m * [32m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33mfc40498[m Menambahkan usulan Django pada Python
+[1;33m|[m * [32m|[m [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m05a7c84[m Membuat ivan-resolusi.txt
+[1;33m|[m[1;33m/[m [32m/[m [1;32m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m366c164[m menambahkan tips dan trik ala pak sandhika galih
+[1;33m|[m * [1;32m|[m [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m1a7f1cc[m membuat file dwirizqi-resolusi.txt
+[1;33m|[m[1;33m/[m [1;32m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m1628e55[m Menambahkan sistem blog lengkap pada daftar konten
+[1;33m|[m * [34m|[m [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33mb72945e[m Membuat rahmat-resolusi.txt
+[1;33m|[m[1;33m/[m [34m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m8ad54bf[m menambahkan materi Ruby on Rails
+[1;33m|[m * [1;36m|[m [1;32m|[m [34m|[m [1;36m|[m [33m049e5b9[m mebuat file nilo-resolusi.txt
+[1;33m|[m[1;33m/[m [1;36m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [1;32m|[m [34m|[m [1;36m|[m [33m3faee85[m Menambahkan konten Database
+[1;33m|[m * [1;32m|[m [34m|[m [1;36m|[m [33m8af956a[m Membuat file ade-resolusi
+[1;33m|[m[1;33m/[m [1;32m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [34m|[m [1;36m|[m [33m48562a5[m Menambah sass pada framework css
+[1;33m|[m * [34m|[m [1;36m|[m [33m13c4101[m membuat file ahmad-resolusi.txt
+[1;33m|[m[1;33m/[m [34m/[m [1;36m/[m  
+[1;33m|[m * [1;36m|[m [33m873aed4[m menambah materi keamanan website
+[1;33m|[m * [1;36m|[m [33mc78af8f[m membuat file maskumambang-resolusi.txt
+[1;33m|[m[1;33m/[m [1;36m/[m  
+[1;33m|[m * [33m6b8ec6a[m menambahkan framework odoo
+[1;33m|[m * [33m692cbf1[m membuat file endrose-resolusi.txt
+[1;33m|[m[1;33m/[m  
+*   [33m13f7bb6[m Merge pull request #5 from sandhikagalih/master
+[36m|[m[1;31m\[m  
+[36m|[m * [33m9f7b721[m menambahkan angular pada framework javascript
+[36m|[m * [33m5fc8425[m membuat file sandhika-resolusi.txt
+[36m|[m[36m/[m  
+* [33m3d319d7[m Delete sandhika-resolusi.txt
+*   [33mdfdc93e[m Merge pull request #4 from sandhikagalih/master
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m32737bc[m membuat file sandhika-resolusi.txt
+[1;32m|[m[1;32m/[m  
+*   [33mfca5d15[m Merge pull request #3 from webprogrammingunpas/Coba-Fitur-2
+[1;34m|[m[1;35m\[m  
+[1;34m|[m *   [33m0530a35[m Merge branch 'master' into Coba-Fitur-2
+[1;34m|[m [1;36m|[m[1;34m\[m  
+[1;34m|[m [1;36m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m   
+* [1;36m|[m   [33m562a299[m Merge pull request #2 from webprogrammingunpas/Coba-Fitur-1
+[32m|[m[33m\[m [1;36m\[m  
+[32m|[m * [1;36m|[m [33m25688b1[m menambahkan react pada javascript framework
+[32m|[m * [1;36m|[m [33m0ab6967[m Menambahkan materi baru
+[32m|[m[32m/[m [1;36m/[m  
+[32m|[m * [33m2e3bb5c[m Mengubah isi dari rencana konten
+[32m|[m[32m/[m  
+* [33mf8c1713[m menambahkan materi dasar struktur data
+*   [33m3735409[m Merge pull request #1 from webprogrammingunpas/rencana-konten
+[34m|[m[35m\[m  
+[34m|[m * [33m0661ddd[m menambahkan detail materi javascript
+[34m|[m * [33m07945b2[m membuat file wpu-rencana-konten.txt
+[34m|[m[34m/[m  
+* [33ma41ee9b[m hapus merch shop & tambah vlog
+* [33m3b12670[m menambahkan merch shop & kolaborasi
+* [33m8b14806[m Membuat file resolusi.txt
+* [33m13ec5a7[m Initial commit
