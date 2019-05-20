@@ -1,0 +1,20 @@
+Halo pak salam kenal saya Solihin, seorang praktisi IT
+Rencana IT 2020 adalah :
+- Running program LIMS, ARCA
+- Setting ONT, ONU
+- Ganti ISP dari moratel ke remala
+- minta tagihan sewa isp ke sat
+
+Perangkat network BM :
+- ONT
+- ONU
+- PABX
+- Linknet
+- Remala
+- Moratel
+
+Program yg pakai Php :
+ - LIMS
+ - ARCA
+ - HCMS
+ - AIMS
