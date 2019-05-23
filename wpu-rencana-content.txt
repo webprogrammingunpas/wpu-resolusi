@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Lifecycle variables, Closures, Execution Context and Execution Stack
   * ES6
   * NodeJS
   * Framework Javascript
