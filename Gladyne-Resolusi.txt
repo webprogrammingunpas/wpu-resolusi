@@ -1,0 +1,6 @@
+Halo Pak,Perkenalkan nama saya gladyne berlian alif zago saya mahasiswa dari teknik elektro UNDIP(Universitas Diponegoro) Semarang angkatan tahun 2018
+Disini saya mau memperlihatkan Resolusi saya kepada bapak selaku dosen online saya :D 
+Resoulusi :
+  -Membuat Software Project smart door lock
+  -Mengusai Microservice & API menggunakan PHP,Node Js,Python
+  -Natural Langguage Processing
