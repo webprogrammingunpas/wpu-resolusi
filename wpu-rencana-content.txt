@@ -12,6 +12,9 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+  * Jenis data
+  * Array dan record
+  * Stack dan tumpukan
 - PHP Frameworks
   ^ Laravel
 - Interview
