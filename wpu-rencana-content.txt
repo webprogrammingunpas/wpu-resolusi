@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+-Fundamental belajar pemrograman
 - Javascript
   * ES6
   * NodeJS
