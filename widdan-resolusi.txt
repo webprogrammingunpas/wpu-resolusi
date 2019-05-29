@@ -1,0 +1,6 @@
+Halo pak Sandika, saya lagi belajar fork github
+
+Resolusi saya:
+-Membuat website php oop
+-Bekerja dengan framework php
+-Menggunakan javascript dalam website
