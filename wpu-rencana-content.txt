@@ -1,6 +1,6 @@
 RENCANA KONTEN WPU
 
-- Javascript
+- Javascript(Banyakin Pak Anti PHP2 Club)
   * ES6
   * NodeJS
   * Framework Javascript
