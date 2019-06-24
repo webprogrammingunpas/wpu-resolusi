@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+    ^ Scaling NodeJS
   * Framework Javascript
     ^ Vue
     ^ React
@@ -28,6 +29,7 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ MariaDB Cluster
 - CSS
   * Framework CSS
     ^ Sass

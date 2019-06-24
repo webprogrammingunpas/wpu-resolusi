@@ -1,0 +1,5 @@
+Halo pak, salam kenal. Nama saya Syukron dari Jakarta
+
+Resolusi saya:
+- Membuat webapps menggunakan NodeJS
+- Saya ingin membuat startup
