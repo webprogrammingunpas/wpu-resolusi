@@ -26,7 +26,7 @@ RENCANA KONTEN WPU
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
-  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
+  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite, Oracle
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
