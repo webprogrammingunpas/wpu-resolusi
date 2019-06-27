@@ -1,0 +1,3 @@
+halo pak nama saya akhmadi.saya dari malang
+resolusi saya tahun ini adalah membuat portofolio sebanyak banyaknya 
+mulai dari php native,laravel,ci,react,android
