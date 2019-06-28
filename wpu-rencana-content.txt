@@ -29,6 +29,10 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap 4 (Playlist Khusus)
+  * CSS Architecture
+    ^ BEM
+    ^ OOCSS
 - Keamanan Website
 - Odoo
 - Aplikasi android
