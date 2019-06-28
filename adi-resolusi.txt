@@ -1,0 +1,6 @@
+Halo pak, perkenalkan nama saya Adi Firdaus, saya kuliah di jurusan Teknik Komputer Universitas Komputer Indonesia.
+
+Resolusi:
+- bisa membuat website menggunakan framework PHP
+  ^ Laravel
+- Lulus kuliah tepat waktu.
