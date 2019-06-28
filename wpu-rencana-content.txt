@@ -37,4 +37,9 @@ RENCANA KONTEN WPU
 - Sertifikat SSL
 - STUDI KASUS
   * Membuat website toko online
+    ^ Front-end (Vue.js) & Back-end (Laravel)
+- Basic SEO
+- Package Managers
+  * npm
+  * yarn
 
