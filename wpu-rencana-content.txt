@@ -20,9 +20,7 @@ RENCANA KONTEN WPU
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
-- Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
+- Progressive Web Apps (PWA)
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
@@ -31,7 +29,23 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap 4 (Playlist Khusus)
+  * CSS Architecture
+    ^ BEM
+    ^ OOCSS
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- STUDI KASUS
+  * Membuat website toko online
+    ^ Front-end (Vue.js)
+    ^ Back-end (Laravel)
+  * Membuat sistem blog (cms) lengkap
+    ^back end
+    ^front end
+- Basic SEO
+- Package Managers
+  * npm
+  * yarn
+
