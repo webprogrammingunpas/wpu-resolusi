@@ -35,3 +35,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Cara mempromosikan dan menjual karya (web maupun mobile) kepada klien
+- Cara bikin video dan edit serta upload di youtube
