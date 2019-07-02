@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Cara meningkatkan dan membahas mengenai perforamnce pada website.
+- Membahas mengenai keamanan pada website dan cara mengatasinya.
+- Membahas mengenai apa saja yang perlu dilakukan dan diperhatikan ketika menaikkan website ke hosting dan ketika go live nya.
