@@ -1,0 +1,3 @@
+Salam kenal nama saya Arofik dari semarang
+-membuat website menggunakan Laravel
+-bekerja sdi start-up
