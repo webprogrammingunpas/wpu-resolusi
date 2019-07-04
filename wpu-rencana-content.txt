@@ -11,6 +11,7 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+  ^how to include Bootstrap in project using Webpack.
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
