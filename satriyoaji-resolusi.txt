@@ -1,0 +1,7 @@
+Assalamualaikum Pak Sandhika, salam kenal, nama saya Aji dari Sidoarjo
+Saya Mahasiswa Politeknik Elektronika Negeri Surabaya jurusan Teknik Informatika
+
+Resolusi Saya:
+- ingin membuat website e-learning, dengan sistem frontend & backend menggunakan React JS dan Node JS
+- bisa membuat aplikasi android & iOS menggunakan React Native
+- magang atau kerja praktek di software House Indonesia ataupun startup ternama di Indonesia
