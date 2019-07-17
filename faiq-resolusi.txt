@@ -1,0 +1,8 @@
+Halo pak, Salam kenal nama saya Faiq Fadlurrohman dari Kuningan.
+Saya mahasiswa dari Universitas Kuningan jurusan Teknik Informatika.
+
+Resolusi saya : 
+- Mempelajari back-end programming
+- Mempelajari framework CodeIgniter dan Laravel
+- Membuat framework sendiri
+- Membuat aplikasi Sistem Informasi yang berguna dan bermanfaat untuk semua orang
