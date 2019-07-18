@@ -1,7 +1,7 @@
 Halo pak salam kenal pak saya enox dari riau..
 
 Resolusi : 
- - membuat web js framework js
+ - membuat web framework js
    - reactJs
    - nodeJs
  - belajar ui/ux design
