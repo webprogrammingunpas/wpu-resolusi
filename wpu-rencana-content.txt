@@ -16,6 +16,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^ vlog a day in the life of a web developer
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
@@ -28,10 +29,13 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ MongoDB
 - CSS
   * Framework CSS
     ^ Sass
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ React Native
+  ^ Flutter
 - Sertifikat SSL
