@@ -1,0 +1,3 @@
+Halo pak shandika, salam kenal nama saya angga dari bekasi. saya mahasiswa tingkat akhir. 
+Resolusi saya:
+-Menguasai react js, angular, vue, firebase, laravel, react native, flutter dan python
