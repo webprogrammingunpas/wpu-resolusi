@@ -34,4 +34,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  * Android Studio
+  * Design Pattern
+    ^ MVP
 - Sertifikat SSL
