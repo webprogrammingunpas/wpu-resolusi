@@ -1,0 +1,8 @@
+Halo pak Sandhika, salam kenal, saya mahasiswa ilmu komputer tinggal di Bandung sedang mendalami bidang web programming, channel bapak sangat membantu saya
+dalam mengembangkan minat saya di biang ini.
+
+Resolusi :
+  -Membuat website dengan framework php codeigniter
+  -Membuat frontend dari web apps
+  -Memahami Database
+  -Bangun Start Up Besar
