@@ -1,6 +1,4 @@
 Halo pak, salam kenal, nama saya Ahmad dari Balikpapan. 
 
 Resolusi Saya:
-- Membuat website menggunakan framework javascript.
-- Bekerja di start-up.
-- 
+- Membuat produk software berbasis web menggunakan framework php dan java.
