@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Algoritma Javascript
   * ES6
   * NodeJS
   * Framework Javascript
