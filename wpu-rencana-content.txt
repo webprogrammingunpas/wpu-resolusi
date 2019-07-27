@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+-Tolong terangkan alur flowchart dong pak sampai pada pengaplikasiannya di pemrograman, soalnya banyak pemula seperti saya yang langsung ngoding tapi belum paham alur ketika membuat flowchart. 
