@@ -6,7 +6,10 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+      * React Native
     ^ Angular
+      * Ionic
+      * Electron
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -32,6 +35,7 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+  ^ Cross Site
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
