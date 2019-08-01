@@ -1,0 +1,2 @@
+resolusi
+- Django x React
