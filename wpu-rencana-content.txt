@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
+      #Vuetify
     ^ React
     ^ Angular
   * Library Javascript
@@ -18,6 +19,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
