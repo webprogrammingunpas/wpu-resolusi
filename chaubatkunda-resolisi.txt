@@ -1,0 +1,8 @@
+Hallo Pak, Salam Kenal saya Chau Batkunda dari Maluku, saya Mahasiswa semester VI di Univ. Gajayana Malang/ berkat ilmu Bapak saya bisa kuliah sambil kerja di bidang web programing. dan saya belajar dari awal berkat tutorial yang diberikan dari yang tidak bisa menjadi bisa, dan sekarang saya ditugaskan untuk membuat project website yang diberikan dari tempat kerja saya, entah itu project baru atau upgrade project yg sudah ada.
+
+----Terima Kasih Pak----
+
+Resolusi saya :
+- saya pengen belajar memperdalam php/codeigniter dan Framework javascript
+
+- Framework CI dan Javascript dalam 1 web
