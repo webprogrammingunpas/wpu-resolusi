@@ -4,3 +4,5 @@ Hallo Pak, Salam Kenal saya Chau Batkunda dari Maluku, saya Mahasiswa semester V
 
 Resolusi saya :
 - saya pengen belajar memperdalam php/codeigniter dan Framework javascript
+
+- Framework CI dan Javascript dalam 1 web
