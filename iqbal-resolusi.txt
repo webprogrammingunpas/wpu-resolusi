@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya iqbal asal Bandung mahasiswa teknik informatika di salah satu universitas di Bandung
+
+Resolusi saya:
+- Bisa membuat website menggunakan Laravel
+- Membuat website E-Commerce
