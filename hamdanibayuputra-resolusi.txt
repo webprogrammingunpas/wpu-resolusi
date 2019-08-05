@@ -1,0 +1,5 @@
+Halo pak salam kenal nama saya Hamdani dari Pekanbaru
+
+resolusi saya : 
+  - membuat website dengan laravel dan vue.js
+  - ingin menjadi programmer
