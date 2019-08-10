@@ -1,0 +1,5 @@
+Hal pak, salam kenal nama saya rhamdani dari semarang
+
+Resolusi saya
+- Membuat website menggunakan fremwork php Laravel
+- Saya ingin membuat start-up
