@@ -11,4 +11,4 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
-- Python
+- Pythonj
