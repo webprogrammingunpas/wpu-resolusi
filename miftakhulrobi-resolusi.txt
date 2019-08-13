@@ -1,0 +1,7 @@
+Halo pak nama saya Miftakhul, Saya gk sekolah dan saya belajarnya otodidak, dan saya gk punya teman.. kalo ada error saya biasanya tanya ke grup fb atau ke grup telegram.
+sekarang saya sedang belajar laravel
+
+Saran saya membuat tutorial
+
+- package laravel filemanager di framework laravel,
+- beserta upload lfm nya ke hosting. karena blum ada tutorial upload package lfm ke hosting
