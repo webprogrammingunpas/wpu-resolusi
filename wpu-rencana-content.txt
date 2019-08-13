@@ -26,6 +26,7 @@ RENCANA KONTEN WPU
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
+  ^ Oracle
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
@@ -34,4 +35,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ React Native
 - Sertifikat SSL
