@@ -23,15 +23,16 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
-- Ruby on Rails
+- Ruby on Rails bikin pusing
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ SQL dan NoSQL hybrid
 - CSS
   * Framework CSS
     ^ Sass
-- Keamanan Website
+- Keamanan Website boleh deh
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
