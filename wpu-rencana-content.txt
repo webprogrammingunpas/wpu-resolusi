@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
-
+- C Programming
+- Bash Script
 - Javascript
   * ES6
   * NodeJS
