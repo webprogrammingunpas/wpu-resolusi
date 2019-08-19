@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Chandra Da Silva dari Maumere Flores NTT
+
+Resolusi saya:
+- Membuat tools/script menggunakan bash/shell di Linux
+- Membuat OS linux sendiri 
