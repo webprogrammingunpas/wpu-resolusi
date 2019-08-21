@@ -1,0 +1,8 @@
+Halo pak Sandhika, salam kenal nama saya Thoriq dari Tangerang Selatan
+saat ini saya masih Kuliah di Universitas Pamulang, dan saya mempunyai
+impian sebagai Master Web Dev.
+
+Resolusi Saya:
+- Membuat website dengan framework Javascipt React
+- Membuat Project dengan React
+- Membuat website dengan Framework PHP *Laravel
