@@ -16,6 +16,9 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  * Cerita keseharian programmer (bangun sampai tidur)
+  * Cara Pak Shandika bisa mengerti (belajar) banyak bahasa pemrograman
+  * Behind the scenes pembuatan video tutorial
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
