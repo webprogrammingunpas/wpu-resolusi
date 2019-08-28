@@ -1,0 +1,6 @@
+Halo pak, salam kenal. saya mahasiswa TI semester 5 dari medan 
+
+resolusi saya:
+-membuat website berita menggunakan framework laravel dan javascript
+-bekerja sebagai programmer
+-mempelajari dan handal dalam pemograman android dan web
