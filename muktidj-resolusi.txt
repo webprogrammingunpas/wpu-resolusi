@@ -7,7 +7,7 @@ Resolusi Saya kedepannya si :
 3. Buat Podcast ngobrolin tentang front end, back end yang terkait industri IT lah pokoknya
 4. Bisa buat blog pake static site generator menggunakan Gatsby
 5. Bisa menulis code yang bersih dan bisa dibaca oleh orang lain juga
-6. Bisa Upload foto bareng pemilik channel web programing unpas ckckck
+
 
 Semoga Channel Youtube Web Programing Unpas semakin maju ya pak, bisa jadi pusat belajar online gratis tapi berkualitas untuk 
 seluruh masyarakat Indonesia. ya kaya freeCodeCamp nya versi Indonesia hehe
