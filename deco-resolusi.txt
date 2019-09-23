@@ -1,0 +1,6 @@
+selamat siang salam kenal nama saya deco dari jakarta
+
+Resolusi saya:
+- bekerja sebagai programer di perushaan start up
+- membuat program dengan framework laravel
+- membuat tampilan front end dengan reactJS
