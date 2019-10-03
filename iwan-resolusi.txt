@@ -1,0 +1,6 @@
+Halo pak, nama saya iwan salam kenal dari Yogyakarta baru lulus kuliah
+Terimakasih sebelumnya berkat channel dari webprogramming unpas saya mendapatkan banyak ilmu khususnya di dunia pemograman web
+
+Resolusi:
+-membuat aplikasi web menggunakan framework CI dan Laravel
+-membuat aplikasi mobile menggunakan framework flutter
