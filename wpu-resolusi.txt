@@ -4,3 +4,5 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Membuat Materi tentang React,Vue,NodeJs
+- Membuat materi tentang Flutter,React Native
