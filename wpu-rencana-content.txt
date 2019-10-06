@@ -34,4 +34,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+ ^ Ionic base
 - Sertifikat SSL
+- Web Crawler
+- Web Scrapping
