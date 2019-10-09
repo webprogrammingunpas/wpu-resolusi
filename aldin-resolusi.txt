@@ -1,0 +1,6 @@
+Salam kenal pak sandhika saya Aldin dari Jakarta.
+Saya sedang belajar dari channel youtube pak sandhika :)
+
+Resoulisi:
+- Membuat fitur live chat pada website
+- Membuat file upload untuk gambar dapat di crop
