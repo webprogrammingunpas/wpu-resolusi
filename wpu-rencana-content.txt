@@ -31,6 +31,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    
+- Kotlin
+- Go lang
 - Keamanan Website
 - Odoo
 - Aplikasi android
