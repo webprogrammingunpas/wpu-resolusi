@@ -1,0 +1,16 @@
+Hai, pak Sandhika Galih.. Nama saya La Ode Muh. Farhan, saya adalah mahasiswa Informatika dari Jogja yang lulus pada tahun 2019 dari Universitas Islam Indonesia.
+Saat ini saya bekerja sebagai PHP Developer di CV Technopartner Indonesia
+
+Resolusi saya di tahun 2020-2022 adalah sebagai berikut:
+- Mendapatkan banyak pengalaman kerja 2 tahun di CV Technopartner Indonesia sebagai Web Developer
+- Mendapatkan banyak relasi dengan para programmer di Yogyakarta
+- Aktif mengikuti seminar IT dan artikel2 mengenai perkembangan teknologi terbaru
+- Aktif Belajar dan Mengerjakan Projek
+- Membuat blog sediri dengan Laravel serta Aktif Menulis di Blog tersebut
+- Menguasai setidaknya beberapa framework seperti Node js, React js, Laravel, CodeIgniter, Bootstrap
+- Menguasai beberapa bahasa pemrogramam seperti Python, Java, PHP, Javascript, GoLang, dan CSS
+- Menguasai GitHub, GIT, dan REST API
+- Memahami Arsitektur Serverless yang mulai sering digaungkan para pakar IT
+- Sambi" Belajar mengenai Machine Learning dan Data Science.
+
+Mungkin itu, saja.. terima kasih.
