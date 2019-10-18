@@ -1,0 +1,7 @@
+assalamualaikum hallo pak, nama saya irfan fauzi, bekerja di salah satu kantor di jakarta
+Resolusi saya kedepan :
+ - membuat website dengan menggunakan Ruby
+ - mempelajari struktur data
+ - paham cara kerja framework react dan react native
+ - paham cara kerja framework ruby on rails
+ 
