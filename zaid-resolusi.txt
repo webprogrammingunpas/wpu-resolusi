@@ -1,0 +1,7 @@
+Halo pak salam kenal, saya Zaid dari Ciamis. Saat ini saya baru beginner dibidang programming.
+Resolusi saya kedepannya :
+
+1. Menguasai OOP PHP, Javascript, NodeJS.
+2. Menguasai Web Security.
+3. Menguasai Android Programming
+4. Berkontribusi dalam komunitas Linux dalam mengembangkan distro-distro Linux.
