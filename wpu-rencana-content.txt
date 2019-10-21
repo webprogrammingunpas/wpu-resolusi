@@ -34,4 +34,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+ * Aplikasi Android dengan teknologi web (Javascript,HTML,CSS)
 - Sertifikat SSL
