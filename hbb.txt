@@ -1,0 +1,7 @@
+Hallo World, Salam kenal saya Hbb
+saat ini saya sedang belajar tentang git dan github
+
+Resolusi saya :
+ - menguasai git
+ - menguasai Node js
+ - menguasai React Native
