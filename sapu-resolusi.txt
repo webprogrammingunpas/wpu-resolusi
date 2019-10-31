@@ -1,0 +1,7 @@
+Salam pak, nama saya Rizky, baru mau mengenal lebih dalam mengenai Git dan Github. makasih atas video tutorialnya.
+semoga selalu konsisten membuat konten pembelajaran programming.
+
+Resolusi:
+  1. membuat website framework JS dan PHP
+  2. membuka toko buku dan kafe
+  3. menjadi professional system engineer
