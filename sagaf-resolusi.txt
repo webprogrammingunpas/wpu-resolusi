@@ -1,0 +1,5 @@
+Halo pak nama saya Sagaf Abdillah dari Jakarta
+
+Resolusi saya :
+- PHP Framework Codeigniter
+- Membangun website dengan jquery dan ajax
