@@ -4,3 +4,4 @@ Resolusi :
 - Belajar algoritma dan struktur data
 - OOP Javascript
 - MongoDB
+- React Native
