@@ -1,0 +1,7 @@
+Halo pak, salam kenal nama saya Esha dari Jakarta. Saya bekerja sebagai Security Analist di sebuah perusahaan di Jakarta. 
+Alasan saya ingin belajar pemrograman adalah agar saya setidaknya bisa membuat halaman web saya sendiri.
+Saya ingin menjadi seorang System Administrator, namun untuk menunjang hal tersebut, setidaknya saya harus paham tentang programming, oleh karena itu saya mulai dengan mempelajari web programming dari channel youtube web programming unpas.
+
+Resolusi saya:
+- Bisa membuat website dimanis dimana terdapat CMS didalamnya
+- Bisa membuat website dengan Framework Javascript
