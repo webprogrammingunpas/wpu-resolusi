@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya Farhan Apriliandi dari Banda Aceh
+
+Resolusi : 
+- Belajar algoritma dan struktur data
+- OOP Javascript
+- MongoDB
