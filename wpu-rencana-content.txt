@@ -34,4 +34,10 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ Android Studio
+  ^ Bahasa Pemrograman Java
 - Sertifikat SSL
+- Wordpress
+- integrated development environments (IDEs)
+  ^ PhpStorm
+- Materi marketing / SEO
