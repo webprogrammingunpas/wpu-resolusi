@@ -1,0 +1,5 @@
+hallo pak nama saya roni halim saputra
+saya mahasiswa 
+resolusi saya :
+belajar web dengan framework javascript
+belajar python web framework django,flask
