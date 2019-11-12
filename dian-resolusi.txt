@@ -1,0 +1,12 @@
+Selamat sore pak, salam kenal. Saya Dian dari Jakarta Utara.
+
+Berikut adalah beberapa resolusi saya (jangka pendek):
+1. Belajar ReactJS
+- ReactJS dan React Life Cycle
+- Router
+- Redux
+2. Belajar Design
+- CSS x SASS x SCSS
+- Material Design
+3. Belajar Git & GitHub
+4. Membuat CRUD sederhana dengan ReactJS
