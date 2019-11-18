@@ -1,0 +1,6 @@
+Halo pak, nama saya Fardin dari Banggai
+
+Resolusi saya :
+- membuat webisite travelling menggunkan bootstrap dengan efek parallax
+- menjadi Web developer 
+- menjadi Data Scientist 
