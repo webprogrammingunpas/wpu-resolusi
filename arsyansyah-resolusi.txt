@@ -1,0 +1,18 @@
+Assalamu'alaikum Wr.Wb., Pak.
+
+Saya Rizky, mahasiswa semester 3 Universitas Amikom Purwokerto.
+Alkhamdulillah saya bekerja di Perusahaan Software Developer, PT Sekawan Global Komunika.
+
+Saya mau request beberapa resolusi, boleh ? hehe
+Resolusi saya :
+- Menguasai Framework Mobile App
+  Harapannya, bisa mendevelop aplikasi mobile menggunakan React Native / Flutter.
+- Dapat memadukan / menduetkan 2 framework, yaitu Laravel dan Express-NodeJS.
+  Menurut saya, Express-NodeJS sebagai cocok sebagai frontend, karena kecepatan aksess & melempar datanya.
+  Sedangkan, Laravel sebagai backend, terutama API. Karena kecepatan pemrosesan data & databasenya.
+  
+Sekian masukan resolusi dari saya, ma'af kalo kebanyakan. Semoga Channel Web Programming UNPAS semakin jaya.. Aaaaamiiin
+
+Salam Coders, Jangan Lupa Titik Koma ;)
+
+Wassalamu'alaikum Wr.Wb.
