@@ -1,0 +1,6 @@
+Halo Pak, salam kenal, nama saya Deni
+
+Resolusi Saya:
+- membuat website dengan menggunkana framework React JS dan Angular JS
+- saya sudah bekerja dan saat ini ingin membuat portofolio terkait dengan front-end development
+- targetnya di akhir 2019, saya sudah bisa membuat website dengan salah satu framework di mana website tersebut sudah mengaplikasikan REST-API
