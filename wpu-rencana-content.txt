@@ -1,4 +1,4 @@
-RENCANA KONTEN WPU
+RENCANA KONTEN WPU :
 
 - Javascript
   * ES6
@@ -8,12 +8,13 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
   * Library Javascript
+    ^ JQuery
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel or Codeigniter
 - Interview
 - Vlogs
 - Python
@@ -27,10 +28,12 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysqli
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap
+    ^ Material
 - Keamanan Website
 - Odoo
 - Aplikasi android
