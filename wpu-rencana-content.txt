@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat aplikasi GUI dengan javascript
+  * Electron
+  * Proton native
+- Membuat PWA
