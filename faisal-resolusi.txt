@@ -1,0 +1,15 @@
+Hi, perkenalkan nama saya Faisal.
+Saya baru belajar Git & GitHub dari channel anda(Web Programming Unpas).
+
+Cita-cita dan Hal yang ingin saya capai, yaitu:
+  - Menciptakan sebuah website/software yang bermanfaat.
+  - Menguasai banyak bahasa pemrograman.
+  - Menjadi Full Stack Developer.
+  - Ingin membuat Start Up/Perusahaan sendiri.
+  
+Hal yang ingin dilakukan untuk kedepannya, yaitu:
+  - Mempelajari software desain seperti Photoshop, Adobe Ilustrator.
+  - Bisa menggunakan Git & GitHub untuk berkontribusi dengan orang lain.
+  - Mempelajari Framework Laravel.
+  
+Thank You, Sandhika Galih.
