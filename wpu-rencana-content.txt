@@ -17,7 +17,11 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ Python Fundamental
+  ^ Python OOP
   ^ Django
+  ^ Numpy & Matplotlib
+  ^ Tensoflow
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
