@@ -10,6 +10,7 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+  * Ngobar membuat website sederhana (CRUD) dengan Fullstack JS
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
