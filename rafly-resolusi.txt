@@ -1,0 +1,6 @@
+Halo pak,salam kenal nama saya rafly dari bandung saya mengikuti perkembangan youtube bapak karena penjelasan bapak mudak sekali dimengerti
+
+Resolusi Saya :
+- Tolong untuk membuat materi tentang website, tools, atau pun framework yang up to date / modern yang sedang dilirik orang perusahaan agar lebih bisa kompetitif
+- Dan juga tolong buat materi tentang GSAP/Greensock, Webpack, Sass, Babel, React, Angular, Vue, GraphQL, ES7, ES8, dan macam macam tools untuk membuat animasi dengan javascript dan juga Backend/Database seperti mySQL dan lain sebagainya
+- Ingin Bekerja Di Startup
