@@ -1,0 +1,23 @@
+Salam kenal pa trmksih sebelumnya untuk tutorialnya, saya Eki Indradi dari Cirebon,
+
+10-12-2019
+
+resolusi pribadi untuk yang saya akan pelajari selanjutnya adalah 
+- Frontend framework VUEJS, 
+- Nativescript VUE (mobile hybird), 
+- GIT CI/CD,
+- Continus Integration (Jenkins), 
+- Advanced monitor Nagios / Ichinga2 / Zabbix,
+- Advanced configuration Mikrotik,
+- Selenium, 
+- Ansible, 
+- Cloud Azure / AWS, 
+- Elastic Search, 
+- Apache Kafka /Rabbit MQ, 
+- GraphQL, 
+- Kubernetes,
+
+resolusi project kantor untuk dipelajari selanjutnya adalah 
+- Java Springboot 
+- Angular4
+- Loopback
