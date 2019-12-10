@@ -35,3 +35,9 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Continuous Integration and Continuous Delivery
+  * GIT CI/CD
+  * Jenkins
+  * CircleCI
+- Application Testing
+  * Selenium
