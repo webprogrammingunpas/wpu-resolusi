@@ -33,5 +33,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- cara menggunakan aplikasi android studio
 - Aplikasi android
 - Sertifikat SSL
