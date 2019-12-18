@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Database noSQL
+ * apa beda nya dengan RDBMS
+ * apa kah bisa menggantikan RDBMS
