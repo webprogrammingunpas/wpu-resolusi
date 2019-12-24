@@ -1,0 +1,6 @@
+Halo Pak, Salam kenal nama saya Alwiya dari Medan, Saya masih kuliah Semester 3
+
+Resolusi Saya :
+ - Lebih Kenal dengan JQuery
+ - Membuat website menggunakan Framework JavaScript(Node JS dan React JS)
+ - Berbagi Pelajaran tentang pemrograman Web
