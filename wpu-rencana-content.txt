@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Bahas Tentang algoritma untuk pemula yang tidak pernah belajar algoritma
