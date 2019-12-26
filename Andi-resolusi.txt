@@ -5,3 +5,7 @@ Pemprograman dasar seperti c++
 Jaringan komputer
 Mikrotik
 Cara cepat mejadi Pr0gr4mm3r yang profesional
+PHP
+Membuat website 
+Cisco
+Javascript 
