@@ -1,0 +1,4 @@
+Resolusi 2020
+- menguasai Javascript dan php
+- menguasai framework node js dan laravel
+- konsisten untuk terus belajar setiap harinya
