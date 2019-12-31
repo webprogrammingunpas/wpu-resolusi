@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+- rintangan menjadi programmer
 - Javascript
   * ES6
   * NodeJS
