@@ -37,3 +37,4 @@ RENCANA KONTEN WPU
 - Sertifikat SSL
 - Golang
 - Grails Framework
+- Flutter
