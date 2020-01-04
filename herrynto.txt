@@ -1,0 +1,10 @@
+Halo bang. Perkenalkan nama saya herry dari Depok
+
+Resolusi saya di tahun 2020 ini:
+- Membuat website dengan menggunakan framework Laravel
+- Belajar membuat tema website sendiri dengan menggunakan Coreldraw
+- Menguasai pemrograman PHP
+- Menguasai SQL Server
+- Membuat aplikasi peminjaman buku perpustakaan berbasis VB.NET dan Arduino uno
+
+Terima kasih sudah dibaca :)
