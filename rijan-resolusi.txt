@@ -1,0 +1,7 @@
+-hallo pak nama saya muhamad rijan alpalah, saya dari cianjur saat ini saya adalah mahasiswa di salah satu universitas di cianjur
+
+Resolusi Saya:
+-membuat website portfolio saya terlebih dahulu
+-ingin bisa json/database realtime
+-membagikan ilmu yang saya dapat dengan cara saya sendiri
+-membuat sebuah website yg bisa dijadikan sebuah startup dengan framework js
