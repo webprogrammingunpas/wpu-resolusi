@@ -34,4 +34,10 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  *java android
 - Sertifikat SSL
+- Java
+ *console
+- Spring boot
+  *crud web spring boot
+  *Rest Api spring boot
