@@ -1,0 +1,10 @@
+Hallo pak, nama saya Achmad Syahroni asal Surabaya.
+status saya sendiri saat inj masih pelajar smk kelas 3 (otomotif)
+
+resolusi saya;
+ -membuat website dengan framework Django atau Flask
+ -ingin bisa bekerja secara freelancer
+ -planning terakhir saya ingin membuat sebuah apps E-commerece
+ 
+semoga dengan saya mencatat resolusi diawal tahun ini, saya
+akan jauh lebih fokus dan konsisten dalam belajar pemrograman.
