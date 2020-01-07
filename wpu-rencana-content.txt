@@ -20,7 +20,7 @@ RENCANA KONTEN WPU
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
-- Membuat sistem blog (cms) lengkap
+- Membuat sistem blog dan ecommerce (cms) lengkap
   ^back end
   ^front end
 - Ruby on Rails
@@ -31,6 +31,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bulma
 - Keamanan Website
 - Odoo
 - Aplikasi android
