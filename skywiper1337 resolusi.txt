@@ -1,7 +1,0 @@
-Hallo pak, nama saya Achmad Syahroni asal Surabaya.
-status saya sendiri saat ini masih pelajar smk kelas 3 (otomotif)
-
-resolusi saya;
- -membuat website dengan framework Django dan Flask
- -bekerja secara freelancer
- -membuat sebuah apps E-commerece
