@@ -1,0 +1,14 @@
+Halo pak, salam kenal! Nama saya Skuy Ngoding!
+Saya masih kuliah semester 6 di salah satu universita di sumatera.
+ceritanya kampus kami tertinggal soal ngoding saya sebagai anak it baru sadar tentang coding pada tahun 2019 ini karena menemukan channel WPU.
+
+Resolusi saya :
+1. Menguasai PHP Native, Framework (CI, LARAVEL)
+2. Menguasai Python for WebDev (Django) dan Data Scientist
+3. Menguasai Javascript untuk Frontend
+4. Menyelasaikan Materi Fullstack Designer dengan baik
+
+Saya mengharapkan kepada bapak untuk membuatkan satu seri membangun sistem informasi yang dari 0 hingga lengkap. dengan fitur2 yang lengkap pada umumnya.
+sehingga, saya dan teman-teman diluar sana tau alur proses pembuatan sebuah website yang menggunakan bahasa pemrograman back and front.
+
+Kami mohon!!!
