@@ -27,7 +27,8 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Firebase
 - CSS
   * Framework CSS
     ^ Sass
@@ -35,3 +36,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- .NET / ASP.NET
+- Aplikasi Desktop
