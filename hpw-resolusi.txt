@@ -1,0 +1,5 @@
+Halo pak, nama saya hanif dari jaktim
+
+Resolusi saya:
+-Membuat website menggunakan framework javascript
+-bekerja di startup
