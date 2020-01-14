@@ -1,10 +1,8 @@
 saya irfan nurahman tinggal purwokerto , seorang mahasiswa Universitas Amikom Purwokerto semester 3
 
-harapan & tujuan
-> menjadi mobile Developmen
-> menjadi Beck End Developmen Web
-
 daftar resolusi saya
+> menjadi mobile Development
+> menjadi Beck End Development Web
 > belejar lagi Java OOP
 > belajar Tentang Database
 > belajar membuat rest API untuk android
