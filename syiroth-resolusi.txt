@@ -1,0 +1,5 @@
+resolusi saya
+- buat aplikas dengan laravel
+- belajar react js
+- belajar wordpress
+- nyoba hosting
