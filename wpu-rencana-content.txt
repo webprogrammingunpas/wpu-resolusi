@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  Framework Node.js
+  * Express dan membuat API.
   * Framework Javascript
     ^ Vue
     ^ React
