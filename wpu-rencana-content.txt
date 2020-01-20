@@ -11,6 +11,7 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+^ web gis
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
