@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Svelte
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -31,6 +32,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind Css
 - Keamanan Website
 - Odoo
 - Aplikasi android
