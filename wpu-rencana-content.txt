@@ -6,16 +6,10 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
-    ^ Angular
-  * Library Javascript
-    ^ Highcharts.js
-    ^ Numeral.js
-- Webpack
-- Struktur Data Dasar
+    ^ React native
 - PHP Frameworks
   ^ Laravel
-- Interview
-- Vlogs
+  ^ Cake PHP
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
