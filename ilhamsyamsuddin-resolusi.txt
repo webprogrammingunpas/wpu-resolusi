@@ -1,0 +1,6 @@
+Salam kenal pak, saya Ilham dari ITS, Surabaya. 
+Resolusi saya tahun 2020 ini:
+1. Belajar Network Programming dan kriptografi.
+2. Belajar Web programming dengan Laravel(kalau bisa laravel 6)
+3. Belajar Javascript dan node.js
+4. belajar Tensorflow
