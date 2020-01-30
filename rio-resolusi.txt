@@ -1,0 +1,8 @@
+Halo pak, salam kenal nama saya Rio dari Kupang. Saya Mahasiswa Ilmu Komputer semester 6 pak
+
+Resolusi saya kedepannya :
+- Membuat website menggunakan framework javascript 
+- Membuat website portfolio sendiri yang responsive
+- Belajar PWA
+- Menjadi programmer
+- Belajar Java terutama framework Spring / Grails
