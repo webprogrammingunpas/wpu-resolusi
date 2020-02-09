@@ -1,0 +1,6 @@
+Halo Pak salam kenal saya Rizki Hariyanto dari Tangerang Selatan.
+
+resolusi saya :
+- membuat website dengan framework jacascript.
+- membuat website yang sudah terintegrasi dengan adanya Database
+- bekerja di perusahaan startup di tahun 2020.
