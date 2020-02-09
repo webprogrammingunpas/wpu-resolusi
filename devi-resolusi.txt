@@ -1,0 +1,4 @@
+Hallo pak, saya Devi dari Palembang.
+Resolusi saya :
+- Membuat aplikasi web based dengan framework Laravel
+- Ingin bekerja di perusahaan startup seperti Tokopedia
