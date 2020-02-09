@@ -5,7 +5,7 @@
 - [ ] Membuat website pribadi dan upload ke hosting(menerapkan javascript lanjutan, git, BAM css konsep)
 ----
 ![downloads](https://img.shields.io/badge/Target%20Berikutnya-Menunggu-brightgreen)
-- [ ] Belajar SCSS
+- [ ] Belajar SASS
 - [ ] Belajar WORDPRESS
 - [ ] Mulai membuat theme wordpress
 ----
