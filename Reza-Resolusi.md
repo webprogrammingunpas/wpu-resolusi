@@ -1,4 +1,6 @@
 # Reza Resolusi
+Assalamualaikum pak, salam kenal nama saya Reza Sariful Fikri dari Bengkulu
+
 ![downloads](https://img.shields.io/badge/Target%202%20Bulan%20Kedepan-Sedang%20Berjalan-brightgreen)
 - [ ] Belajar git dan github
 - [ ] Belajar javascript lanjutan
@@ -42,3 +44,4 @@
 # Target di masa depan
 - Belajar Android Development
 - Belajar Microcontroller
+- Membuat Startup
