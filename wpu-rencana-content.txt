@@ -31,7 +31,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
-    ^ Boostrap
+    ^ Bootstrap
 - Keamanan Website
 - Odoo
 - Aplikasi android
