@@ -38,3 +38,4 @@ RENCANA KONTEN WPU
 - Sertifikat SSL
 - Pemrograman web menggunakan Java
 - Tips dan Trik memakai VScode
+- berkarir dalam dunia web development
