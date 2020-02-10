@@ -1,0 +1,10 @@
+Assalamualaikum pak, salam kenal saya Ahmad Sufyan Aziz dari jakarta selatan
+Saya mahasiswa IT Universitas Prof Dr Hamka (UHAMKA)
+
+Resolusi
+- Membuat website menggunakan React.js berikut dengan sistem testingnya
+- Membuat sebuah backend menggunakan node.js dan graphql
+
+Impian
+- Ingin menjadi seorang full stack programmer
+- Ingin bekerja di start-up (contoh: tokopedia, gojek dsb) maupun perusahaan besar (contoh: garuda indonesia, google dsb)
