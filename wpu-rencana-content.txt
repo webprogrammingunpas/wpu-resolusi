@@ -31,7 +31,10 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Boostrap
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Pemrograman web menggunakan Java
+- Tips dan Trik memakai VScode
