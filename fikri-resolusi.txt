@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Muhammad Fikri Gunawan dari Jakarta.
+
+Resolusi Saya :
+- Membuat website menggunakan ReactJS
+- Bekerja di start-up
