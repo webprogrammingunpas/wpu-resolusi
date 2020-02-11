@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya syairuzi dari kapuas
+
+Resolusi Saya :
+-Membuat website menggunakan Javascript
+-Membuat website menggunakan Laravel
+-Membuat Game Sederhana dengan Javascript
