@@ -14,10 +14,12 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ CI Expert
 - Interview
 - Vlogs
 - Python
   ^ Django
+  ^ materi tentang AI Python
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
