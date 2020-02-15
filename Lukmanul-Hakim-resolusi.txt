@@ -1,0 +1,7 @@
+Halo pak, salam kenal saya dari Jakarta.
+
+sebelumnya saya ucapkan terimakasih pak atas ilmunya yang telah diberikan sangat bermanfaat bagi semua orang termasuk saya hehe.
+saya dapat pekerjaan setahun yang lalu karena melihat tutorial dari bapak tentang restfull-API
+
+resolusi saya :
+- untuk paham dan mengerti sepenuhnya tentang git tidak hanya bisa pull push dan commit.
