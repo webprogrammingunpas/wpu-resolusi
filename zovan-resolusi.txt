@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Zovan dari Bandung. Saya lulusan sekolah smk jurusan RPL (Rekayasa Perangkat Lunak)
+
+Resolusi saya :
+ - Menguasai framework PHP dan JavaScript
+ - Membuat website menggunakan framework javascript
