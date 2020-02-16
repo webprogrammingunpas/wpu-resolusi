@@ -1,0 +1,6 @@
+Halo pak, nama saya Ridho, dari padang tinggal di jakarta.
+  resolusi saya di 2020:
+  *semakin mendalami pemrogramman web khususnya
+   back-end
+  *mendalami framwork laravel
+  *menyelesaikan project web pribadi 
