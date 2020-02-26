@@ -1,0 +1,6 @@
+Halo pak, salam kenal. Nama saya muhammad sanwani dari tangerang.
+saya selalu mengikuti video nya. terimakasih telah berbagi ilmunya pak.
+Resolusi saya :
+-membuat website dan aplikasi menggunakan framework ci dan laravel dengan berbagai macam jenis database ( mysql,mssql,firebase,oracle,dst)
+-bekerja sbg developer full stack
+
