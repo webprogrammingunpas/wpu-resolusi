@@ -36,4 +36,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Socket programming WITH Python
-- Pemrograman Cerdas
+- Pemrograman Komputasi Cerdas
