@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+-Video membuat website dari nol sampai login secara profesional dengan dibagi2 tugasnya untuk jalur front end dan back end dipisah , supaya orang yang ingin menjadi programmer profesional tau cara bekerja secara profesional.
