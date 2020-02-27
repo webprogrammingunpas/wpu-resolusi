@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Devon dari Palu, saya lulusan SMKN 3 PALU Jurusan RPL tahun 2019.
+
+Resolusi Saya:
+- Membuat website menggunakan framework Laravel
+- membuat aplikasi android sederhana dengan React native
+- mendalami node.js
