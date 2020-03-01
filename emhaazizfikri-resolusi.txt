@@ -1,0 +1,9 @@
+Halo pak, nama saya Emha Aziz Fikri dari Cirebon
+saya adalah seorang mahasiswa semester 6 di STMIK IKMI CIREBON
+
+Resolusi saya :
+- Mempelajari dasar- dasar javascript
+- Membuat website dengan javascript native
+- Mempelajari framework javascript
+- Membuat website menggunakan framework javascript
+- Mempelajari cara pembuatan mobile native aplication dengan javascriot
