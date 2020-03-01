@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ React Native
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
@@ -35,3 +36,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Ngoding bareng
+  ^Membuat search engine sederhana
+ - GraphQL
+ - Web Server
