@@ -1,0 +1,7 @@
+- Bahasa Pemrograman
+  ^ Javascript 
+  ^ Python
+ - Machine Learning
+ - Image Processing
+ - IoT
+ - Robotika
