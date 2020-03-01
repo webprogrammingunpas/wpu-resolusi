@@ -12,6 +12,13 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+  * Konsep Dasar Struktur Data
+    ^Stuktur data
+    ^Tipe data dan struktur data
+    ^Level abstraksi dari tipe data
+    ^Tipe data abstrak (ADT)
+    ^Elemen dan struktur data
+    ^Format ADT
 - PHP Frameworks
   ^ Laravel
 - Interview
