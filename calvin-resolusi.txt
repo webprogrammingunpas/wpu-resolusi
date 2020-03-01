@@ -1,7 +1,10 @@
-- Bahasa Pemrograman
+Halo pak, salam kenal nama saya calvin, mahasiswa jurusan teknik elektro
+Universitas Bangka Belitung
+
+Resolusi saya:
+- Belajar Bahasa Pemrograman
   ^ Javascript 
   ^ Python
- - Machine Learning
- - Image Processing
- - IoT
- - Robotika
+ - Belajar Machine Learning
+ - Belajar Image Processing
+ - Lebih mendalami Web Development
