@@ -1,0 +1,7 @@
+hallo pak, salam kenal. ijin memperkenalkan diri, nama saya eny, saya dari nganjuk. saat ini saya sedang berkuliah di jurusan manajemen informatika
+
+ini resolusi saya:
+-membuat web dengan framework CI
+-membuat web dengan framework laravel
+-bekerja di start-up
+-membangun dan mengembangkan start-up
