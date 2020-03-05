@@ -1,0 +1,5 @@
+Halo, perkenalkan saya Yoga dari Jatinangor
+
+Resolusi saya :
+- membuat aplikasi menggunakan php
+- wisuda tahun ini
