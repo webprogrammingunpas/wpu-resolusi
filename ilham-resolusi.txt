@@ -1,0 +1,9 @@
+Assalamualaikum warhmatullahi wabarakatuh, salam kenal pak dika nama saya Ilham Naufal Arbani saya mahasiswa dari jogja
+
+Resolusi saya :
+- Membuat website dengan ReactSs dan NodeJs
+- Membuat aplikasi android dengan React Native
+
+Impian saya :
+- Memndirikan kursus online dan software house
+- dapat membantu teman-teman yang ingin belajar programming
