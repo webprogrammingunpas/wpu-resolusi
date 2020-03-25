@@ -1,0 +1,11 @@
+halo pak, perkenalkan nama saya Yagrariksa dari Universitas Airlangga Surabaya
+
+resolusi saya :
+  - memahami javascript fundamental
+  - mampu menggunakan framework bootsrap
+  - mampu menggunakan salah satu framework javascript 
+    (karena saya masih belajar sehingga belum paham mengenai framework nya)
+  - mampu menggunakan github secara baik
+  - mampu menggunakan git di komputer lokal
+  - membuat website yang dapat diakses orang lain 
+    (masih nggatau caranya gimana,, apa bisa pake github ??)
