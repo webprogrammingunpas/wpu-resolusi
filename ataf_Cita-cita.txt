@@ -1,0 +1,12 @@
+Assalamualaikum semuanya, disini saya sedang belajar menggunakan Git dari bapak dosen sandika galih, saya disuruh pak sandika untuk menulis file baru di repositori ini, nah saya akan menambahkan cita-cita saya di tahun ini.
+
+Cita-cita Ku
+1. Lebih dekat dengan tuhan
+2. Belajar OOP CPP di channel kelas terbuka
+3. Belajar framework cocos2d-x untuk membuat game 2d
+4. Belajar Git
+
+itulah cita-cita ku saat ini saya ataf, saya pelajar terima kasih semuanya
+
+*/dibuat pada 27 Maret 2020 disaat dunia dilanda pandemi cofid-19*/
+*/ataf
