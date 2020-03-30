@@ -1,0 +1,7 @@
+Halo pak, salam kenal saya dari surabaya
+
+resolusi saya :
+- membuat website menggunakan django, laravel, react js, dan node js
+- belajar algoritma dan mengaplikasinnya
+- belajar data structur dan data analist
+- belajar postgresql
