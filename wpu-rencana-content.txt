@@ -16,10 +16,10 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^ Menghadiri event-event seputar dunia komputer 
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
