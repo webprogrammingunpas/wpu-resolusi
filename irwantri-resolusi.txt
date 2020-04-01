@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya irwan dari Depok
+
+resolusi saya : 
+- mahir menggunakan bahasa pemrograman python
+- mahir menggunakan Git
+- mahir menggunakan ansible
