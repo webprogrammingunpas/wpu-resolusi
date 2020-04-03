@@ -1,0 +1,5 @@
+Halo pak, salam kenal. 
+Saya Rachmad dari lampung, mahasiswa Universits Bandar Lampung jurusan TI Semester Akhir pak hehe
+
+Resolusi saya:
+- ingin membuat website di sekolah SMA menggunakan laravel
