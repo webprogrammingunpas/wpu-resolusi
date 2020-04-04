@@ -1,0 +1,8 @@
+Halo pak, nama saya Aditya Ricki Julianto dari Yogyakarta.
+Saya kuliah di Universitas Teknologi Yogyakarta.
+Saya mengambil jurusan Sistem Informasi(D3).
+
+Resolusi :
+- Saya ingin membuat website dengan menggunakan framework django
+- Saya ingin cepat lulus kuliah
+- Saya ingin bekerja di Google
