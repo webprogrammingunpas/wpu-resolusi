@@ -1,0 +1,18 @@
+Halo Pak, salam kenal nama saya Tedi Sanubari dari ciamis masih bekerja (rencana mau buat perusahaan sendiri hehe) (domisili di Bekasi Barat)
+
+**Resolusi Tahun 2020**:
+* Menguasai :
+     ^ HTML
+     ^ CSS
+     ^ Javascript
+     ^ PHP
+     ^ Database
+     ^ Node.js
+     ^ GIT
+     ^ API
+  *Menguasai Framework :
+     ^ Javascript : VUE.js
+     ^ PHP : Laravel
+     ^ Bootstrap
+  * Membuat website untuk bisnis saya
+  * Membuat perusahaan jasa pembuatan web & desain grafis
