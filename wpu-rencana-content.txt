@@ -28,9 +28,11 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ Materi input user dari website yang sudah di hosting beserta databasenya
 - CSS
   * Framework CSS
     ^ Sass
+- Otomasi pembayaran nomor VA
 - Keamanan Website
 - Odoo
 - Aplikasi android

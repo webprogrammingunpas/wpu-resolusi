@@ -1,0 +1,6 @@
+Resolusi Saya :
+- Mempelajari Laravel
+- Mempelajari salah satu framework javascript
+- Belajar menjadi fullstack developer
+- Membuat website onlineshop (bagian user dan admin)
+- Menjadi website developer yang handal
