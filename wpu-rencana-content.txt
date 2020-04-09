@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
-
+- PHP
+* Belajar Membuat situs jejaring sosial
+* Belajar Memasang iklan pada website agar Rapi
 - Javascript
   * ES6
   * NodeJS
@@ -18,8 +20,11 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Belajar membuat Artificial Intelegence (AI)
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
+- Materi Artificial Intelegence (AI)
+- Materi membuat Situs Jejaring Sosial
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
@@ -27,7 +32,10 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Solusi MysQl error dan tidak bisa dibuka
+  ^ Solusi tidak bisa masuk localhost PHPmyadmin
+  
 - CSS
   * Framework CSS
     ^ Sass
