@@ -24,6 +24,8 @@ RENCANA KONTEN WPU
   ^back end
   ^front end
 - Ruby on Rails
+- Node.js
+- Kotlin
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
