@@ -1,4 +1,4 @@
 Halo mas sandika. perkenalkan sy guru SMK. 
 
-usul konten di wpu:
-- "mengawinkan" Laravel dan vue.js (sy pernah coba, tapi kode tempelate engine BLADE tabrakan dengan vue)
+Resolusi saya:
+- "mengawinkan" Laravel dan vue.js
