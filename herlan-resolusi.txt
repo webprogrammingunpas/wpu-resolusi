@@ -1,0 +1,6 @@
+halo nama saya herlan dari makassar
+
+resolusi saya
+  - mempelajari framework laravel
+  - mempelajari framework vue
+  
