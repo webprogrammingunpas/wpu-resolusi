@@ -1,0 +1,11 @@
+Assalamualaikum wr wb, Halo pak salam kenal. Saya Bagia mahasiswa dari Sekolah Tinggi Teknologi Bandung jurusan Teknik Informatika
+
+Resolusi saya :
+- Mempelajari Pemrograman Web
+  ^ Java Script
+    * Angular
+    * Vue
+    * React
+  ^ PHP
+    * Laravel
+    * CodeIgniter
