@@ -1,0 +1,7 @@
+Halo Pak, salam kenal nama saya Harli dari Depok
+
+Resolusi saya :
+- Mempelajari HTML, CSS dan Javascript
+- Mempelajari Node.js
+- Mempelajari React.js
+- Mempelajari React Native
