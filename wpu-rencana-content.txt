@@ -1,12 +1,13 @@
 RENCANA KONTEN WPU
-
+- Materi Perancangan Sistem Informasi
+  * Arus data Informasi dalam Sistem
+  * Arus sistem setelah komputerisasi 
+  * Pembuatan DFD dab ERD untuk setiap event 
 - Javascript
   * ES6
   * NodeJS
   * Framework Javascript
     ^ Vue
-    ^ React
-    ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -16,8 +17,6 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
-- Python
-  ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
