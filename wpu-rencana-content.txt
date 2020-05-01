@@ -34,4 +34,6 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+- UI & UX
+- PWA : Progressive Web Apps
 - Sertifikat SSL
