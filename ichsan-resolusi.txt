@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Ichsan dari Bandung
+
+Resolusi saya:
+- Membuat website marketplace dengan Vue
+- Lulus kuliah cepat
