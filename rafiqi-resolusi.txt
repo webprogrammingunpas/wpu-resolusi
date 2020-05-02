@@ -1,0 +1,6 @@
+Assalamu'alaikum pak salam kenal saya Rafiqi dari Bekasi Utara. Saya masih pelajar, dan bersekolah di SMKN 1 KOTA BEKASI
+
+Resolusi saya:
+- Membuat website menggunakan framework Laravel
+- Membuat RIA menggunakan JavaFX
+- Bisa menggunakan ReactJS
