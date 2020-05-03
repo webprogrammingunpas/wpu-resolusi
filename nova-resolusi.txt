@@ -1,0 +1,7 @@
+Halo pak, salam kenal Saya Nova Dwi Sapta Nain Seven dari Samarinda
+
+Resolusi Saya :
+1. Membuat website menggunakan framework php dan javascript
+2. Mengerti tentang git dan github
+3. Mengerti tentang Rest API
+4. Bekerja di perusahaan sebagai programmer web backend.
