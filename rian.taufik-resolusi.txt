@@ -1,0 +1,6 @@
+Halo Pak Sandhika Galih. Nama saya Rian Taufik Permana, saya baru belajar menggunakan Github, salam kenal. 
+Terima kasih atas ilmu yang diberikan.
+Adapun resolusi saya:
+- Menguasai HTML, CSS, dan Javascript
+- Menguasai MySQL
+- Menguasai cara deploy website yang sudah dibuat
