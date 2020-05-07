@@ -1,0 +1,13 @@
+Salam kenal pak Sandika (titik-koma) nama saya Andi Irham, Mahasiswa dari Kota Padang, Sumatera Barat 
+
+Resolusi :
+- Membuat website menggunakan framework Laravel
+- Membuat website menggunakan framework javascript
+- Bisa bekerja di sektor Front-End atau Backend
+- Bisa programming dengan basis REST API
+- Saya ingin belajar banyak dari pak dika agar tidak kelupaan titik koma. 
+
+Impian saya adalah :
+- Menjadi Programmer yang bisa menciptakan aplikasi yang dapat bermanfaat bagi kesejahteraan hidup masyarakat Indonesia
+- Ingin membagi ilmu saya tentang pemerograman, dan menciptakan komunitas lokal yang mampu mengembangkan sumber daya manusia yang baik
+  dan tentunya dengan bujet yang minim. 
