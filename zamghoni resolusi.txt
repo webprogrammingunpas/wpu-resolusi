@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Zamghoni dari Tegal
+
+Resolusi Saya:
+- Membuat website menggunakan framework Codeigniter 
+- Membuat website menggunakan framework Javascript
+- Membangun start-up sendiri 
