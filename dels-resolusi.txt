@@ -1,0 +1,7 @@
+Hallo kak saya Adel dari Tangsel
+
+Resolusi saya:
+- berhasil membuat website dengan html, css dan js hingga online
+- berhasil membuat website dengan framework laravel hingga online
+- bisa nembus jurnalnya ke jurnal internasional
+- bisa menguasai phyton
