@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Web Component
   * ES6
   * NodeJS
   * Framework Javascript
