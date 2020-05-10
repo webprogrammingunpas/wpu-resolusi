@@ -1,0 +1,14 @@
+Halo pak sandhika, salam kenal
+Nama saya Aiman, saya dari jakarta sekarang sedang berkuliah dan sedang memasuki masa 
+internship di salah satu perusahaan start-up di jakarta
+
+terima kasih banyak untuk pembelajaran yang bapak berikan, saya cukup puas dengan series yang pak sandhika buat ini.
+resolusi saya untuk bulan Mei 2020 ini :
+- bisa menggunakan git & github dengan lancar
+- bisa menguasai teknik Web Scraping dengan bahasa Python
+- bisa menguasai Django Framework
+
+saya berharap bapak membuat konten baru terkait python seperti django framework
+dan web scraping menggunakan python.
+
+terima kasih pak :)
