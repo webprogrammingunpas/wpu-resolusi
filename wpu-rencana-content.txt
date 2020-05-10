@@ -31,6 +31,8 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+  * Responsive Design
+  * Ngobar membuat web responsive
 - Keamanan Website
 - Odoo
 - Aplikasi android
