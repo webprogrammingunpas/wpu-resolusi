@@ -1,6 +1,5 @@
-WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+WPU RESOLUSI:
+
+- Konsisten untuk belajar web programming unpas
+- mempelajari hal baru setiap hari
+- menonton video wpu mengenai web programming setiap hari
