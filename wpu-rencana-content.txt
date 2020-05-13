@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Svelte
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -18,6 +19,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
@@ -26,11 +28,12 @@ RENCANA KONTEN WPU
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
-  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
+  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite, Oracle
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap 4
 - Keamanan Website
 - Odoo
 - Aplikasi android
