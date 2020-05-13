@@ -1,0 +1,6 @@
+Halo Pak, salam kenal nama saya vicky dari jogja, saya seorang mahasiswa di jogja jurusan Informatika
+
+Resolusi saya  :
+- Tuturial full Framework javascript, dan bootstrap
+- Membuat satu website secara lengkap mulai dari dasar sampai ke hosting
+-  Saya ingin membuat sebuah start up
