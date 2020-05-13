@@ -3,14 +3,18 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * DenoJS
   * Framework Javascript
     ^ Vue
+    ^ Nuxtjs
     ^ React
+    ^ Nextjs
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+- Redux
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
