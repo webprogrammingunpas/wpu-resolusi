@@ -1,0 +1,6 @@
+Halo Pak Salam Kenal, Nama saya Bambang Gunawan dari Malang.
+
+Resolusi Saya :
+- Membuat website menggunakan Framework Vue
+- Membuat website menggunakan Framework Laravel
+Saya ingin membuat Website Pribadi menggunakan Kombinasi LaraVue
