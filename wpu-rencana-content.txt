@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * MEAN (MongoDb, Express, Angular, Node.js)
   * Framework Javascript
     ^ Vue
     ^ React
@@ -18,6 +19,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+- Kotlin
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap

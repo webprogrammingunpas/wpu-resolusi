@@ -1,0 +1,6 @@
+Halo, nama saya Margaretha dari Medan
+
+Resolusi saya :
+- Membuat chatbot untuk whatsapp dan line
+- Tuntas mempelajari python
+- Tuntas mempelajari Code Igniter
