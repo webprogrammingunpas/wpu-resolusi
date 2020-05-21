@@ -25,7 +25,7 @@ RENCANA KONTEN WPU
   ^front end
 - Ruby on Rails
 - Database
-  ^ NoSQL MongoDB
+  ^ NoSQL, MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
@@ -34,4 +34,6 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
-- Sertifikat SSL
+- Sertifikat SSL6
+- Materi untuk menjadi seorang fullstack development
+- Cara belajar programming ala Pak Sandhika Galih
