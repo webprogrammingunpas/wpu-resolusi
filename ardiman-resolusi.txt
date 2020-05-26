@@ -1,0 +1,6 @@
+HALO PAK, SALAM KENAL NAMA SAYA ARDIMAN SAYA DARI SULAWESI TENGGARA
+
+Resolusi Saya:
+- ingin memahami konsep dan mengimplementasikan machine learning
+- membuat website dengan framework python
+- membuat gui dengan python
