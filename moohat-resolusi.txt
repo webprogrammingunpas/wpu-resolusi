@@ -1,0 +1,11 @@
+salam kenal pak Dika nama saya Taufik saya dari Bogor 
+
+Resolusi saya:
+-Membuat Aplikasi dengan react native
+-publish apk built by react native ke playstore 
+-menjadi mobile developer expert
+
+Impian saya adalah :
+-Menjadi programmer yang dapat bermanfaat bagi orang banyak
+-Ingin membagi ilmu saya tentang pemerograman khusus nya di bidang pemerograman mobile
+- menjadi profesional remote worker as programmer
