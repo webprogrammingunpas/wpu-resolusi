@@ -1,0 +1,5 @@
+halo pak, salam kenal saya aldy dari Bandung :
+
+Resolusi saya:
+- membuat frontend website menggunakan reactjs 
+- membuat backend untuk website menggunakan javascript
