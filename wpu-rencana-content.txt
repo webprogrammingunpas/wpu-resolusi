@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Typescript
+  * Deno
   * ES6
   * NodeJS
   * Framework Javascript
@@ -29,9 +31,8 @@ RENCANA KONTEN WPU
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
-  * Framework CSS
-    ^ Sass
+  * CSS Preprocessor
+    ^ Sass/scss
 - Keamanan Website
 - Odoo
-- Aplikasi android
-- Sertifikat SSL
+- Progressive Web Apps
