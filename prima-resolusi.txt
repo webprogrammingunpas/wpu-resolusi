@@ -1,0 +1,22 @@
+Saya Prima dari ILKOM USU
+Berikut adalah resolusi saya
+
+Front End
+-HTML CSS
+  *Bootstrap
+-JS
+  *Jquery
+  *React
+-Git and Github
+
+Back End
+-PHP
+  *Code Igniter
+-Node
+  *Express
+-Database
+  *MySQL
+  *Mongo DB
+  
+Create Single Page Aplication
+Create Portofolio Page
