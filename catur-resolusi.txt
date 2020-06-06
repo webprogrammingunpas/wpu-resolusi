@@ -1,0 +1,5 @@
+Halo Pak, salam kenal. Nama saya Catur dari Kota Bekasi.
+
+Resolusi saya:
+- Membuat website dengan framework javascript
+- Bekerja di startup
