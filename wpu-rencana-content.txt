@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+-memaparkan perbedaan programming dalam windows,linux,dan mac 
