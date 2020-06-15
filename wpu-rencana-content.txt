@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ React Native
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -14,6 +15,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Code Igniter
 - Interview
 - Vlogs
 - Python
@@ -31,7 +33,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Custom template Wordpress
