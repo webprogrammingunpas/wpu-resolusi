@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Bootstrap 4
+  ^ membuat PARALLAX EFFECT lagi tetapi di Bootstrap 4.
+ 
