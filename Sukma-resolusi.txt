@@ -1,0 +1,6 @@
+Salam kenal nama saya sukma dari bandug
+
+Resolusi saya :
+-Membuat website menggunakan framework laravel
+-Ingin membuat web saya sendiri
+-Ingin mempunyai hosting sendiri
