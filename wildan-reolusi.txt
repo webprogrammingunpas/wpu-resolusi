@@ -1,0 +1,5 @@
+assalamualaikum ,nama saya izza wildan ridhoni
+
+resolusi saya :
+-membuat website menggunakan laravel 7
+-membuat website portofolio
