@@ -1,0 +1,11 @@
+Halo pak Sandhika,salam kenal nama saya Aditya Raka dari Medan,Sumatera Utara. Saya masih seorang mahasiswa di salah satu kampus di Medan yang bernama STMIK MIKROSKIL
+Resolusi saya untuk kedepan adalah :
+- Membuat banyak website dengan menggunakan HTML,CSS,Javascript pada bagian front-end dan menggunakan node-js/php pada bagian back-end/server.
+- Menguasai framework PHP seperti Laravel dan CodeIgniter
+- Untuk kedepannya saya akan tertarik untuk belajar beberapa framework Javascript seperti VueJs,ReactJS dan Angular.
+- Sambil mendalami pemrograman web saya juga mendalami pemrograman mobile seperti kotlin dan flutter
+
+Impian saya di masa depan :
+- Membagikan Ilmu yang saya punya kepada generasi bangsa Indonesia.
+- Bekerja di perusahaan Google.
+- Ikut serta dalam membangun pencapaian Indonesia dalam bidang teknologi dan pengetahuan.
