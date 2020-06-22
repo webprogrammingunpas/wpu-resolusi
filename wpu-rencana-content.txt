@@ -31,7 +31,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ TailWind
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Tutorial Belajar PWA
