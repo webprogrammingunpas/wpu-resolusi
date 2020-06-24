@@ -18,20 +18,13 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
-- Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
-- Ruby on Rails
-- Database
-  ^ NoSQL MongoDB
-  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
     ^ Sass
-- Keamanan Website
-- Odoo
 - Aplikasi android
+  * Framework javascript
+    ^ React Native
 - Sertifikat SSL
