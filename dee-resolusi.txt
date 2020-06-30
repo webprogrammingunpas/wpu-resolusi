@@ -1,0 +1,5 @@
+Halo pak Sandhika
+
+Resolusi saya
+1. Membuat Web dari dg framework CI dan Laravel
+2. membuat aplikasi Mobile Programming dg algoritma optimasi yg terintegrasi dg webnya
