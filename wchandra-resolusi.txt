@@ -1,0 +1,4 @@
+Resolusi :
+- Belajar HTML,CSS,Bootstrap,JavaScript,JQuery
+- Belajar PHP,Laravel, dan CodeIgniter
+- Belajar Git, GitHub, dan NodeJS 
