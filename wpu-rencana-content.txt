@@ -37,3 +37,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Implementasi Algoritma, Misalnya algoritma TOP dan Apriori dalam pemrograman database
+- Mobile Programming
