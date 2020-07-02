@@ -1,0 +1,5 @@
+Hallo pak, Salam Kenal nama saya Aulia dari Depok
+
+Resolusi Saya :
+-Membuat Website menggunakan Framework Laravel
+-Bekerja di Start-up
