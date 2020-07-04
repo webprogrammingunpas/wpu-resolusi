@@ -1,0 +1,7 @@
+Hai pak, salam kenal nama saya Fendy dari Tangerang
+Saya merupakan seorang mahasiswa
+
+Resolusi saya :
+ - Bisa membuat website dengan framework Laravel
+ - Ingin bisa berkarier sebagai full stack web developer
+ - 
