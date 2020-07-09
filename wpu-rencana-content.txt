@@ -6,6 +6,8 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+      - React-Redux (juga perbedaan redux dgn react redux)
+      - React-Bootrap (juga perbedaan bootstrap dgn react-bootrap)
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
@@ -35,3 +37,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Deployment & Hosting (Heroku)
