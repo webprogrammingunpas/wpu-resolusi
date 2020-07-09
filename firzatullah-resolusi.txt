@@ -9,3 +9,5 @@ Saya Firza, adapun resolusi saya adalah,
   4. Hal lain yang menarik untuk dipelajari dan dikuasai:
     a. Node JS + Express JS / PHP + Laravel
     b. React Native / Flutter
+    c. Database (MongoDB/MySQL)
+    d. Deployment, Hosting
