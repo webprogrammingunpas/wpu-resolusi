@@ -1,0 +1,6 @@
+Salam kenal, nama saya Muhammad Aprian dari Bandung.
+
+Resolusi Saya:
+- Membuat tools/automation untuk mempermudah kegiatan penetration testing menggunakan bahasa Go
+- Berkontribusi pada program open source
+- Bekerja menjadi IT Security Engineer
