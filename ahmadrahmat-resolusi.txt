@@ -1,0 +1,9 @@
+Assalamu'alaikum,
+Salam kenal nama saya Rahmat Ahmad dari Gorontalo.
+Saya sedang bekerja di sebuah UPT di salah satu Kampus di Gorontalo.
+
+Resolusi Saya Tahun ini :
+- Memperdalam ilmu tentang Front End Developer
+- Mempelajari framework Javascript (Vue Js)
+- Menguasai Vue Js sampai membuat sebuah website
+- Implementasi Clean Code terhadap website yang dibuat
