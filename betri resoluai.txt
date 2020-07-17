@@ -1,0 +1,3 @@
+hallo pak, perkenalkan nama saya betri saya dari Pontianak.
+resolusi:
+  - konsisten belajar programming
