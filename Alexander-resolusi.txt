@@ -1,0 +1,10 @@
+Salam kenal, saya Alexander Leonardo dari Jakarta, saat ini semester 6 di UNTAR
+
+Resolusi:
+-Menguasai github
+-Menguasai JS Framework React dan Angular
+-Menguasai JS Framwwork for mobile seperti React Native, Ionic , dan Flutter
+-Menguasai Native Android dan Native IOS
+-Menguasai Backend development (REST dan GraphQL)
+-Menguasai Docker - Kubernetes
+-Bekerja di startup
