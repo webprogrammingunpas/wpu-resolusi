@@ -1,0 +1,4 @@
+Halo pak. Saya mitha, mahasiswa dari Surabaya
+
+Resolusi saya,
+- Mengetahui cara clone file github ke git
