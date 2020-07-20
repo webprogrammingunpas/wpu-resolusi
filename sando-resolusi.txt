@@ -1,0 +1,5 @@
+Halo nama saya Sando. salam kenal
+
+Resolusi-saya :
+- menerapkan Git server di local network
+- migrasi project ke Git Server tersebut
