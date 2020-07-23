@@ -1,0 +1,7 @@
+Salam kenal Pak Dika,
+perkenalkan saya Fudzer M Huda, seorang mahasiswa dari Jogja.
+
+Resolusi saya dalam pemrograman web adalah:
+- Memahami basic HTML, CSS, dan JS
+- Menyelam ke dalam CodeIgniter untuk menuju Laravel (Dasar PHP, OOP, MVC)
+- Terjun ke Dunia Fullstack JavaScript
