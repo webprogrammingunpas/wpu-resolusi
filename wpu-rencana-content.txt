@@ -16,6 +16,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^ Dunia pendidikan versus dunia kerja
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
