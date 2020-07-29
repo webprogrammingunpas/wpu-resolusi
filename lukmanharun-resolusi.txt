@@ -1,0 +1,7 @@
+Halo pak nama saya  Lukman harun Dari tangerang kota
+
+resolusi 
+- membuat website dengan framework javascript
+- belajar sveltejs
+- belajar node js
+- belajar laravel
