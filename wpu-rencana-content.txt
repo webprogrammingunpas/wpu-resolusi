@@ -27,11 +27,14 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Oracle
 - CSS
   * Framework CSS
     ^ Sass
 - Keamanan Website
 - Odoo
 - Aplikasi android
+ ^ Kotlin
+ ^ Dart
 - Sertifikat SSL
