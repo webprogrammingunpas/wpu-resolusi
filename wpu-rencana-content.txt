@@ -14,6 +14,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ slim atau yii framework
 - Interview
 - Vlogs
 - Python
@@ -32,6 +33,7 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+- tutorial webiste dengan php tentang pembayaran beserta simulasi pembayaran melalui atm. cara tradisonal atau dengan virtual account
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
