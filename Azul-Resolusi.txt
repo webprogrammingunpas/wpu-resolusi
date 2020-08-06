@@ -1,0 +1,11 @@
+Halo Pak Sandhika, salam kenal nama saya azul saya dari tangerang. 
+
+Resolusi :
+- Membuat website menggunakan js dan menggunakan framework js
+- saya ingin menjadi front end developer
+
+Request konten :
+- Saya ingin pak sandhika memperbanyak lagi ngobar yang mengimplementasikan desain dari adobe xd ke bahasa pemrograman, kalau bisa menggunakan bahasa pemrograman javascript supaya saya dapat mencoba dan sekalian belajar menggunakan javascript
+
+Terima Kasih
+*Saya sedang mengikuti tutorial github #4 mengenai fork
