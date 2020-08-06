@@ -10,6 +10,7 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+    ^ Chart.js
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
@@ -35,3 +36,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Nginx Web Server
