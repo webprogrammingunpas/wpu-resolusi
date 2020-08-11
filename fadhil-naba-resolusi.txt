@@ -1,0 +1,6 @@
+Halo Pak, Nama saya Fadhil dari Indramayu
+
+Resolusi saya:
+- Memahami Git dan Github
+- Membuat website profile
+- Terlibat dalam suatu project sederhana di github
