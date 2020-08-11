@@ -32,6 +32,9 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+ > Login Website
+ > Pencegahan Penyerangan Website
 - Odoo
 - Aplikasi android
+ > Kotlin
 - Sertifikat SSL
