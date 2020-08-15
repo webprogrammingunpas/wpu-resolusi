@@ -1,0 +1,4 @@
+Assalamaualaikum pak, salam kenal saya dari Bangkalan Madura
+
+Resolusi :
+- Membuat website backend mengguanakan python
