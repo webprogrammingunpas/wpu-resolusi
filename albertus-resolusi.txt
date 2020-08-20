@@ -1,0 +1,13 @@
+Salam kenal, saya Albertus Kevin dari Bandung
+Resolusi:
+-update project portfolio 1: sosial media
+-membuat project portfolio 2: E-Commerce B2C
+-Menggiatkan blog pribadi vin-albertus.blogspot.com
+-Mengurus project podcast: APRJ Talk
+-Mengurus project podcast: IEC IF
+-Mengurus blog IEC IF
+-Menyelesaikan Roadmap Backend:
+  >Version Control
+  >NoSQL database
+  >Memperdalam Relational Database
+-Mempelajari Framework Adonis JS, React JS, Express JS
