@@ -1,0 +1,6 @@
+
+Halo pak, Salam kenal nama saya Sigit dari Tambun
+
+Resolusi Saya:
+- Membuat toko online menggunakan framework javascript
+- Melatih UMKM untuk Menjual produknya secara online 
