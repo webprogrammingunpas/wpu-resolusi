@@ -1,0 +1,5 @@
+Assalamualaikum pak, perkenalkan nama isla dari Mamuju utara (pasangkayu)
+Resolusi saya :
+- Membuat Aplikasi android menggunakan Flutter
+- Mampu bekerja dengan database Firebase dan MySql dengan baik
+- mengembangkan starup saya disektor kebutuhan bahan rumah tangga, memiliki fitur aplikasi delivery Kota Palu (www.Torufarm.com)
