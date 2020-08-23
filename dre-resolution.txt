@@ -1,0 +1,10 @@
+Hello, sir! Greeting, my name is Andreas and I'm from State University of Medan
+
+My resolution:
+1. Keep spirit to learn about programming language especially PHP
+2. Join the PHP community
+3. Learning about PHP frameworks: CI 4 and Laravel
+4. Graduating from my college
+5. Looking for work experience at start up company
+6. I wanna be a professional programmer
+7. ...
