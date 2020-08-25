@@ -19,7 +19,7 @@ RENCANA KONTEN WPU
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
+  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Design Patterns OOP
+- Clean Code dan Refactoring
+- Design Principles
+  * SOLID Principles
