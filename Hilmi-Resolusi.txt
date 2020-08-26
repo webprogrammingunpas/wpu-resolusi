@@ -1,0 +1,4 @@
+Halo pak saya Hilmi Adzin Dari Brebes Salam kenal berikut adalah resolusi saya :
+ - Konsisten Dalam Belajar Web Programming 
+ - Mempelajari Framwork CodeIgniter dan Laravel
+ - Membuat Platform belajar dimana setiap orang bisa aktif berdiskusi
