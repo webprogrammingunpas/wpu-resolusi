@@ -3,7 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
-  * Framework Javascript
+  * Framework Javascript 
     ^ Vue
     ^ React
     ^ Angular
@@ -30,6 +30,9 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
+    ^ Bootstrap CSS
+    ^ Tailwind CSS
+   * CSS Preprocessor
     ^ Sass
 - Keamanan Website
 - Odoo
