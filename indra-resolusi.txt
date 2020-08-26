@@ -1,0 +1,5 @@
+Halo pak Sandika, salam kenal nama saya Indra dari Batang
+
+Resolusi Saya:
+ - Membuat website menggunakan framework javascript
+ - Bekerja di startup
