@@ -1,0 +1,6 @@
+Halo pak, saya Achmad Fajar dari Garut
+
+Resolusi Achmad Fajar
+- Project Laravel + Vue js
+  * Membuat aplikasi penjualan sederhana berbasis web (latihan)
+  * Membuat website portofolio
