@@ -1,0 +1,7 @@
+Halo pak, nama saya mugif dari bandung
+
+Resolusi saya:
+- Membuat website menggunakan framework php codeigniter
+- Membuat website menggunakan framework javascript
+- Mengubah gaya hidup menjadi lebih sehat
+- Bekerja di start-up / PNS
