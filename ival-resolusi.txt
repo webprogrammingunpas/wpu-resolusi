@@ -1,0 +1,5 @@
+Halo Nam , Saya Ival Dari Jakarta
+
+Resolusi Saya Buat Youtubenya :
+1.Membuat  Tourial MongoDB
+2. Membuat Torurial CI/CD
