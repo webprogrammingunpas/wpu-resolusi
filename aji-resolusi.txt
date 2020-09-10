@@ -1,0 +1,12 @@
+Halo pak, salam kenal dari tangerang
+
+resolusi saya bulan ini:
+- Bisa mendalami lagi mengenai javascript
+- Bisa membuat web informasi yang sudah bisa di akses melalu search engine
+
+Request content pak mengenai:
+web component
+Pwa
+dan node.js
+
+sekian terima kasih atas ilmunya pak
