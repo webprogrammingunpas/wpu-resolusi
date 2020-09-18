@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Fatah dari Jakarta
+Student, 17th, SMK Jurusan Rekayasa Perangkat Lunak
+
+Resolusi saya :
+- Membuat website menggunakan Framework Javascript (React)
+- Bekerja di start-up
