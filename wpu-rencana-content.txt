@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- PWA
+- Tips Belajar Web Programming dari dokumentasi/sumber yang tidak berbiaya
+- Study Kasus Tampilan Website (Mulai dari yang termudah HTML,CSS)
