@@ -1,0 +1,9 @@
+Halo pak sandhika , saya Rizqy Eka Putra dari Aceh
+
+Resolusi saya untuk tahun ini : 
+
+- Mengembangkan platform kursus online saya bersama tim yang bernama Cidra.id
+- Semoga dapat mengajak bapak berkolaborasi dalam mengembangkan pendidikan kompetensi dasar di Indonesia,
+  dengan mengajak bapak untuk memiliki konten di Cidra (di Cidra semua bisa belajar , semua bisa mengajar)
+- Mempelajari DevOps Lanjutan (Containerization , Clustering , Kubernetes Advanced)
+- Mempelajari Web Apps Security 
