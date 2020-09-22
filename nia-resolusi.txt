@@ -1,0 +1,7 @@
+Halo, Pak. Perkenalkan nama saya Nia dari Medan. 
+
+Resolusi saya di tahun ini : 
+- Mahir database MySQL, dan PostgreSQL
+- Membuat website fortofolio sendiri
+- Mahir minimal 2 framework website
+- Membuat website sederhana dari Python
