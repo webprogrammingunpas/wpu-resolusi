@@ -1,0 +1,3 @@
+- belajar pemorgaman 
+- belajar database MSSQL
+- belajar Asp.Net

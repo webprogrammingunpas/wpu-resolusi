@@ -1,0 +1,8 @@
+hallo pak 
+saya Ricardo Nikolay dari Bekasi
+
+resolusi saya :   
+1. ingin mahir dalam program web 
+2. karena kepentingan persuhaan yang ingin beralih dari program dekstop ke Web
+3. ingin membuat program CRUD pada bidang industri khususnya pada Iventory Stok 
+4. semoga bapak bisa memberi arahan agar saya bisa memulai dari mana 
