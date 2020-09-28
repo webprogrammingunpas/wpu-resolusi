@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Faliq dari Malang
+
+Resolusi Saya :
+- membuat website komputasi fisika menggunakan python melalui framework flask
+- bekerja di CERN
