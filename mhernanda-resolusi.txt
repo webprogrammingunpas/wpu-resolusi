@@ -1,0 +1,9 @@
+Halo pak Sandhika, salam kenal saya Muhammad Hernanda dari Banten. Saat ini saya bekerja di PT PLN Cikupa sekaligus kuliah di Universitas Pamulang jurusan Teknik Elektro. 
+Pekerjaan dan studi saya memang tidak ada kaitannya dengan dunia IT, saya melakukan ini karena hobby saya yang berawal dari Arduino. 
+
+Resolusi saya :
+- Menguasai framework Bootsrap
+- Menguasai bahasa PHP 
+- Menguasai framework Laravel
+- Menguasai RMDB MySQL
+- Membuat project web full stack 
