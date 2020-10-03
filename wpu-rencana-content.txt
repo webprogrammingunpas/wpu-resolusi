@@ -11,6 +11,7 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+- Progressive Web App
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
@@ -29,6 +30,8 @@ RENCANA KONTEN WPU
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
+  * Flexbox
+  * Grid Layout
   * Framework CSS
     ^ Sass
 - Keamanan Website
