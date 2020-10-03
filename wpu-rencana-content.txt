@@ -31,6 +31,7 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Flexbox
+  * Grid Layout
   * Framework CSS
     ^ Sass
 - Keamanan Website
