@@ -12,3 +12,6 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- My SQL
+- Ruby
+- Kotlin
