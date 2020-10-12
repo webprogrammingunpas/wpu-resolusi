@@ -1,0 +1,6 @@
+Halo Pak Sandhika, salam kenal saya Bayu Navanto dari Jawa Tengah saat ini sedang mendalami ilmu pemrograman web
+
+resolusi saya
+-membangun web menggunakan framework javascript
+-menguasai menggunakan laravel
+-menguasai javascript
