@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Indra Yadi dari NTB/LOMBOK
+
+Resolusi Saya :
+- Membuat website menggunakan framework javascript ( React Js )
+- Membuat website static menggunakan hugo , untuk personal website
+- Bikin Vidio Python
