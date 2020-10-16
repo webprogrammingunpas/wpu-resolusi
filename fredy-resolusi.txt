@@ -1,0 +1,15 @@
+Halo Pak Sandhika dan teman-teman pembaca, Nama Saya Roynaldi Fredynan biasa dipanggil Fredy. Saya tinggal di Samarinda, Kalimantan Timur.
+Kebetulan sekali saya baru belajar soal Git dan Github di tahun 2020 akhir, karena menurut saya ini materi sangat penting dan tidak ada waktu terlambat untuk belajar.
+
+Dan juga kebetulan saya suka sekali seputar musik producing, jadi saya akan membagikan resolusi di bidang musik dan di bidang IT.
+
+Resolusi di bidang musik
+- Collab dengan para musisi
+- Memproduksi album sendiri
+- Memproduseri musik dan lirik untuk seseorang
+
+Resolusi di bidang IT
+- Membuat website resep masakan untuk ibu saya dengan HTML, CSS, JS, dan sedikit PHP (Murni tanpa sentuhan Framework karena ingin memaksimalkan pengetahuan tanpa Framework)
+- Lulus tepat waktu di kampus
+- Belajar Framework Javascript seperti React, Vue, ataupun Angular
+- Mencoba belajar bahasa pemrograman baru, untuk mobile programming misal
