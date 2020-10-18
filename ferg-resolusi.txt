@@ -1,0 +1,13 @@
+halo pak perkenalkan nama saya ferg (ini codename saya) dari bogor
+ini adalah rencana saya kedepan
+
+- - belajar minimal 2 kali selama akhir pekan (48 jam)
+- pelajari cara menjadi pengembang web (pelajari semua tentang cara menjadi pengembang lengkap)
+- belajar bagaimana menjadi mobile developer (setidaknya tahu program yang dibuat seperti java, ruby, react ,, flutter, dll.)
+- belajar bagaimana menjadi desktop developer (setidaknya tahu program yang dibuat seperti .net, c #, c, dll.)
+- mempelajari masalah jaringan (setidaknya mengetahui dasar-dasarnya)
+- mempelajari masalah database
+- pelajari masalah keamanan
+- pelajari teknologi canggih seperti big data, cloud, iot, dll.
+NB: untuk point 3 sd 4 wajib dan belajar kalau bisa otodidak 
+NB: urutan teratas adalah tanda utama dan terpenting (prioritas)
