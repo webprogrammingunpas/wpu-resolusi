@@ -15,6 +15,7 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+  ^ JavaScript
 - Vlogs
 - Python
   ^ Django
@@ -31,7 +32,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- UI design
