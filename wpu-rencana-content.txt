@@ -31,6 +31,8 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+- Podcast
+  ^  Nasihat untuk mahasiswa yang lagi galau
 - Keamanan Website
 - Odoo
 - Aplikasi android
