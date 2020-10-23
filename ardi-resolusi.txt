@@ -1,0 +1,8 @@
+Halo pak, salam kenal saya Ardi dari Bandung
+
+Resolusi saya:
+- Membuat website menggunakan laravel, react.js
+- Belajar spring mvc
+- Belajar Djanggo
+
+Terimakasih pak tutorialnya bermanfaat :)
