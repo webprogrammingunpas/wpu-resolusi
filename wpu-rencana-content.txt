@@ -34,4 +34,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+- Tips membuat portofolio sebagai programmer.
 - Sertifikat SSL
