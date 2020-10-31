@@ -1,5 +1,5 @@
-Halo pak, salam kenal nama saya Sandhika dari Bandung
+Assalamualaikum pak dhika, salam kenal nama saya Taufiq Rahman dari Bandung
 
 Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Bekerja di start-up
+- Membuat website dengan framwork php laravel dan framwork css boostrap 3
+- Pelajar Smkn 13 Bandung
