@@ -14,6 +14,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Codeigniter
 - Interview
 - Vlogs
 - Python
@@ -28,6 +29,8 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ Trigle pada SQL
+  ^ Procedur pada SQL
 - CSS
   * Framework CSS
     ^ Sass
