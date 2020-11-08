@@ -1,0 +1,6 @@
+Halo bapak Dika, nama saya Ilham dari Kircon 
+
+Resolusi saya:
+- Membuat website dengan menggunakan node.js
+- Membuat aplikasi website responsive minimal 10 biji
+- Bekerja di startup terkenal
