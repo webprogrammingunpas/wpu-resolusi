@@ -34,4 +34,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+ > android studio
+ > kotlin
+ > flutter
 - Sertifikat SSL
