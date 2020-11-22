@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ React Native
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -22,6 +23,7 @@ RENCANA KONTEN WPU
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
+   *firebase
   ^front end
 - Ruby on Rails
 - Database
