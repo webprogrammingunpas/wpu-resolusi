@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Sri Adi dari Jember
+
+Resolusi Saya :
+- Membuat website menggunakan framework Flutter
+- Bekerja di start-up
