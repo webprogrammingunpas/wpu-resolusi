@@ -1,0 +1,5 @@
+Assalamualaikum Pak, perkenalkan nama saya Muhammad Elfanza dari Kota Serang Banten. Saat ini saya sedang gapyear dan tertarik sekali untuk belajar pemrograman. Berikut adalah resolusi saya:
+
+- Menguasai HTML, CSS, Javascript
+- Menguasai framework frontend seperti react JS, Bootstrap, Tailwind, dll.
+- Membuat portfolio
