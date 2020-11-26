@@ -1,0 +1,13 @@
+Halo Pak Sandhika,
+
+Saya Firza, adapun resolusi saya adalah,
+  1. Bekerja menjadi Developer pada sebuah perusahaan startup
+  2. Untuk menncapai resolusi no [1], maka saya akan membuat porfolio.
+  3. Portfolio pada resolusi no [3], akan berisikan:
+    a. Website: dibangun dengan menggunakan react JS
+    b. Projek-projek sederhana dengan menggunakan HTML, CSS/Sass, dan vanilla javascript.
+  4. Hal lain yang menarik untuk dipelajari dan dikuasai:
+    a. Node JS + Express JS / PHP + Laravel
+    b. React Native / Flutter
+    c. Database (MongoDB/MySQL)
+    d. Deployment, Hosting
