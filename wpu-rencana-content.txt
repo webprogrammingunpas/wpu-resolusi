@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- A Day In My Life / Kegiatan Pak Sandhika sehari-sehari sebagai seorang dosen
