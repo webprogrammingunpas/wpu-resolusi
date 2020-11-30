@@ -1,4 +1,4 @@
-Halo pak, salam kenal nama saya Theo dari Tangerang.
+Halo Pak Dika, salam kenal nama saya Theo dari Tangerang.
 
 Resolusi saya:
 - Ingin membuat dan mempublish website dari framework Javascript.
