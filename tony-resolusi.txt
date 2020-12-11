@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya tony dari Solo
+
+Resolusi saya:
+- saya ingin membuat website menggunakan javascript
+- saya ingin belajar menggunakan laravel
