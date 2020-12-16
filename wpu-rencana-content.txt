@@ -37,3 +37,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Pembahasan, PHP vs Go vs Ruby vs JavaScript
+- Pembahasan pertimbangan pembangunan web dengan strong type (java) dengan weak type (PHP, python)
