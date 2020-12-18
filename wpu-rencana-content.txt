@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
+      * Vue Framework (Nuxt JS)
     ^ React
     ^ Angular
   * Library Javascript
@@ -35,3 +36,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Sourcetree
