@@ -1,0 +1,7 @@
+Salam kenal pak, Saya Andrian dari Jogja.
+Saat ini saya bekerja sebagai seorang freelancer dan ingin belajar tentang web development.
+
+Resolusi saya : 
+- Mempelajari django
+- Mempelajari unit testing
+- Membuat web app yang berguna untuk kepentingan umum
