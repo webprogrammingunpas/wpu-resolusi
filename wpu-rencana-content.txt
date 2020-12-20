@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat mini project dengan vanilla JS dan menggunakan aturan ES6 pada project tersebut
