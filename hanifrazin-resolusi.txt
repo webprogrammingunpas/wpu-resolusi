@@ -1,0 +1,6 @@
+Assalamualaikum Pak Sandhika Galih, perkenalkan nama saya Hanif dari Tangerang Selatan. Saat ini saya bekerja di salah satu konsultan IT di Jakarta.
+
+Berikut resolusi saya di tahun 2021 :
+- Menyelesaikan tutorial javascript dasar, DOM, dan lanjutan dari channel web programming unpas
+- Belajar JS ES6 dan Vue JS
+- Membuat project dengan Vanilla JS
