@@ -1,0 +1,7 @@
+Micky Resolusi
+salam kenal, nama saya micky dari malang
+ini resolusi saya
+- bisa memahami konsep dasar programmer
+- bisa menguasai konsep git flow
+- bisa mengetahui cara membuat api
+- bisa menguasai web developer
