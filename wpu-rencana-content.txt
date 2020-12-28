@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- menceritakan perjalananya jadi programmer dari 0 sampai sekarang ini sampai menjadi youtuber sukses
