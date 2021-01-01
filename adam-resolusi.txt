@@ -1,0 +1,5 @@
+Halo pak nama saya adam dari Tangerang
+
+Resolusi saya :
+- Membuat website menggunakan Laravel 8+ 
+- Saya ingin bekerja di start-up
