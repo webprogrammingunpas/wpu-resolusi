@@ -35,3 +35,9 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Bedah skripsi pemrograman
+  Mengambil skripsi dari anak bimbingan bapak atau orang lain untuk dibedah
+- Bedah artikel terkini bidang pemrograman
+  Misal ada teknologi baru yang muncul, bisa dibedah artikelnya
+- Bedah dokumentasi bahasa pemrograman
+  Memberikan edukasi bagaimana membaca dokumentasi secara baik dan benar
