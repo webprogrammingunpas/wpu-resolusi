@@ -1,4 +1,7 @@
 WPU RESOLUSI
+- javascript
+  *framework javascript
+   ^angular
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
