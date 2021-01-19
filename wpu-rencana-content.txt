@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Materi Computer Vision
+- Machine Learning
+- ROS (Robot Operating System)
+- IOT
