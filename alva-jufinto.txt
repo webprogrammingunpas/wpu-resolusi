@@ -1,0 +1,16 @@
+Halo
+
+Resolution 2021 : 
+- Learn Javascript ES6
+- Learn NPM
+- Learn React.js (maybe learn Angular.js and Vue.js)
+- Learn Node Js (Have to do dis) 
+- Electron JS (Optional)
+
+- Understand PHP CRUD more spesific and complete
+- Re-learn PHP OOP
+- Learn PHP MVC
+- Learn RestAPI
+- Understanding Codeigniter and Lavarel 
+
+
