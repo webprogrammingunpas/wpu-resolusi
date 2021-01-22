@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Ita dari Solo
+
+Resolusi saya :
+- Membuat website yang kompleks menggunakan framework CI
+- Ingin memahami Artificial Intelligence seluruhnya
+- membuat sistem pakar berbasis website menggunakan framework laravel
