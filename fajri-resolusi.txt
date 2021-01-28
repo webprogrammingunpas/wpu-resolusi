@@ -1,0 +1,7 @@
+Halo pak, saya Fajri dari Bandung, saya sedang belajar Git & Github dari Channel WPU
+Saya akan menuliskan resolusi saya tahun 2021
+
+- Menyelesaikan HTML & CSS
+- Belajar JavaScript
+- Belajar Git & Github
+- Belajar menggunakan Linux
