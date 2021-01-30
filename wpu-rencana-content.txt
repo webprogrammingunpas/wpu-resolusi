@@ -21,8 +21,8 @@ RENCANA KONTEN WPU
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
+  ^back end web developer (setuju banget ini asli)
+  ^front end web developer
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
