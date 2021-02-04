@@ -15,6 +15,9 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+- Design Web :
+  ^ Figma
+  ^ Adobe XD
 - Vlogs
 - Python
   ^ Django
