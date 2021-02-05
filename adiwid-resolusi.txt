@@ -1,0 +1,8 @@
+Halo pak , saya adi dari Bali
+
+Resolusi saya :
+- menyelesaikan materi GIT
+- lanjut ke seri framework CI 4
+- ngobar framework Laravel
+- CSS lanjutan
+- Node Js
