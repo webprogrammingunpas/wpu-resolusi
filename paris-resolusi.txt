@@ -1,5 +1,0 @@
-Halo pak, saya Paris dari Jakarta.
-
-Resolusi saya:
-- Bisa menggunakan framework React/Vue JS
-- Menjadi javascript developer
