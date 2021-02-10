@@ -23,6 +23,7 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
+  ^wordpress
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
@@ -34,4 +35,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ kotlin
+  ^ swift
+  ^ flutter
 - Sertifikat SSL
