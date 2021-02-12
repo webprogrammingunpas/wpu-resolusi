@@ -1,4 +1,4 @@
-RENCANA KONTEN WPU
+RENCANA KONTEN WPU 2021
 
 - Javascript
   * ES6
@@ -31,6 +31,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind 
 - Keamanan Website
 - Odoo
 - Aplikasi android
