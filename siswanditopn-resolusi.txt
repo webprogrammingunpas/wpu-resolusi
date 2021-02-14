@@ -1,0 +1,5 @@
+Hallo! Saya Siswandito Putro Nugroho, biasa dipanggil Tito/Dito dari Kota Malang, Jawa Timur.
+
+Resolusi saya :
+- Belajar framework Laravel
+- Implementasi framework Laravel ke dalam proyek
