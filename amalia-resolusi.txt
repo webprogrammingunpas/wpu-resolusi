@@ -1,0 +1,7 @@
+Halo, salam kenal nama saya Amalia dari Lampung.
+
+Resolusi saya :
+~Membuat Apps menggunakan bahasa pemrograman Java
+~Mempelajari Flutter
+~Mempelajari Python
+~Membuat Apps sederhana dengan Flutter
