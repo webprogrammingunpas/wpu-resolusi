@@ -1,0 +1,5 @@
+Salam kenal, nama saya Vanilla dan saya murid SMk
+
+Resolusi saya :
+- Saya ingin belajar lebih dalam mengenai git
+- Dan kemudian lanjut belajar ke laravel
