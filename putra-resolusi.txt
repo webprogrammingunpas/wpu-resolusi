@@ -1,6 +1,0 @@
-assalamualaikum pak, salam kenal nama saya Putra Agustiansyah mahasiswa dari Tangerang
-
-Resolusi saya :
-- Saya ingin membuat website dengan framework Codeigniter 4
-- Saya ingin menjadi seorang programmer yang berguna dan bermanfaat untuk nusa & bangsa
-- Saya bercita-cita ingin membuat website E-commerce
