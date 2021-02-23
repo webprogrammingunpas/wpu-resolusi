@@ -1,0 +1,7 @@
+RESOLUSI BELAJAR bersama Pak Dhika
+1. Menguasai PHP native
+2. Lanjut menguasai OOPHP
+3. Menyelesaikan Tutorial JS
+
+Target per materi:
+* Menyimpan setiap hasil belajar di galeri github saya secara rutin sebagai realisasi hasil belajar.
