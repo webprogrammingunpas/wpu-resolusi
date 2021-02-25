@@ -16,6 +16,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^ Satu hari bersama pak sandhika
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
