@@ -1,0 +1,6 @@
+Salam kenal pak, nama saya Teguh dari Bantul
+
+Berikut resolusi saya :
+ - Mempelajari GIT
+ - Mempelajari Selenium
+ - Mempelajari Rest Assured
