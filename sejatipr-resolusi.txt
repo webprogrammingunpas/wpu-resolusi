@@ -1,0 +1,10 @@
+Halo pak dika, perkenalkan nama saya sejati prihatini rahayu dari bogor
+
+Resolusi Saya:
+- Membuat website menggunakan framework laravel
+- Membuat website menggunakan framework javascrpt (node js dan react js)
+- Bekerja di sebuah perusahaan sesuai dengan ilmu yang saya pelajari semasa kuliah
+
+Saat ini saya sedang menngerjakan tugas akhir saya. Dospem mengunginkan saya membuat website menggunakan resolusi yang saya sebutkan diatas.
+Saya harap saya dapat membuat website dengan tools tersebut dan menyelesaikannya tepat waktu
+Sebelumnya saya ingin mengucapkan terima kasih kepada pak dika, berkat channel bapak saya dapat belajar dasar-dasar web development hingga dapat membuat aplikasi web sendiri untuk tugas kuliah.
