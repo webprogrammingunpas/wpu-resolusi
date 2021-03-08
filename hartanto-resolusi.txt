@@ -1,0 +1,3 @@
+Resolusi :
+-Membuat aplikasi accounting di anroid, ios dan web
+-Mengnal lebih jauh cara coding yang benar
