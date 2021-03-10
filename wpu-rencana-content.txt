@@ -34,4 +34,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  * Bahasa Dart
+  * Framework Flutter
 - Sertifikat SSL
+- Penjelasan learning path Android developer
