@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Wailan dari Timika
+
+Resolusi Saya:
+- Membuat website menggunakan Laravel Livewire
+- Bekerja sebagai Software Developer
+- Membuat Aplikasi berbasis Web & Mobile yang dapat bermanfaat bagi banyak orang
