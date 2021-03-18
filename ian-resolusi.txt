@@ -1,0 +1,9 @@
+Halo pak, salam kenal nama saya Ian Dzillan Malik dari Kota Cilegon, Banten. Saya dari Sistem Informasi angkatan 2016 Telkom University dan lulus tahun 2020 kemarin. 
+
+Ini resolusi saya pak: 
+1. Saya ingin membuat website menggunakan framework javascript
+2. Saya ingin membuat website menggunakan framework PHP yang lain sepeti laravel, Yii, symfony
+3. Saya ingin bekerja sebagai web developer, dan ke depannya saya ingin menjadi full stack developer
+
+Saya ingin berterima kasih untuk konten yang bapak berikan di channel youtube bapak. Sangat bermanfaat sekali untuk saya, mulai dari saat saya kuliah 
+untuk keperluan tugas dan sampai sekarang. Semoga channel bapak terus berkembang.
