@@ -2,10 +2,10 @@ RENCANA KONTEN WPU
 
 - Javascript
   * ES6
-  * NodeJS
+  * NodeJS (NestJS)
   * Framework Javascript
     ^ Vue
-    ^ React
+    ^ React & Pattern
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
