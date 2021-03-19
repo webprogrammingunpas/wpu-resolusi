@@ -1,0 +1,3 @@
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Membuat API menggunakan framework NodeJs
