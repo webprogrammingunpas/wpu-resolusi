@@ -4,3 +4,4 @@ Resolusi 2021
 -Belajar Git dan Github
 -Menyelesaikan project web PC PMII Jakarta Barat
 -Memperbarui web portofolio [fs-15.github.io]
+-Belajar bahasa inggris
