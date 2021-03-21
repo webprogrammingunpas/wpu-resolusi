@@ -4,3 +4,27 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Membuat konten desain web - Frontend developer :
+  * adobe xd
+  * photshop
+  * html
+  * css
+  * bootstrap
+  * javascript
+  
+ - Membuat konten Backend developer :
+   * php
+   * Framework PHP :
+     > Codeigniter
+     > Laravel
+   * Golang
+   * Python
+   * Rubi
+   * Java
+   
+ - Membuat konten Fullstack developer :
+   * reactjs
+   * nodejs
+   * ekpressjs
+   * mongodb
+  
