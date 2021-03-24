@@ -1,0 +1,7 @@
+Hallo Pak, salam kenal nama saya fajar ramadhan dari Probolinggo Jawa Timur
+
+Resolusi saya :
+- Membuat website menggunakan framework tallwind css
+- Memahami framework laravel dan membuat project hasil sendiri
+- Memahami PHP Native
+- Bekerja di Unicorn terkenal
