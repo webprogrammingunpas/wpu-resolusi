@@ -33,5 +33,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Membuat ngobar menggunakan framework tallwind css
 - Aplikasi android
 - Sertifikat SSL
