@@ -1,0 +1,13 @@
+Halo Pak, perkenalkan nama saya Hifni asal Kandangan, HSS, Kalimantan Selatan.
+Sekarang ini saya sedang menempuh pendidikan disalah satu perguruan tinggi swasta di Jogja.
+Saya mengambil PRODI Teknik Informatika dan saat saya sdh semester 4.
+Selain itu, saat saya sedang belajar berbisnis digital. Salah satu produknya yaitu undagan digital
+berbasis web. Utk itu, saat ini saya sedang belajar mendalami framework CSS bootstrap. Framework Bootstrap ini
+rencananya akan saya pakai sebagai front-end nya. Utk back-end, saya belum kepikiran. Karena webnya bersifat statis,
+jadi saya pikir framework boostrap saja sdh cukup utk saat ini, blum thu kedepannya.
+
+
+Resolusi saya :
+- Memperdalam ilmu tentang framework bootstrap
+- Mempelajari framework front-end lainnya, seperi react JS yg saya dengar2 sedang trend.
+- Belajar membuat website yg memiliki performa bagus
