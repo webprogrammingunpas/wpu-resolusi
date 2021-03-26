@@ -1,0 +1,5 @@
+Haloo salam kenal nama saya Adi, jakarta
+
+resolusi saya :
+- membuat website e-commerce memngunakan React
+- membuat app e-commerce mengunakan React
