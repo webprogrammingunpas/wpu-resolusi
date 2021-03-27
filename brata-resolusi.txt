@@ -1,0 +1,7 @@
+Salam kenal nama saya brata dari Padang
+  Resolusi saya :
+    - Membuat Web interaktif sendiri menggunakan javascript
+    - Mempelajari Framework Codeigniter
+    - Mempelajari Laravel
+    - Jadi Expert web programmer
+    - Membuat perusahaan Startup sendiri
