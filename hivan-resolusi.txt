@@ -1,0 +1,5 @@
+Halo pak, saya Ivan.
+
+Resolusi
+1. Mempelajari flask dan django
+2. Mempelajari design web and front-end web
