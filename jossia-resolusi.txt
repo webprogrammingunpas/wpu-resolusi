@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Jossia dari Depok.
+
+Resolusi saya:
+- membuat website menggunakan framework javascript
+- membuat website dengan getbootstrap.com
+- bekerja di start-up
