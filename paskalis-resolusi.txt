@@ -1,0 +1,5 @@
+Halo pak, nama saya paskal dari Bandung
+Resolusi :
+- Memperdalam lagi tentang javascript
+- membuat web yang responsive dan interaktif dengan HTML, CSS, Javascript.
+- Bekerja di perusahaan startup
