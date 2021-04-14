@@ -1,0 +1,6 @@
+Halo pak saya baru belajar github
+
+Resolusi saya : 
+- Membuat website menggunakan framework javascript
+- Membuat website portofolio
+- Belajar laravel lebih dalam
