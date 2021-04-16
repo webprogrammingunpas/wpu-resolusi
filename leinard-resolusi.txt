@@ -1,0 +1,8 @@
+Halo mas Sandhika, nama saya Leinard Mora dari Bekasi. Saya lulusan bukan dari bidang terkait komputer ataupun informatika, tapi saya ingin belajar programming untuk melebarkan
+bidang pekerjaan yang bisa saya lamar.
+
+Resolusi saya:
+1. Mulai melakukan proyek-proyek pribadi dengan HTML5, CSS3, dan JavaScript ES6 untuk dimasukkan ke dalam portfolio saya.
+2. Mulai mencari pekerjaan frontend dengan portfolio saya, baik posisi tetap, kontrak, maupun freelance.
+3. Mulai belajar React.
+4. Mulai belajar NodeJS untuk bisa masuk backend juga, perlahan-lahan menjadi fullstack developer.
