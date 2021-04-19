@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+    ^ NestJs
   * Framework Javascript
     ^ Vue
     ^ React
@@ -17,6 +18,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ Python OOP
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
@@ -31,6 +33,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
