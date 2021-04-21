@@ -1,0 +1,5 @@
+Halo saya Fazar, dari padang
+
+Resolusi Saya: - Belajar NPM
+               - Belajar React
+               - Belajar Node.js
