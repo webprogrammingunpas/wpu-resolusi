@@ -1,0 +1,4 @@
+Halo, salam kenal pak.. saya sangat menikmati materi Git dan GitHub yang bapak sampaikan. Sangat menarik dan mudah untuk diikuti
+Selama ini saya mengembangkan aplikasi selalu sendiri, sekali mendapatkan project sebagai tim pengelolaannya kurang baik terutama mengenai manajemen source code
+karena tidak ada yang menguasai software VCS
+mudah-mudahan dengan pembelajaran konsep Git dan GitHub ini dapat membuat saya dapat bekerja secara kolaborasi dengan lebih baik lagi
