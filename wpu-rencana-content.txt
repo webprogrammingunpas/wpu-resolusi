@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * OOP Javascript
   * Framework Javascript
     ^ Vue
     ^ React
