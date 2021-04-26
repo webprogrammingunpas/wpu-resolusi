@@ -1,0 +1,14 @@
+Hallo pak sandhika, saya satriyo dari jakarta. saya penasaran dengan framework git dan mau implementasi di pekerjaan saya sebagai fitur untuk mempermudah kolaborasi dalam coding 
+dan sebagai skill baru yang perlu di kuasai. dan setelah mencari tutorial dimana mana. akhirnya saya menemukan video anda. terima kasih sudah berbagi 
+
+>> Resolusi saya di tahun 2021 ini (meskipun saat ini insyaallah sudah bisa)
+
+1. Menguasai framwork MVC .Net dengan baik 
+2. Menguasai framework laravel dengan baik 
+3. Menguasai database postgresql, sql server, mysql server, dan oracle dengan baik 
+
+>> Yang masih perlu di pelajari dan di dalami
+
+4. Menguasai tools yang digunakan dalam programming seperti postman, swagger dengan baik 
+5. Belajar dan Menguasai teknis RESTFul API dengan baik 
+6. Bisa memperoleh tempat kerja baru dengan penghasilan yang saya inginkan 
