@@ -1,0 +1,4 @@
+Nama saya Muhammad Fagi dari Malang
+Reosolusi saya : 
+- Membuat webiste menggunakan laravel
+- Menjadi Sistem Analyst
