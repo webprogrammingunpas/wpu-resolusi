@@ -1,0 +1,11 @@
+Halo Pak, perkenalkan saya Rava dari Bandung.
+
+Saya 25 tahun. Kuliah jurusan Teknik Informatika.
+Saat ini sedang magang di salahsatu anak perusahaan Telkom.
+
+Kuliah saya sempat tertunda beberapa tahun karena berbagai macam bumbu kehidupan.
+Tapi saya tidak pernah mau berhenti belajar IT.
+
+Resolusi saya 
+- Membuat aplikasi scan barcode menggunakan Android Studio untuk kebutuhan inventori kantor
+- Melanjutkan kembali course Full Stack Web Developer di BWA
