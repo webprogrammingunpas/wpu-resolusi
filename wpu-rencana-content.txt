@@ -3,10 +3,13 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * Vanilla Javascript
   * Framework Javascript
     ^ Vue
     ^ React
     ^ Angular
+    ^ Svelte
+    ^ Workbox.Js
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -31,6 +34,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
