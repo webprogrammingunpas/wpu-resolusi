@@ -10,10 +10,10 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
     ^ Svelte
-    ^ Workbox.Js
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+    ^ Workbox.js
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
