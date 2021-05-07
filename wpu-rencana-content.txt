@@ -33,5 +33,9 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+
+History pak sandika :
+- alasan masuk ke bidang ini
+- mengembalikan passion ketika bosan belajar programming
 - Aplikasi android
 - Sertifikat SSL
