@@ -1,0 +1,18 @@
+Halo pak, salam kenal, nama saya Ahmad Arief dari Balikpapan. 
+
+Resolusi Saya:
+- Membuat produk software berbasis web menggunakan framework php dan java.
+- File ini lama tidak saya buka dan saya update. Jadi kali ini saya coba update.
+- Sebenarnya saya sudah beberapa kali mencoba untuk membuat produk software menggunakan framework php. 
+- Berhubung saya sudah beberapa kali membuat produk software berbasis desktop dan sudah jadi beberapa dan sulit menjualnya, maka sulit saya memotivasi diri untuk membuat produk software berbasis web menggunakan framework. 
+- Pernah juga bikin produk web menggunakan php native, yaitu aplikasi pengganti untuk WHMCS. 
+- Tapi karena disainnya tidak bagus, karena cuma menggunakan template gratisan dari Template Monster, maka tidak saya upload ke sini. 
+- Tapi insya Allah filenya masih ada di hosting saya.
+- Alhamdulillah, terjadi deal hari ini dengan salah satu kawan untuk membuat produk sw akuntansi online, yang insya Allah projectnya akan dimulai tanggal 17 Mei 2021.
+- Bagi beberapa kawan lain yang batal projectnya dengan saya, mohon maaf ya. Mungkin lain waktu kita bisa kerjasama lagi. :-)
+- Hehehe. Kok jadi panjang ini resolusinya ya? Apakah yang lain juga bisa liat dan dikirimi kabar oleh github?
+- Maklum saya lagi belajar juga jadi gak paham sistem kerjanya ini github. :-)
+- Salam. 
+- Mungkin lain kali edit lagi.
+- Sayonara. Arigato.
+- Wassalamu'alaikum.
