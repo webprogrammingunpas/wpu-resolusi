@@ -1,0 +1,9 @@
+Halo Pak, salam kenal nama saya Ifwan. Saat ini saya sedang belajar mengenai devops.
+
+Resolusi saya :
+- Memahami konsep maupun praktek dari git, github & gitlab
+- Memahami aws & gcp
+- Memahami terraform
+- Memahami ansible
+- Memahami docker
+- Memahami kubernetes
