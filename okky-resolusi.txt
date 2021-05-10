@@ -1,0 +1,8 @@
+Hai pak, saya okky dari jogja, semester 2 kuliah
+Terima kasih sudah membuat tutorial git pakk
+
+Resolusi saya untuk 2021:
+  - Nyaman bekerja dengan Django framework
+  - Terbiasa dengan html, css, dan javascript
+  - Memiliki website sendiri yg isinya blogging tentang hal yg menarik perhatian diriku
+  - Bekerja sebagai freelance developer
