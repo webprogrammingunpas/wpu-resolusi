@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Julventius dari Kalimantan Barat
+Saya adalah seorang siswa SMK
+
+Resolusi saya :
+- Membuat website menggunakan framework Laravel
+- Saya ingin bekerja Freelance
