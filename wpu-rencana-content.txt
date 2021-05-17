@@ -17,6 +17,8 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  * TensorFlow
+  * PyTorch
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
