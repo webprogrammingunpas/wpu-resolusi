@@ -1,0 +1,6 @@
+Halo Pak, salam kenal, nama saya Wisnu dari Jakarta.
+
+Resolusi:
+- Melanjutkan dan menyelesaikan riset State Representation Learning untuk Reinforcement Learning.
+- Mendalami lebih lanjut Bayesian theory & inference.
+- Memberikan lecture tentang Deep Reinforcement Learning di IAIS.
