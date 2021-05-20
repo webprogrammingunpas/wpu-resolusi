@@ -13,7 +13,7 @@ RENCANA KONTEN WPU
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel (Mohon lebih di perbanyak lg pak haha)
 - Interview
 - Vlogs
 - Python
