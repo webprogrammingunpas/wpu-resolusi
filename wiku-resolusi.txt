@@ -1,0 +1,4 @@
+Halo pak, nama saya wiku dari tasikmalaya
+resolusi :
+- membuat mobile app dengan xamarin
+- membuat rest api webserver dengan python + flask
