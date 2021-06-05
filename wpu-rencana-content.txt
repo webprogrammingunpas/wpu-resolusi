@@ -6,6 +6,9 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+     * Library PurgeCss
+     * Library React-Bootstrap
+     * LIbrary React-Rating
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
