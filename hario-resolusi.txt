@@ -1,0 +1,5 @@
+Salam kenal nama saya Hario dari BSD
+
+Resolusi :
+- Belajar tools DevOps
+- Mengerti pipeline pembuatan software
