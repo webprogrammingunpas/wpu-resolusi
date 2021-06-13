@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Konsisten dalam belajar programming
 - Membagi waktu antara tidur dan belajar
 - Lagi belajar django
+- Lagi belajar PosgreSQL
