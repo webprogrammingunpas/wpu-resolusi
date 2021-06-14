@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya Alvin dari Jakarta lagi belajar github nih abis dari css framework
+
+Resolusi saya :
+- membuat web untuk jurusan smk untuk mempermudah adik/kakak kelas dalam mempelajari jurusan
+- membuat game web sederhana
