@@ -1,0 +1,7 @@
+Halo pak, salam kenal saya Alandra Ravi dari Bekasi
+
+Resolusi Saya :
+1. Membuat website fullstack sendiri
+2. Bekerja di perusahaan pemerintah agar website pemerintah tidak jadul
+3. Menguasai Javascript beserta frameworknya
+3. Membuat website dengan fitur yang bagus tanpa memberatkan website ketika loading
