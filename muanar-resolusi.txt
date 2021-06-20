@@ -1,0 +1,6 @@
+Hallo salam kenal nama saya Muanar dari Yogyakarta
+
+Resolusi 2021
+- Belajar Laravel
+- Bela NodeJs dengan framework Express & Hapi
+- Belajar Database NoSQL
