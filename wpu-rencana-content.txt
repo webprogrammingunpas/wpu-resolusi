@@ -31,7 +31,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap 5
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Algoritma dan struktur data
