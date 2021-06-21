@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Podcast dengan bintang tamu para founder startup dan orang - orang expert lainnya.
