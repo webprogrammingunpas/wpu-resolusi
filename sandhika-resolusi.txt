@@ -1,5 +1,6 @@
-Halo pak, salam kenal nama saya Sandhika dari Bandung
+Halo pak, salam kenal nama saya Afif dan sekarang masih pelajar SMK dengan jurusan Sistem Informatika Jaringan dan Aplikasi dari sekolah SMKN 2 Surabaya. 
 
 Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Bekerja di start-up
+- Membuat website menggunakan framework php, python, js
+- Ingin menguasai back-end, front-end, dan android 
+- Membuat web kompleks 
