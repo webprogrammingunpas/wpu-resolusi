@@ -1,0 +1,4 @@
+Salam kenal pak sandhika saya barry dari ITB
+
+Resolusi saya
+- Mengembangkan backend dan frontend untuk sistem smart home
