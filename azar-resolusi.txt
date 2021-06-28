@@ -1,0 +1,21 @@
+Halo Pak salam kenal saya Azar dari Pandeglang, Banten. Seoarang mahasiswa sem-3 yang hobinya ngulik tentang pemrograman sama hobi buat nyari pelatihan-pelatihan gratis
+
+Resolusi saya:
+- Membuat sebuah website portofolio 
+  ^ Menerapkan Front-End 
+    a. Web Component
+    b. EcmaScript 6 
+    c. Asynchronus Js
+    d. Session storage
+    e. Semantic HTML
+    f. etc...
+  ^ Menerapkan Back-End
+    a. Node-Js
+    b. Terhubung ke Database
+  ^ Terdapat fitur untuk melakukan pengeditan terhadap portofolio site tersebut
+  ^ Bisa diakses oleh semua orang
+  ^ Terdapat fitur log in 
+  ^ Terdapat hasil dari project yang telah saya buat
+  ^ Terdapat hasil tulisan yang saya buat berupa Blog pribadi
+- Mengikuti pelatihan mengenai FE atau BE
+- Mengikuti perlombaan Competitive Programming
