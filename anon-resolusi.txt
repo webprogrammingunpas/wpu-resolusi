@@ -1,0 +1,4 @@
+Liburan ke semester 3 ini namatin:
+  -Java dasar
+  -Java OOP
+  -Build with Angga Fullstack Developer
