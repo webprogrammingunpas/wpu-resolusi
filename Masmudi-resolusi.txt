@@ -1,0 +1,8 @@
+#This is my resolution#
+
+- strengthen algorithm and data structures
+- learn UI/UX
+- learn frontend development
+- learn backend development
+- learn android
+- learn multiplatform apps development
