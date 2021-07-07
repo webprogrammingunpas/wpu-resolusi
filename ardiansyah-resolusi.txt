@@ -1,0 +1,9 @@
+Halo pak Sandhika, Nama saya Ardiansyah. 
+Saya tinggal di Bogor. 
+Saat ini kuliah di Gunadarma Depok, 
+jurusan Teknik Informatika.
+
+Berikut ini resolusi saya:
+- membuat website menggunakan framework laravel
+- lulus kuliah
+- bisa menyelesaikan project yang akan datang
