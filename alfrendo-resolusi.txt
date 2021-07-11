@@ -1,0 +1,6 @@
+Halo, Saya Alfrendo dari Samosir
+
+- Belajar Kotlin untuk Android Dev
+- Belajar XML
+- Belajar Dart
+- Belajar Flutter
