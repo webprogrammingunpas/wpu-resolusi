@@ -1,0 +1,5 @@
+Salam sejahtera, berikut resolusi saya:
+
+Resolusi:
+- lancar skill git dan github
+- membuat website dengan framework Laravel
