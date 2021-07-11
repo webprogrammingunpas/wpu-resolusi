@@ -22,6 +22,7 @@ RENCANA KONTEN WPU
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
+  -python
   ^front end
 - Ruby on Rails
 - Database
@@ -35,3 +36,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- belajar framework selain bootstrap dan materialize
