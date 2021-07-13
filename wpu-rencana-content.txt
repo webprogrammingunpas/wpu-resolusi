@@ -16,6 +16,8 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+^ vlogs a day in a life pak sandhika galih
+^ dan kalau bisa vlog di kampusnya pak hehe
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
