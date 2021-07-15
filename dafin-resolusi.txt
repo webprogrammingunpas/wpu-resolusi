@@ -1,0 +1,6 @@
+Halo pak Dhika, saya Dafin dari Banjarimasin. Salam kenal pak.
+
+Resolusi saya:
+- Membuat app menggunakan framework flutter
+- membuat database menggunakan mongoDB
+- Membangun sebuah perusahaan start-up
