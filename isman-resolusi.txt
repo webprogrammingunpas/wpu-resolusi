@@ -1,0 +1,5 @@
+Hello, My name is Isman Subarkah. I come from Bogor. Cheers.
+
+My Resolution is :
+  - Create a website with React and Redux.
+  
