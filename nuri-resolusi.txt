@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Nur dari Bandung
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di Googel
