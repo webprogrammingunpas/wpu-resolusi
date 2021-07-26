@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ NextJs
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
@@ -18,6 +19,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
@@ -31,6 +33,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
