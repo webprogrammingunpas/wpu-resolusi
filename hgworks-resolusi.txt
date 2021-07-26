@@ -1,0 +1,7 @@
+hello
+learning fork/forking
+
+Lorem list:
+- Nunc tincidunt mi id magna rhoncus, rhoncus pretium sapien rhoncus.
+- Aliquam laoreet sem eget ipsum varius, et vulputate lacus tincidunt.
+- Fusce pharetra felis quis sodales fringilla.
