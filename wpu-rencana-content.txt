@@ -34,4 +34,6 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ CRUD api php, kotlin, retrofit, mysql
+  ^ CRUD Firebase
 - Sertifikat SSL
