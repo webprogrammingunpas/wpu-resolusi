@@ -6,7 +6,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
-      + React Native
+      + React-Native
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
