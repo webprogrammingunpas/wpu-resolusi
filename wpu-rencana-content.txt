@@ -15,6 +15,7 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+- PHP V8
 - Vlogs
 - Python
   ^ Django
