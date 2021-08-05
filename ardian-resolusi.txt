@@ -1,6 +1,0 @@
-Halo Pak, salam kenal nama saya Ardian Kurniawan dari Mojokerto
-
-Resolusi Saya :
-- Membuat website menggunakan framework laravel
-- Bekerja di Start-Up
-- Mempunyai Bisnis Kuliner
