@@ -5,7 +5,7 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
-    ^ React
+    ^ React : please, kalo boleh usul tutorial react penting banget.
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
