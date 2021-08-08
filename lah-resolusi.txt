@@ -1,0 +1,6 @@
+halo pak, salam kenal nama saya lah dari jabar
+
+Resolusi saya : 
+- membuat website menggunakan framework laravel
+- membuat project berbasis .net
+- belajar menggunakan git/hub
