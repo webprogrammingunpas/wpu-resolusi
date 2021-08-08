@@ -2,10 +2,15 @@ RENCANA KONTEN WPU
 
 - Javascript
   * ES6
-  * NodeJS
+  * NodeJS 
+  * Framework Nodejs
+    ^ Express
+    ^ Koa
+    ^ Meteor
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Express 
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
@@ -35,3 +40,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
