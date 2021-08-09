@@ -33,5 +33,7 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Licenses
+- menjelaskan lebih dalam tentang design patterns
 - Aplikasi android
 - Sertifikat SSL
