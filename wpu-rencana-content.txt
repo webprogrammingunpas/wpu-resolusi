@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Rangkaian proses developing hingga app/website tersebut live
