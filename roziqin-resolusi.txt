@@ -1,5 +1,7 @@
-Halo pak, perkenalkan nama saya Roziqin dari Pasuruan
+Halo pak, perkenalkan nama saya Roziqin dari Pasuruan. Saya merupakan seorang mahasiswa jurusan Matematika di Universitas Islam Negeri Maulana Malik Ibrahim Malang.
+Meskipun saya studi dalam jurusan Matematika, saya ingin menjadi seorang web developer dan dapat bekerja dalam suatu perusahaan.
 
 Resolusi saya :
 - Saya ingin membuat website dengan framework Laravel
-- Saya ingin bekerja di start-up
+- Saya ingin membuat website dengan React
+- Saya ingin bekerja di start-up setelah lulus kuliah atau bahkan sebelum lulus kuliah
