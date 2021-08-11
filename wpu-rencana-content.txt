@@ -10,6 +10,10 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+-A.I Machine Learning
+    ^Linear Regression
+    ^Random Forest
+    ^Convolutional Neural Network(Deep Learning)
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
@@ -18,6 +22,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
