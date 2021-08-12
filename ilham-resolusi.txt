@@ -1,0 +1,5 @@
+Halo pak, perkenalkan nama saya Muhammad Ilham Ferdiansyah dari Cianjur
+Resolusi saya :
+- Membuat aplikasi menggunakan React.js dan Node.js
+- Membuat project open source dengan para expert
+- Bekerja di startup yang terkenal
