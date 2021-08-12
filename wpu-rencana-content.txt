@@ -10,6 +10,7 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+  * Jquery
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
@@ -31,6 +32,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
