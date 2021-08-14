@@ -1,0 +1,10 @@
+Halo Pak Sandhika. Saya Jason dari Bandung. Salam kenal Pak. Video tutorialnya keren banget. Saya sebagai non-CS major terbantu belajar menggunakan GitHub.
+
+Resolusi saya:
+- Belajar GitHub
+  * GitHub
+  * Git
+- Belajar Tensorflow
+  * Keras API
+  * Manual model building
+  
