@@ -1,0 +1,6 @@
+hallo pak salam kenal. nama saya yusrian dari BWI
+
+resolusi saya:
+- ingin memahami statistikal untuk data science
+- Penerapan statistik DS ke dalam bahsa PYTHON
+- pengen memperlajari bahasa pemrograman yang dibutuhkan seorang backend : python,golang,php dll
