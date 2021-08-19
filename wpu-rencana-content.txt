@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
+    html
     ^ React
     ^ Angular
   * Library Javascript
