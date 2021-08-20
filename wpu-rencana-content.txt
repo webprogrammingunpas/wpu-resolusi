@@ -33,5 +33,8 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
-- Aplikasi android
+- Aplikasi Android
 - Sertifikat SSL
+-Membuat Video Lengkap
+^ Cara Melamar Kerja Sebagai Programmer
+^ Cara Menjadi Back End & Front End Developer Handal
