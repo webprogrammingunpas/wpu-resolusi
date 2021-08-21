@@ -37,3 +37,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Figma
+- Wordpress
