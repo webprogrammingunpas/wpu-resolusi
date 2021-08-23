@@ -2,4 +2,5 @@ hello assalamualikum wr wb. salam kenal Wela Julia Rahmi (Universitas Negeri Pad
 
 resolusi saya:
 -membuat website menggunakan framework javascript
+  -angular
 - mahasiswa
