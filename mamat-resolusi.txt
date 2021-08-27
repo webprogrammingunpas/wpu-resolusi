@@ -1,0 +1,9 @@
+Halo pak, kenalkeun nama saya achmad. saya baru banget ikutin roadmap bapak biar jadi web developer, udah sebulan ini saya pantengin video video dari html dan skrg sudah kelar js DOM, tinggal js lanjutan saya skip dulu, habis seri github baru lanjut.
+
+Btw curhat dikit ini yaa.. asyik banget belajar di wpu channel, saya sendiri bukan background IT dan bukan kuliah IT.
+
+Resolusi-ku tahun 2021:
+  - Pada bulan September itu sudah menyelesaikan series node.js, js lanjutan, dan sudah membuat portfolio cv tanpa framework.
+  - Pada bulan Oktober sudah membuat 2 web, 1 web organisasi kampus, 1 lagi web sekolah. Pada bulan ini juga berniat belajar python.
+  - Pada bulan November kembali review materi web developer dan membuat mini-project javascript, serta mengembangkan logic dan algorithm karna 2 hal ini saya agak kurang.
+  - Pada bulan Desember ingin membuat 2 web bebas.
