@@ -33,5 +33,11 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Membuat pilihan berbagai metode pembayaran untuk e-commerce pulsa dan voucher game
+  ^ beragam transfer bank
+  ^ dana
+  ^ gopay
+  ^ dan e-wallet lainnya
+  ^ maaf ngga tau framework/aplikasinya masihbelajarbang newbie
 - Aplikasi android
 - Sertifikat SSL
