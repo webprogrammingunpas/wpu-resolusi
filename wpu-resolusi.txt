@@ -4,3 +4,7 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Belajar networking
+- Konten Docker Container
+- Mari bersama menjadi DevOps
+- Ayo belajar Cloud Computing
