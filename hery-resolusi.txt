@@ -1,0 +1,5 @@
+Halo pak nama Saya Hery Hamzah dari Makassar, salam kenal.
+
+Resolusi saya:
+- Menguasai PHP laravel dan Node.js untuk backend
+- Menguasai Flutter untuk frontend
