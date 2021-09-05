@@ -1,0 +1,4 @@
+saya roy dari bandung
+
+resolusi saya ingin membuat API sendiri dengan seluruh feature yg mandatory didalamnya dan mengkoneksikan ke data base
+membuat ekstension untuk browser dan filter untuk sebuah aplikasi
