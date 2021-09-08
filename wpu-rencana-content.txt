@@ -34,4 +34,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ buat website dengan android
 - Sertifikat SSL
