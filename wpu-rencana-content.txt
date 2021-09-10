@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Mencoba TensorFlow.js
   * ES6
   * NodeJS
   * Framework Javascript
