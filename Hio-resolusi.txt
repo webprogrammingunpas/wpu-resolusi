@@ -1,0 +1,7 @@
+Halo pak dosen salam kenal saya Hio Fadlika Akbar dari Banten, saya disini ingin menambah resolusi saya sesuai tutor di Yt Wpu
+
+Resolusi saya :
+1. Saya ingin membuat Website yang responsive dgn React atau Vue
+2. Memperkuat logika javascript
+3. Memperdalama DOM
+4. Impian saya, saya ingin menjadi seorang frontend developer yang bekerja di sebuah startup besar seperti TokoPedia
