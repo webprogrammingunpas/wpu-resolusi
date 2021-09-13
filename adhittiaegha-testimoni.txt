@@ -1,0 +1,16 @@
+Halo pak Dhika. Saya bersyukur bisa bertemu dengan channel web programing unpas.
+Saya dulu mempelajari programing PHP ketika menyelesaikan skripsi pada 2015
+belajar dari forum dan buku, saat itu buku-buknya lumayan mahal. 
+Semoga pak sandhika sehat selalu, karena sudah mau membagi ilmu secara gratis.
+
+Saat ini saya sudah bekerja di pemerintahan dan mendapatkan tugas membuat aplikasi berbasis web,
+bersama tim kecil terdiri dari teman-teman yang udah lama gak coding, kita belajar lagi dari awal
+kita mengerjakan fitur secara paralel menggunakan sharing file dan server lewat jaringan lokal.
+Github adalah hal yang baru buat saya, saya bersama tim mulai mempelajarai github karena sangat menarik.
+
+Resolusi :
+-  Khatam github.
+
+
+Materi yang sangat membantu kami :
+CI4 full sudah saya tonton berulang-ulang,
