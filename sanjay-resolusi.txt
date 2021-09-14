@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Sanjay Singh dari Surakarta
+Resolusi Saya :
+- Membuat Website company profile menggunakan laravel
+- Membuat Website lowongan kerja menggunakan laravel
+- Belajar React JS
+- Belajar membuat aplikasi mobile
