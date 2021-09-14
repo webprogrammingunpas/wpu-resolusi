@@ -1,0 +1,5 @@
+Halo pak salam kenal nama saya angga dari Majalengka
+
+Resolusi Saya :
+- Membuat Website menggunakan nodeJS
+- Bekerja sebagai programmer
