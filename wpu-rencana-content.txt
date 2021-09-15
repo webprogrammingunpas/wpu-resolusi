@@ -35,3 +35,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- yang perlu dipelajari ketika ingin kerja di start up
+- Algoritma Fundamental
