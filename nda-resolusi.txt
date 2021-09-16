@@ -1,0 +1,6 @@
+Halo Pak, Salam kenal.Nama saya Nanda dari Cilacap
+
+Resolusi saya:
+- Bekerja di di bidang QA
+- Membuat website menggunakan framework laravel
+-
