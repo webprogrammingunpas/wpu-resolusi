@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
   * ES6
+  * Penambahan Materi Fetch di JS Lanjutan (POST,PUT DLL
   * NodeJS
   * Framework Javascript
     ^ Vue
