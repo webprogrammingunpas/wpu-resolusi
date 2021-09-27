@@ -5,4 +5,5 @@ Resolusi saya:
 -Memperdalam JS
 -Mempelajari framework JS
 -Belajar networking
+-Mencoba python
 -Ingin jadi ahli IT
