@@ -1,0 +1,5 @@
+Halo pak, perkenalkan saya Syahrul Toha Saputra mahasiswa Polstat STIS
+
+Resolusi saya :
+- Belajar penggunaan GIT untuk pengerjaan proyek kolaborasi.
+- Membuat web monitoring survei dengan framework CI untuk kegiatan PKL.
