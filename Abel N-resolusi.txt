@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Abel Natanael H dari Cileungsi
+
+Resolusi saya :
+- Membuat web statis yang responsive
+- Belajar lebih dalam mengenai css
+- Sharing tentang pekerjaan frontend developer dan backend developer
