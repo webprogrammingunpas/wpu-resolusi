@@ -1,0 +1,12 @@
+hallo pak,salam kenal nama panggilan saya exotic dari palembang, umur saya saat ini 24 tahun, saya belajar pemograman saat usia saya di 23 tahun
+
+Resolusi saya:
+-menguasai javascript
+-menguasai python
+-menguasai framework:
+  ^node.js
+  ^express.js
+  ^react.js
+  ^django
+-mempelajari AI
+-mempelajari modeling data
