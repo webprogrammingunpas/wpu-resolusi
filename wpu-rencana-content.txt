@@ -20,6 +20,7 @@ RENCANA KONTEN WPU
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
+ * Melatih skill algoritma dan logika
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
