@@ -33,5 +33,10 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
-- Aplikasi android
+- Flutter
+  * membuat website
+  * membuat aplikasi android
 - Sertifikat SSL
+- Cloud Computing
+  * Microsoft Azure
+  * AWS

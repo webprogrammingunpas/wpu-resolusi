@@ -1,0 +1,4 @@
+Halo pak, salam kenal nama saya Aseef dari Malaysia
+
+Resolusi saya:
+ - mebuat website dan aplikasi android/ios menggunakan Flutter
