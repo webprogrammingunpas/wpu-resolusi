@@ -1,0 +1,5 @@
+Halo, pak, salam kenal, saya Bagus A. dari Singkawang, Kalimantan Barat
+
+Resolusi Saya :
+- Buat website ujian online
+- Belajar laravel 8
