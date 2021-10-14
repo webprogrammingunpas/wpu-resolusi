@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Rahmat asal Palembang
+
+Resolusi saya:
+- Membuat website berbasis Laravel
+- Belajar Tailwind CSS
