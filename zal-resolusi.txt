@@ -1,0 +1,5 @@
+Halo Pak Dika, nama saya Rizal
+
+Ini adalah resolusi saya :
+- Ingin belajar MERN (MongooDB, Express, React.js, Node.js)
+- ingin bekerja di perusahaan start-up as a Front-End Developer
