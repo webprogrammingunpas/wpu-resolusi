@@ -1,0 +1,10 @@
+Hello salam kenal, saya Vitrail dari Mananado.
+Sebenarnya saya tidak mendalami web programming, melainkan machine learning.
+Tapi ini adalah pertama kalinya saya menggunakan GitHub, meskipun buat akunnya sudah dari tahun lalu.
+Saya sangat kebingungan menggunakan GitHub dan untung channel youtube Web Programming UNPAS sangat membantu saya dalam memahami penggunaan GitHub.
+So, thanks a lot :)
+
+Resolusi saya :
+- Membuat project machine learning untuk images classification
+- Membuat project machine learning bersama team untuk video classification
+- Belajar realtime classification dan detection
