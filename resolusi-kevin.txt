@@ -1,0 +1,8 @@
+Resolusi Kevin :
+- Mampu memahami HTML, CSS, dan JavaScript dengan baik
+- Mampu memahami Framework CSS 
+  * Bootstrap
+  * Tailwind
+- Mampu memahami Framework JavaScript
+  * Angular
+  * Vue
