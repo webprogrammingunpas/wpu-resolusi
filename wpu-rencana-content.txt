@@ -11,7 +11,7 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
-- Struktur Data Dasar
+- Data Structures & Algorithms
 - PHP Frameworks
   ^ Laravel
 - Interview
