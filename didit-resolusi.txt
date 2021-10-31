@@ -1,0 +1,5 @@
+Halo Pak, perkenalkan nama saya Didit dari Bandung
+
+Resolusi saya :
+* Membuat website dengan Python 
+* Menggunakan Komputasi Cloud 
