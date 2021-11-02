@@ -5,4 +5,4 @@ Ini adalah resolusi yang saya buat untuk akhir tahun 2021 berkenaan dengan progr
 2. membuat project front-end untuk portfolio pekerjaan.
 3. diterima di perusahaan sebagai front-end developer
 
-sekian resolusi saya, Pak. Dimohon untuk acc pull requestnya ya pak, karena :D terima kasih.
+sekian resolusi saya, Pak. Dimohon untuk acc pull requestnya ya pak :D terima kasih.
