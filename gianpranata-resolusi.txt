@@ -1,0 +1,8 @@
+Halo Pak Dhika, perkenalkan nama saya Gian asal Pontianak, mahasiswa Sistem Informasi Universitas Bina Nusantara angkatan 2017.
+
+Ini adalah resolusi yang saya buat untuk akhir tahun 2021 berkenaan dengan programming:
+1. menguasai ReactJs
+2. membuat project front-end untuk portfolio pekerjaan.
+3. diterima di perusahaan sebagai front-end developer
+
+sekian resolusi saya, Pak. Dimohon untuk acc pull requestnya ya pak :D terima kasih.
