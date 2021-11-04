@@ -17,6 +17,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ Jupiter
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
@@ -30,6 +31,7 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
+  * Pemilihan warna pada CSS menggunakan hex color
     ^ Sass
 - Keamanan Website
 - Odoo
