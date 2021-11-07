@@ -17,7 +17,9 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
-  ^ Django
+  * Frameworks
+    ^ Django
+    ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
