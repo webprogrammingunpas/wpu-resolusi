@@ -3,4 +3,5 @@ Halo pak, salam kenal nama saya Yogie dari Sumatera Barat, saya adalah mahasiswa
 Resolusi Saya :
 - Membuat website menggunakan framework Javascript
 - Membuat aplikasi API
+- Membuat aplikasi Mobile
 - Bekerja di Start-up
