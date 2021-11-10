@@ -1,0 +1,5 @@
+Hallo pak. salam kenal saya asep 
+
+Resolusi saya:
+  -membuat rest api menggunakan django
+  -ingin bekerja sebagai backend developmen 
