@@ -1,0 +1,22 @@
+Hello Sir, I'm Ahmadi Fadillah from Yogyakarta
+
+I've followed you since arround 2 years ago.
+I accomplish my final task/thesis (Skripsi) on 18th Feb 2021,
+thanks to your Youtube Channel help me a lot on my thesis Project.
+This is my project link: https://jobpapers-beta.000webhostapp.com/
+It's using Login System - (CODEIGNITER 3) you teached.
+
+The project isn't finished yet. The web is currently still under development by myself.
+Hopefully one day this job portal can help people looking for Jobs..
+
+For your information,
+I've write down your name on 'Acknowledgement' page on my Thesis as the credit :)
+
+This time i do follow you on your GITHUB series..
+
+This is my Resolution:
+- Learning GIT & GITHUB (this month)
+- Learning CI4 (December)
+- Creating a Web-based Informatic System (Early 2021)
+
+Best Regards
