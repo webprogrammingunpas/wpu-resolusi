@@ -1,0 +1,21 @@
+Halo, saya Dhira dari Bandung. Siswa SMK, jurusan RPL.
+
+Resolusi saya untuk tahun ini:
+- Menguasai Git dan Github
+- Membuat website portofolio menggunakan HTML, CSS, Node.js
+- Menguasai PHP (Dasar-Menengah)
+- Belajar Laravel
+
+Resolusi saya tahun depan:
+- Belajar cloud computing
+- Belajar machine learning
+- Menguasai Java
+- Membuat program pake PHP, HTML, Laravel
+- Menyelesaikan project web sekolah
+
+Resolusi saya seterusnya:
+- Kuliah di ITS/POLBAN
+- berteman dengan programmer2 hebat di luar sana
+- Menjadi Full-stack web developer/Game Developer
+- Bekerja di perusahaan IT besar/di Perusahaan Game
+- Membuat program2 yang nantinya "berguna" secara real di masyarakat
