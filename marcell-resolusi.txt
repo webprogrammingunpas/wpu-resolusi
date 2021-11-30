@@ -1,0 +1,6 @@
+Halo Pak, salam kenal nama saya Marcellino dari Bangka Belitung
+
+Resolusi saya :
+- Membuat website menggunakan framework javsacript ataupun php
+- Memahami konsep dari livewire, konsep MVC
+- Membuat analisa dari proses bisnis berjalan sehingga dapat membuat aplikasinya
