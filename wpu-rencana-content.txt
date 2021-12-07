@@ -12,6 +12,8 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+  ^ Binary Tree
+  ^ Stack
 - PHP Frameworks
   ^ Laravel
 - Interview
@@ -35,3 +37,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Java
+  ^ GUI for java
