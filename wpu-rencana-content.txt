@@ -32,6 +32,20 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+  * SQL Injection
+  * Cross-Site Scripting (XSS)
+  * Bad Authentication dan Bad Management Session
+  * Unsafe Direct Object Reference
+  * Security Missconfiguration
+  * Insecure Deserialization
+  * Failed to Restrict URL Access
+  * Poor transport layer protection
+  * Broken Authenthication
+  * Sensitive Data Exposure
+  * XML External Entities (XXE)
+  * Broken Access Control
+  * Using Components With Known Vulnerabilities
+  * Insufficient Logging & Monitoring
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
