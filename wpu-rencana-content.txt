@@ -27,7 +27,7 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
 - CSS
   * Framework CSS
     ^ Sass
@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Java dasar dan konsep OOP
