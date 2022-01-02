@@ -1,5 +1,13 @@
 RENCANA KONTEN WPU
 
+- Golang
+ * membuat rest API
+ * backend
+
+- AWS
+ * membuat aplikasi microservice menggunakan AWS
+ * setting deploy app di AWS
+
 - Javascript
   * ES6
   * NodeJS
