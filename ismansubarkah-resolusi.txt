@@ -1,0 +1,5 @@
+Hi There. Let me introduce my self. My name is Isman Subarkah from Bogor.
+
+My Resolution on 2022 :
+  - I want to create chat app with PHP, Ajax, and MySQL.
+  
