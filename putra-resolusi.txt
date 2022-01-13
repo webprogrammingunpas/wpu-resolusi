@@ -1,0 +1,5 @@
+Halo Pak, salam dari Samarinda. Saya Putra Saymen, Mahasiswa semester 6 program studi Teknik Informatika
+
+Resolusi saya:
+- Membuat website dengan framework django
+- Bekerja di perusahaan Shopee
