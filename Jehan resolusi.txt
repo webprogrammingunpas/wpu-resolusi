@@ -1,0 +1,6 @@
+salam kenal pak dika nama saya jehan
+
+Resolusi saya:
+-Membuat website menggunakan bahasa Go
+-Saya ingin belajar tentang microservices
+-Saya ingin belajar banyak tentang pembuatan web
