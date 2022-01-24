@@ -1,0 +1,17 @@
+Halo Pak Sandika, salam kenal. Saya Jovi dari Jember
+
+Seneng rasanya bisa belajar di channelnya Pak Sandika karena selain informatif, juga interaktif dan mudah dipahami buat pemula
+
+Resolusi Saya di 5 tahun ke depan :
+1. Memahami fundamental Website
+2. Belajar framework PHP 
+  *Laravel
+  *CI
+3. Belajar framework CSS
+  *Bootstrap
+  *Tailwind
+4. Belajar framework JS
+  *Vue
+  *React
+5. Buat Project Website Pertama
+6. Bangun koneksi
