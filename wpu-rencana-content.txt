@@ -8,8 +8,8 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
   * Library Javascript
-    ^ Highcharts.js
-    ^ Numeral.js
+    ^ Highcharts.JS
+    ^ Numeral.JS
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
