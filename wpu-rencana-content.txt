@@ -10,28 +10,41 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+    
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  
 - Interview
 - Vlogs
 - Python
   ^ Django
+  
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
+ 
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
+  
 - Ruby on Rails
+
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  
 - CSS
   * Framework CSS
     ^ Sass
+    
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
+- Sesi " NGOBAR " selanjutnya, Turtorial Membuat Website Lengkap dengan : 
+ * Laravel 8 
+ * Vue.js
+ * Firebase

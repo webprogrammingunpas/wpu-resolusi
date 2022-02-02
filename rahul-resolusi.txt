@@ -1,0 +1,7 @@
+Halo pak sandhika, salam kenal nama saya Rahul dari Cirebon, saya adalah mahasiswa semseter 6 dari Politeknik Negeri Indramayu
+
+Resolusi saya :
+ - Membuat website dengan framework laravel 8
+ - Mencoba membuat tampilan ui website dengan vue.js
+ - Belajar menggunakan node.js
+ - Machine Learning sederhana dengan python
