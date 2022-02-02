@@ -43,7 +43,8 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
-- Turtorial Membuat Website Lengkap dengan : 
+
+- Sesi " NGOBAR " selanjutnya, Turtorial Membuat Website Lengkap dengan : 
  * Laravel 8 
  * Vue.js
  * Firebase
