@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
+- mariaDB
+- Struktur data > karena saya dapet C waktu dikampus pak. ahaha
