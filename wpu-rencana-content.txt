@@ -29,7 +29,7 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
-  ^ Tableau
+  ^ Tableau (visualization)
 - CSS
   * Framework CSS
     ^ Sass
