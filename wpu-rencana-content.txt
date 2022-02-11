@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Devops
+ *Docker
+ *NPM
+ *CI/CD
