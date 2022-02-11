@@ -8,6 +8,7 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
   * Library Javascript
+    * JQuery
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
