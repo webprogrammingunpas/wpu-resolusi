@@ -1,0 +1,5 @@
+Halo pak 
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Belajar PHP
