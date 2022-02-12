@@ -34,4 +34,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  - Design Adobe XD dan implementasi pada Flutter 
 - Sertifikat SSL
