@@ -32,6 +32,9 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+  ^ basic encrypt & decrypt
+  ^ SSL
+  ^ TLS
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
