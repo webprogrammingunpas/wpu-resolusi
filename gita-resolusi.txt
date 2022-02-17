@@ -1,0 +1,10 @@
+Halo Pak! perkenalkan saya Gita dari Cimahi.
+
+Resolusi saya:
+1. Belajar CSS dan Frameworknya
+      - Bootstrap
+      - Tailwind
+2. Belajar JavaScript dan Frameworknya
+      - Vue.js
+      - React
+3. Bismillah, di tahun 2022 ini mau komit jadi Front-end Developer. Amiin. (Doakan ya (^_^)//  )
