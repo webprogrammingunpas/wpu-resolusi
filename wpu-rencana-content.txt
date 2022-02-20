@@ -1,5 +1,9 @@
 RENCANA KONTEN WPU
 
+- jalur front end
+  *
+  *
+
 - Javascript
   * ES6
   * NodeJS
