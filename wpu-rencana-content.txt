@@ -18,6 +18,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Machine learning
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
@@ -35,3 +36,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Fullstack Web Developer
