@@ -1,0 +1,7 @@
+Halo pak, salam kenal nama saya Daniel
+
+Resolusi saya:
+-Membuat website menggunakan framework laravel
+-Bekerja di Start Up
+-Belajar UI/UX
+-Menyelesaikan kelas di Udemy, BWA
