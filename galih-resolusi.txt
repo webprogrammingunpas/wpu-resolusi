@@ -1,0 +1,7 @@
+Halo pak, perkenalkan saya Galih dari Semarang
+
+Resolusi saya:
+- Ingin membuat website menggunakan django dan flask
+- Ingin belajar desain menggunakan Adobe Photoshop
+
+Terimakasih sudah dibaca:)
