@@ -1,0 +1,13 @@
+Hallo pak, perkenalkan nama saya mahendra dari Bali. saya tamatan smk jurusan teknik komputer dan jaringan, dan sudah bekerja, saya sedang mempelajari web development.
+materi pembelajaran saya saat ini baru sampai pada tahap CSS (CSS GRID).
+
+saya sedang mengikuti pembelajaran "GIT" yang bapak upload videonya di youtube WPU.
+
+---------------
+
+Resolusi saya :
+- bisa membuat web (HTML, CSS, Javascript)
+- mengerti apa itu framework dan cara menggunakannya
+- di dalam web yang saya buat, saya juga ingin membuatnya memiliki database (menyimpan informasi registrasi)
+
+** Terimakasih 🙏🙏
