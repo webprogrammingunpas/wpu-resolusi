@@ -1,0 +1,6 @@
+Halo Pak, salam kenal nama saya Ahmad Sirojuddin dari Malang.
+Saya mahasiswa S3 di National Sun Yat-sen University, Taiwan.
+
+Resolusi saya:
+- Memahami deep learning menggunakan framework torch python
+- Meluangkan waktu untuk membaca paper minimal 2 jam sehari
