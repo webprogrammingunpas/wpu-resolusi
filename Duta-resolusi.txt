@@ -1,0 +1,5 @@
+Halo pak nama saya Duta Alif Gunawan dari Universitas Negeri Surabaya
+
+Resolusi saya:
+  - Saya ingin membuat website menggunakan framework Laravel
+  - Saya ingin menjadi seorang Full Stack Developer
