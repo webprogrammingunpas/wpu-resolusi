@@ -14,6 +14,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ CodeIgniter
 - Interview
 - Vlogs
 - Python
@@ -31,6 +32,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
