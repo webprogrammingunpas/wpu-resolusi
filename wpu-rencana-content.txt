@@ -36,3 +36,7 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Tips belajar yang baik agar tetap konsisten.
+- Web security
+- Membuat API
+- Materi mengenai scraping dan crawling
+- Membuat website dengan mengikuti desain UI/UX from scratch namun dengan vanilla html, css, dan js
