@@ -1,0 +1,6 @@
+Hallo pak, Salam kenal nama saya yudha dari Sidoarjo
+
+Resolusi 2022:
+- Membuat Website menggunakan framework flask
+- Otw kuliah
+- Bisa Bahasa Inggris
