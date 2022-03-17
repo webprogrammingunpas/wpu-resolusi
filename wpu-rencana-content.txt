@@ -6,10 +6,12 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ React.native
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+- UI/UX Design
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
