@@ -1,0 +1,6 @@
+Halo pak, perkenalkan nama ahmad sirojuddin kamil dari jakarta selatan
+
+Resolusi Saya:
+- Membuat fontEnd website dengan react.js
+- Membuat backEnd website dengan node.js
+- Membuat Apps dengan react.native
