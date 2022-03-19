@@ -1,0 +1,4 @@
+Salam Kenal
+Resolusi saya:
+Membuat Web untuk portofolio
+Memahami ReactJS
