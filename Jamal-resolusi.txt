@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Jamaludin dari Jepara
+
+Resolusi saya:
+- Membuat sebuah website menggunakan metode MERN
+- Dapat mempelajari pemrograman Javascript Framework
