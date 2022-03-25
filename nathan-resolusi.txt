@@ -1,0 +1,8 @@
+Hallo pak sandhika dan semua yang membaca ini. Kenalin nama saya Jonathan dari Manado. Saya merupakan mahasiswa dari Universitas Samratulangi.
+
+Resolusi Saya :
+- Membuat website CRUD dengan framework flask sebagai backend serta html bootstrap dan javascript di frontend.
+- Mengikuti kursus-kursus pemrograman untuk menambah skills.
+   - Javascript
+   - Django
+   - Node js
