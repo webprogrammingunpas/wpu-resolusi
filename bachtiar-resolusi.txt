@@ -1,0 +1,25 @@
+halo pak perkenalkan nama saya Bachtiar Arya Habibie dari Madiun
+
+Resolusi saya :
+- Belajar Pemrograman Dekstop
+  ^ Belajar bahasa java
+-Belajar mebuat game
+  ^ Unity
+  ^ 2D animation
+  ^ 3d animation
+  ^ Belajar bahasa c#
+- Belajar pemrograman web
+  ^ html
+  ^ css
+  ^ php
+  ^ java script
+- Belajar Database SQL
+  ^ Mysql
+  ^ Excel
+- Belajar Jaringan
+  ^ mikrotik router
+  ^ cisco router
+  ^ Debian server
+  ^ hosting
+  ^ SSL
+- Belajar Robotika
