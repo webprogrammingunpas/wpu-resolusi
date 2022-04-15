@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Jalur belajar AI: Machine Learning > Deep Learning > Neural Network > Computer Vision, NLP, dll
