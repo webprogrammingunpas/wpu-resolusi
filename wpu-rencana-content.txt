@@ -36,3 +36,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - Membahas seputar Cloud system
+- Membuat Playlist docker
