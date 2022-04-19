@@ -1,0 +1,7 @@
+Halo pak, salam kenal nama saya Thomas dari Jakarta
+
+Resolusi Saya : 
+- Mendalami lagi laravel
+- Belajar RESTFUL API
+- Belajar Vue Js
+- Buat porto
