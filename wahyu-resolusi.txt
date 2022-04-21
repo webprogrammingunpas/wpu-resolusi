@@ -7,13 +7,13 @@ Resolusi saya :
 -membuat game dll
 
 saat saya sedang mengetik file ini saya magang di sebuah perusahaan software house yg berada di daerah kediri kota jatim ya,
-selama 6 bulan ,itu tuntutan dari sekolah, saya btw saya masih smk ya ,dan di perusahaan ini tu kebanyakan sih backend develop ya setau aku ,
+selama 6 bulan ,itu tuntutan dari sekolah,btw saya masih smk ya ,dan di perusahaan ini tu kebanyakan sih backend develop ya setau aku ,
 yg menggunakan bahasa pemrograman python dengan framework django ,saya sih lumayan kesulitan menguasai django ini ,oleh karena itu saya ingin minta 
 buatin tutorial django python dong di chanelnya pak sandhika supaya memudahkan kita mempelajari framework django ,sebenarnya banyak sih di yt tutorial itu 
 tapi tutorialnya pakai django versi lama ,jadi agak lumayan kebingungan,atau saya nya aja yg otaknya kurang encer wkwkw,itu aja sih yg  mau saya sampaikan semoga pak
-sandika makin sukses dan sehat terus, dan doain saya juga ya pak semoga berhasil jadi programmer yg handal dan bisa membanggakan mak saya,supaya tidak jadi beban keluarga
-terus wkwk,semoga saya bisa jadi seperti pak sandhika atau bahkan melampaui anda pak hehe kan nggak ada yg tau ,cukup sekian ya pak saya kira ini terlalu panjang
-,dan saya kira ini nggak akan pernah dibaca oleh pak sandhika sih tapi siapa tau juga ya kan hehe, bapak lagi gabut eh ga sengaja kebaca hehe 
+sandika makin sukses dan sehat terus, dan doain saya juga ya pak semoga berhasil jadi programmer yg handal ,dan bisa membanggakan mak saya,supaya tidak jadi beban keluarga
+terus wkwk,semoga saya bisa jadi seperti pak sandhika ,atau bahkan melampaui anda pak ,hehe kan nggak ada yg tau ,cukup sekian ya pak saya kira ini terlalu panjang
+,dan saya kira ini nggak akan pernah dibaca oleh pak sandhika sih tapi siapa tau juga ya kan,hehe, bapak lagi gabut eh ga sengaja kebaca hehe 
 
 walaikumsalam pak salam smart programmer hehe
 
