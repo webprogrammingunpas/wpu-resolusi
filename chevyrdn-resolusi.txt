@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya chevy randani
+
+Resolusi saya :
+- MEmbuat website menggunakan framework Laravel
+- Bekerja di tart-up
