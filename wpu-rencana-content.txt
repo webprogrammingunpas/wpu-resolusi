@@ -15,6 +15,7 @@ RENCANA KONTEN WPU
     ^ D3.js
 - Webpack
 - Struktur Data Dasar
+- Docker 
 - PHP Frameworks
   ^ Laravel
 - Interview
