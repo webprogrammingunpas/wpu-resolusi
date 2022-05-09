@@ -1,0 +1,3 @@
+Nama saya Rafli
+1. Saya ingin menguasai cara pembuatan website dengan menggunakan Framework Back-end Laravel
+2. Saya ingin menguasai React, Node.js, Express.js, Next.js
