@@ -1,0 +1,4 @@
+Hallo pak, salam kenal nama saya wulan dari jambi
+resolusi:
+1. membuat web menggunakan react dan node.js
+2. bekerja di bidang software engineering
