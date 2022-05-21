@@ -3,4 +3,5 @@ WPU RESOLUSI
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+- Membuat vlog (mengenai keseharian Pak Sandhika)
+- Sharing dengan subscriber live
