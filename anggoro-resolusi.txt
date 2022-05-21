@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Anggoro Hoediyanto dari Bogor
+
+Resolusi saya di tahun 2022
+ - belajar Python dan Django
+ - mengkonversi aplikasi yang sudah saya bangun dengan C++ menjadi Django
+ 
