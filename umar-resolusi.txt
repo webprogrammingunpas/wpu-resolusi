@@ -1,0 +1,6 @@
+Assalamu'alaikum Pak Sandhika, salam kenal saya Umar dari Bekasi, saya penggemar video-video bapak.
+
+Resolusi Saya:
+- Membuat Website dengan React.js
+- Membuat Website dengan Three.js
+- Membuat API sendiri dengan Django
