@@ -1,0 +1,7 @@
+Halo pak Sandhika, salam kenal.. nama saya Fillah dari Bogor
+
+Resolusi saya :
+- Membangun web menggunakan jQuery dan CSS Grid
+- Belajar SASS
+- Dapat berkolaborasi di Github dengan user lain
+- Masuk kuliah di jurusan Teknik Informatika/Ilmu Komputer
