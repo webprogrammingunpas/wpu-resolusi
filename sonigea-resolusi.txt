@@ -1,0 +1,6 @@
+Salam kenal pak sandhi, perkenalkan nama saya soni gea dari Jakarta.
+
+Resolusi saya :
+- Membuat website menggunakan Framework React JS.
+- Membuat Website yang dinamis
+- Membuat website dengan Framework PHP
