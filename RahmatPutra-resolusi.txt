@@ -1,0 +1,4 @@
+Halo Pak, salam kenal nama saya Rahmat Putra. Dari Kota Pariaman, Provinsi Sumatera Barat.
+
+resolusi saya:
+saya berharap dengan kakak berkolaborasi untuk membuat aplikasi web dengan framework YII2.
