@@ -33,5 +33,7 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Membuat podcast dan interview kepada orang yg sudah terjun dan expert di dunia IT 
+
 - Aplikasi android
 - Sertifikat SSL
