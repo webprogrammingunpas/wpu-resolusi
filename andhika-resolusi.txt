@@ -1,0 +1,5 @@
+Saya dari depok, hanya sekedar melihat kembali video tutorial git karena lupa
+
+Resolusi saya : 
+- menguasai nuxt js
+- mengerti lebih dalam tentang respond api request
