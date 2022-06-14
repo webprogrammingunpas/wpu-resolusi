@@ -35,3 +35,14 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Belajar Java Dasar dan OOP
+- Belajar Kotlin
+  ^ Fundamental
+  ^ Functional
+  ^ Collection
+  ^ Object Oriented Programming
+  ^ Generic
+  ^ Coroutine
+- Belajar Android Studio
+  ^ Activity
+  ^ Fragment
