@@ -35,3 +35,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Proyek Source Code Frame Work Javascript sebuah Organisasi
+- Proyek yang berhubungan dengan sistem robotik/kendali
