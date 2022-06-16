@@ -36,3 +36,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - menggunakan c# untuk website
+- game website
