@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Mujiyardi dari Banjarmasin
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript dan PHP
+dan memjadi full stack developer
