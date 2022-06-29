@@ -17,6 +17,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^Pandas
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
@@ -36,3 +37,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Android
