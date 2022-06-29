@@ -1,0 +1,8 @@
+Halo pak, nama saya Kadek Adi Setiawan. Saya seorang mahasiswa semester 4 dan baru - baru ini ingin belajar tentang web development.
+
+Resolusi saya untuk kedepannya
+- Belajar Reactjs
+- Belajar PHP Beserta Laravelnya
+- Belajar RestAPI dan GrapQL
+
+Terima Kasih..
