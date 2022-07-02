@@ -7,8 +7,11 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ JQuery
   * Library Javascript
     ^ Highcharts.js
+    ^ DataTable
+    ^ CKEditor 4
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
@@ -31,6 +34,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Boostrap 5.3
 - Keamanan Website
 - Odoo
 - Aplikasi android
