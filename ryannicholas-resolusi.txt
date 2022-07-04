@@ -1,0 +1,11 @@
+Halo pak, saya Ryan Nicholas Purba, tinggal di Kabupaten Bekasi, dan sekarang saya berkuliah di Universitas Gunadarma. Salam kenal pak
+
+Berikut merupakan usulan resolusi Web Programming UNPAS
+
+RESOLUSI
+1. Tutorial series framework JavaScript
+   a. React.js
+   b. Vue.js
+2. Memperkenalkan pemrograman dalam HTML terbaru (seperti <script> dalam JavaScript) yaitu py-script
+
+Itu saja resolusi yang dapat saya usulkan. Terima kasih pak
