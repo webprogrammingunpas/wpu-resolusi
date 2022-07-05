@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Afra dari Bogor
+
+Resolusi saya :
+- Membuat Website marketplace dengan framework Laravel
+- Bekerja di lingkungan kerja yang nyaman
