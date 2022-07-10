@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Arsya dari Surabaya
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
