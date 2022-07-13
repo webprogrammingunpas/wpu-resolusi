@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+    ^ Membuat web backend menggunakan node.js dan database postgre SQL full dari awal sampai jadi
   * Framework Javascript
     ^ Vue
     ^ React
