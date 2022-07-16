@@ -12,6 +12,7 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+  *C++
 - PHP Frameworks
   ^ Laravel
 - Interview
