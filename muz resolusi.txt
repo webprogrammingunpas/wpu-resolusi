@@ -1,0 +1,5 @@
+Salam kenal, nama saya aji dari BSD
+
+Resolusi :
+- Belajar Laravel 8
+- Belajar Laravel 9 
