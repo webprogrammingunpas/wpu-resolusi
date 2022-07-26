@@ -1,0 +1,5 @@
+Halo Bapak Sandhika saya zulfano asal malang
+
+Resolusi saya :
+  - Membuat Web menggunakan framework javascript
+  - menjadi pragrammer fullstack
