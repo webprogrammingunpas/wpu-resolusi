@@ -28,9 +28,11 @@ RENCANA KONTEN WPU
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
+  ^ Materi SubQuery dan Agregate Function
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Boostrap
 - Keamanan Website
 - Odoo
 - Aplikasi android
