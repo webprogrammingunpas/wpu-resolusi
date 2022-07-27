@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat Playlist tentang pembuatan aplikasi menggunakan FrontEnd dan BackEnd
