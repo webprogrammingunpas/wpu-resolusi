@@ -1,0 +1,3 @@
+Halo pak, salam kenal saya Fitra Noviar dari Tangerang
+- Membuat website Menggunakan framework nestjs
+- Bekerja di Startup
