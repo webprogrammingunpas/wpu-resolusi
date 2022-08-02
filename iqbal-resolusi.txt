@@ -1,0 +1,5 @@
+Hallo pak, salam kenal nama saya Iqbal Firmansyah dari Bandung
+
+Resolusi saya :
+ - Membuat website menggunakan framework Laravel
+ - Bekerja di start-up
