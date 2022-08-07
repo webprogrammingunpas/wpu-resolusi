@@ -33,5 +33,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Analisa dan Perancangan Sistem Informasi
 - Aplikasi android
 - Sertifikat SSL
