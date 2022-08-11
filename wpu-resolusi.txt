@@ -4,3 +4,5 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+   * Membuat vlog tentang spesifikasi PC untuk programming
+- Membuat variasi video yang lebih banyak
