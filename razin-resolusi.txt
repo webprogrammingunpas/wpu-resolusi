@@ -1,0 +1,5 @@
+Halo, salam kenal nama saya Razin dari Surakarta
+
+Resolusi saya:
+- Membuat website menggunakan React JS
+- Bekerja sebagai Front-End Developer di perusahaan fintech
