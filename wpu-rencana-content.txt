@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat buku fisik tentang Bahasa Programming seperti Javascript, PHP, Framework, dll atas nama Channel Youtube WPU.
