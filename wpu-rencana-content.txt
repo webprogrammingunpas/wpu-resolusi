@@ -4,9 +4,7 @@ RENCANA KONTEN WPU
   * ES6
   * NodeJS
   * Framework Javascript
-    ^ Vue
-    ^ React
-    ^ Angular
+    - laravel
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
