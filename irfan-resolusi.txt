@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Irfan 
+
+Resolusi saya :
+  -> Membuat web menggunakan framework javascript
+  -> membuat aplikasi mobile 
