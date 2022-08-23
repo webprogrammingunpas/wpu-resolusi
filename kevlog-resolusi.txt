@@ -1,0 +1,6 @@
+Halo pak, salam kenal. Saya Kevin dari Surabaya.
+
+Resolusi:
+- Mempelajari Git & GitHub
+- Mempelajari PHP
+- Mempelajari JavaScript
