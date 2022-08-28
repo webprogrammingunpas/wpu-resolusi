@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * jQuery
   * Framework Javascript
     ^ Vue
     ^ React
@@ -10,7 +11,10 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+  * State Management
+    ^ Redux
 - Webpack
+- Algoritma
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
@@ -30,8 +34,11 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
+    ^ Bootstrap 5
     ^ Sass
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Database
+  ^ SQL
