@@ -1,0 +1,6 @@
+Assalamualaikum pak, salam kenal nama saya feri gustiadi dari Padang
+
+Resolusi Saya :
+- Membuat aplikasi POS menggunakan framework PHP
+  ^ Laravel / CI4
+- Membuat Chanel React Js / React Native
