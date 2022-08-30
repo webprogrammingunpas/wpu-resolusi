@@ -14,6 +14,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ CI
 - Interview
 - Vlogs
 - Python
@@ -32,6 +33,8 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+  ^ Code Checker
+  ^ Malware Scanner
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
