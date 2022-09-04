@@ -1,0 +1,8 @@
+Perkenalkan nama saya Wahyu Wiradarma dipanggil radar, asal blitar Jawa Timur, sekarang domisili Kota Bekasi, 
+mengambil kuliah setara D1, mobile application and technology
+
+Resolusi Saya :
+- Belajar Spring Boot
+- Belajar ORM Hibernate
+- Belajar Jakarta Persistence API
+
