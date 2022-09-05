@@ -34,4 +34,4 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
-- Sertifikat SSL
+- Pilihan Karir Setelah Lulus Jurusan Teknik Informatika
