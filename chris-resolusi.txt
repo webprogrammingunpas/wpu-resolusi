@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya christiandy nathannael, umur saya 17 th.
+
+Resolusi saya:
+  - Membuat website menggunakan framework laravel
+  - Bekerja di start-up
