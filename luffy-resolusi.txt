@@ -1,0 +1,15 @@
+Halo pak, perkenalkan saya bambang, saya merupakan seorang mahasiswa pada saat ini di universitas riau, tepatnya di fakultas ilmu komputer
+saya bertempat tinggal di pekanbaru, riau
+
+Resolusi saya saat ini adalah:
+  1. Membuat project khusus untuk saya sendiri, yang nantinya akan membantu saya dalam melakukan penjadwalan tugas tugas perkuliahan
+  2. Membuat aplikasi web yang akan membantu orang tua saya untuk memanajement toko kosmetiknya
+Untuk memenuhi hal tersebut, hal yang telah saya pelajari sejauh ini adalah
+  1. HTML, CSS
+  2. Javascript, PHP
+  3. Framework (Node.JS(expressjs), Codeigniter(php))
+  4. Rest-API
+dan semua hal tersebut tentunya saya pelajari dari channel youtube bapak, sehingga, saya mengucapkan banyak terima kasih kepada bapak karena telah memberikan saya ilmu yang berharga kepada saya
+yang saya pelajari semua hal ini sebenarnya sejak libur semester hingga sekarang (ga kerasa juga ya, padahal baru aja kemaren belajar html, sekarang udh selesai semua)
+
+Sekian resolusi dan hal yang telah saya pelajari dan telah saya ceritakan. Sekali lagi, terima kasih pak
