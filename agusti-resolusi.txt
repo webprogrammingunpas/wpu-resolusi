@@ -1,0 +1,8 @@
+hallo pak dika,nama saya agusto,saya berasal dari bali.
+saya baru masuk kuliah,dan saya masuk ke dalam dunia programming karena saya suka dengan dunia komputer,dan tertarik mengenalnya lebih jauh lagi
+dan saya bercita-cita ingin menjadi seorang back-end;
+
+teknologi yang saya ingin pelajari adalah:
+-MERN
+-PHP
+-GOLANG
