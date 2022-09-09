@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Node js
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -14,6 +15,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Codeigniter 4
 - Interview
 - Vlogs
 - Python
@@ -25,9 +27,11 @@ RENCANA KONTEN WPU
   ^front end
 - Ruby on Rails
 - Database
+  ^ Tipe Database DDL DML
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Query Database
 - CSS
   * Framework CSS
     ^ Sass
@@ -35,3 +39,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Data Mining
