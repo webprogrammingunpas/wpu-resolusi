@@ -12,9 +12,11 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+  ^ Big O Notation
 - PHP Frameworks
   ^ Laravel
 - Interview
+  ^ Tips yang perlu dihindari, materi apa saja yang biasanya ditanyakan
 - Vlogs
 - Python
   ^ Django
@@ -31,6 +33,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
