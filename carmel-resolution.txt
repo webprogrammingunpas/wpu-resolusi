@@ -1,0 +1,8 @@
+Hello, my name is Carmel from Malaysia
+I'm a network graduate 
+I watch many of your video tutorials regarding programming 
+
+My resolutions are: 
+- Finishing a full working website (Laravel) which I'm currently working on
+
+Thank you!
