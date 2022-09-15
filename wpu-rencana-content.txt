@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ React Native
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -34,4 +35,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  * Kotlin
 - Sertifikat SSL
