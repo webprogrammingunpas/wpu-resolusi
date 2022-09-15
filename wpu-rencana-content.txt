@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ExpresJS
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -32,6 +33,7 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+- Golang
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
