@@ -7,6 +7,8 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Node
+    ^ Aurelia
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -35,3 +37,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Java
+  * Aplikasi Mobile (Android)
+  * Aplikasi Desktop
+  * Aplikasi Web
