@@ -3,10 +3,12 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+  * BunJS
   * Framework Javascript
     ^ Vue
     ^ React
     ^ Angular
+    ^ Redux
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
