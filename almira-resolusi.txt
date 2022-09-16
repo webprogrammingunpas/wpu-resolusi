@@ -1,0 +1,9 @@
+Salam kenal pak, nama saya Almira
+
+Berikut resolusi saya :
+- Belajar dasar HTML, CSS, Javascript
+- Belajar HTML 5
+- Belajar Git dan Github
+- Membuat portofolio dari HTML, CSS, JS
+- Belajar framework bootstrap dan Tailwind
+- Belajar framework JS seperti React dan Vue
