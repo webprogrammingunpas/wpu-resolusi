@@ -1,0 +1,5 @@
+Halo pak salam kenal saya saiful bahri, saya harap Pak dika sehat selalu dan selalu berkah rizki dan umurnya. 
+
+Izin memberikan saran saya untuk WPU kedepannya.
+1. Mungkin untuk kedepannya bisa update materi yang sudah ada dengan yang lebih relevan dengan jaman sekarang.
+2. Adain tutorial Tech Stack yang banyak ditekuni orang orang kaya MERN (Mongo DB, Express JS, React, Node JS).
