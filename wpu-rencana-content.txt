@@ -7,9 +7,11 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ React Native
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+- flutter
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
