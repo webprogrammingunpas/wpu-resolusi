@@ -16,10 +16,12 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+- Podcast IT (Cyber Security)
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
+ * Opening Animation Web menggunakan CSS
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
@@ -33,5 +35,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Docker
 - Aplikasi android
 - Sertifikat SSL
