@@ -1,0 +1,8 @@
+Hallo Pa.. Perkenalkan nama saya Imron.
+
+Resolusi saya akhir tahun ini yaitu untuk memulai belajar programming diantaranya:
+1. Pyhton
+2. Machine Learning
+3. Statistic
+4. Database
+5. Data Visualization
