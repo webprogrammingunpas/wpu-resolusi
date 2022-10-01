@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Elfan dari Banjar masih sekolah
+
+Resolusi Saya:
+- Membuat website menggunakan framework laravel
+- Bekerja di startup
