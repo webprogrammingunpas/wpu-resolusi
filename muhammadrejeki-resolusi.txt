@@ -1,0 +1,8 @@
+Salam kenal ,pak! Nama saya Muhammad Rejeki dari bogor.
+Saat ini saya sedang memulai untuk serius di bidang programmer khususnya web.
+Semoga istiqomah amiinn :)
+
+Resolusi saya di tahun ini :
+- Belajar Vue JS 
+- Membuat project dengan Laravel dan vue js
+- Mengerti dan dapat menggunakan database no sql
