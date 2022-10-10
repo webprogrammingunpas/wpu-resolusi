@@ -1,8 +1,0 @@
-Halo pak Sandhika, salam kenal
-Nama saya Ren dari Depok. Kuliah di bidang non IT. Sudah kerja sbg freelance Bisnis Analis di lembaga eGovernment.
-Dengan mempelajari Github, saya berharap dapat mengimbangi tim saya perihal teknis project manajemen. 
-
-Resolusi saya tahun 2019 ini :
-- Membuat website menggunakan framework Javascript
-- Mengikuti shortcourse start up
-- Fokus mempelajari Javascipt dan Vue Js
