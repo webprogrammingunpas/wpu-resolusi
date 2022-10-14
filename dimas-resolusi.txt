@@ -1,0 +1,11 @@
+Halo pak, salam kenal. Saya Dimas dari Jakarta, seorang mahasiswa
+
+Resolusi Saya:
+- Melanjutkan belajar React JS dan mendalami JavaScript
+- Membuat RESTful API yg lebih baik dengan Spring Boot
+- Belajar Git dan GitHub biar bisa buat kerja nanti
+- Belajar pembahasaan soal code challange dengan Java
+
+Impian Saya saat ini
+- Bisa menyelesaikan kuliah hingga S1
+- Dapat Internship untuk nimba ilmu langsung di industri nya dan bisa bayar kuliah sendiri
