@@ -1,0 +1,5 @@
+Halo pak, saya Thomas Setiawan dari Jaten
+
+Resolusi saya
+- Membuat website dengan frame work vue
+- Bisa menjadi fullstack dev
