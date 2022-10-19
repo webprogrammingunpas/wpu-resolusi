@@ -1,0 +1,8 @@
+Halo pak,nama saya Muhammad Lazuardi Harahap,saya berasal dari Medan. Saat ini saya berkuliah di jurusan ILMU KOMPUTER 
+
+Resolusi saya adalah :
+- Konsisten untuk belajar pemrograman selama setiap hari.
+- Membuat CRUD daftar mahasiswa.
+- Ingin memperdalam Front-End.
+- Ingin memperdalam UI/UX Design. 
+- Mempelajari DBMS.
