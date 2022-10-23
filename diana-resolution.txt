@@ -1,0 +1,7 @@
+Hallo pak, salam kenal nama saya diana dari blitar
+
+Dan berikut resolusis saya kedepan :
+- belajar docker
+- belajar kubernet
+- belajar openstack
+- belajar materi devops
