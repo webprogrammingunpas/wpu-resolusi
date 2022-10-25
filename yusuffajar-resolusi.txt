@@ -1,0 +1,32 @@
+Halo pak, semoga selalu dalam lindungan Allah SWT.
+Salam kenal pak, saya Muhamad Yusup Fajarudin dari Lebak, Banten.
+Resolusi saya :
+- Membuat website dinamis
+- Membuat WebApp
+- Membuat sistem dengan web atau berbasis web
+
+Ini renca beljar saya :
+
+RENCANA TEKNOLOGI WEB YANG AKAN DIPELAJARI :
+=== PERKUAT FUNDAMENTAL ===
+  FRONTEND
+Frontend Basic :
+1. HTML5
+2. CSS3
+3. JavaScript 
+
+Frontend Next (Framework) :
+1. CSS => Bootstrap5, Tailwind
+2. JavaScript => VueJs, ReactJs
+
+Design Tools :
+1. Figma
+2. Adobe XD
+3. Adobe Illustrator
+
+==== Belajar  API ====
+=== PERKUAT FUNDAMENTAL ===
+  BACKEND 
+ Programming Language :
+ 1. PHP Native => Laravel 
+ 2. NodeJS => Express JS
