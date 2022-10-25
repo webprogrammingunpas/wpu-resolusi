@@ -1,0 +1,7 @@
+Halo pak, perkenalkan saya Meliana dari Jember.
+
+Resolusi saya :
+- Mempelajari GIT & GITHUB
+- Menguasai framework CI 
+- Menguasai laravel
+- Bekerja sebagai web programmer di perusahaan bonafide
