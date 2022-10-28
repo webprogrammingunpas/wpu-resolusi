@@ -1,0 +1,7 @@
+Halo pak Sandhika, salam kenal
+Nama saya Kijem dari Bali.
+
+Resolusi saya tahun 2022 ini :
+- Membuat website menggunakan framework Javascript
+- Mengikuti shortcourse start up
+- Fokus mempelajari Javascipt dan Vue Js
