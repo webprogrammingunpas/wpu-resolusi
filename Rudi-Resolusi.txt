@@ -1,0 +1,6 @@
+Salam Kenal Nama saya Rian Dari Jakarta
+
+Resolusi Saya :
+- Menguasai Pemrograman dengan PHP Laravel
+- Menguasai Pemrograman dengan NodeJS & ExpressJS
+- Menguasai MongoDB dan PostgreSQL
