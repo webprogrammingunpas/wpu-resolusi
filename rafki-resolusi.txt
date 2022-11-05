@@ -1,0 +1,4 @@
+Rafki - 18 Tahun - SMKN 24 Jakarta
+Resolusi Rafki :
+- Membuat website professional dengan laravel 
+- Membuat AI dan ML
