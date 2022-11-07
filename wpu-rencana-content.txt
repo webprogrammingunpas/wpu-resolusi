@@ -14,8 +14,10 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ codeigniter
 - Interview
 - Vlogs
+  ^ Dayly ngoding vlog
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
