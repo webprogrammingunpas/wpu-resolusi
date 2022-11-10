@@ -1,0 +1,3 @@
+Halo pak kerkenalkan nama saya Adit, saya dari Lombok
+
+Resolusi sy di tahun 2022 ini saya ingin bisa membuat website menggunakan framework javascript
