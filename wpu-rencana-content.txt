@@ -23,6 +23,9 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
+   *HTML
+   *CSS
+   *Bootstrap
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
