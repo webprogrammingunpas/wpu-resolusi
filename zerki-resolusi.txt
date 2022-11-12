@@ -6,3 +6,5 @@ Resolusi saya :
 - Belajar mengunakan VCS seperti github, git, gitlab
 - Belajar membuat website menggunakan bootstrap
 - Cita-cita ingin berkerja di perusahaan start-up
+- Membuat website menggunakan framework laravel
+- Ingin Menjadi Fullstack Developer
