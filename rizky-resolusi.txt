@@ -1,0 +1,7 @@
+Selamat pagi, siang, sore, malam pak. Perkenalkan nama saya Rizky dari Lombok
+
+Resolusi saya tahun ini adalah:
+  - Membuat website dengan laravel untuk portfolio
+  - Mencoba mencari tambahan dengan bekerja freelance
+  
+ Terimakasih.
