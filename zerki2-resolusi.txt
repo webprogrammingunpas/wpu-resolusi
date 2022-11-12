@@ -1,5 +1,0 @@
-Assalamualaikum pak, salam kenal saya Zerki dari Padang
-
-Resolusi Saya :
-- Membuat website menggunakan framework laravel
-- Ingin Menjadi Fullstack Developer
