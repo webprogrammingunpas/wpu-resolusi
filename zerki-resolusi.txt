@@ -1,0 +1,10 @@
+Halo, salam kenal nama saya zerki dari Padang
+
+Resolusi saya :
+- Belajar membuat aplikasi dengan android studio dan firebase sebagai data center
+- Belajar membuat design dengan menggunakan adobe XD
+- Belajar mengunakan VCS seperti github, git, gitlab
+- Belajar membuat website menggunakan bootstrap
+- Cita-cita ingin berkerja di perusahaan start-up
+- Membuat website menggunakan framework laravel
+- Ingin Menjadi Fullstack Developer
