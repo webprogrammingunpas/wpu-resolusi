@@ -1,5 +1,5 @@
 RENCANA KONTEN WPU
-
+- Membuat website multi platform
 - Javascript
   * ES6
   * NodeJS
