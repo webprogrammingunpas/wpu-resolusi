@@ -15,6 +15,7 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+- Pengerjaan soal test masuk perusahaan dan di jadikan sebauh video
 - Vlogs
 - Python
   ^ Django
