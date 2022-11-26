@@ -1,0 +1,4 @@
+Resolusi :
+- Membuat website menggunakan framework JS
+- Bekerja di startup
+- Memahami framework PHP
