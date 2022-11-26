@@ -1,0 +1,15 @@
+Halo pak dika, perkenalkan nama saya rudi asal Semarang
+
+Resolusi kedepanya saya ingin
+-) Memahami konsep dasar PHP
+-) Memahami CSS beserta frameworknya
+-) Memahami konsep dasar JS
+-) Memahami konsep dasar OOP
+-) Memahami framework PHP (Laravel)
+-) Memahami framework CSS (Bootstrap)
+-) Memahami framework JS (React JS)
+-) Membuat project sederhana (Toko Online, Portofolio, Pembukuan)
+
+Cita cita saya 
+-) Menjadi programmer profesional
+-) Bekerja di perusahaan ternama
