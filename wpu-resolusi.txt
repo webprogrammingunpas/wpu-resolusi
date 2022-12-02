@@ -1,6 +1,9 @@
 WPU RESOLUSI
+- Konsisten upload video minimal 2x seminggu
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Membangun komunikasi dengan subscriber
+- Membuat video sesi QnA untuk menjawab pertanyaan subscriber
