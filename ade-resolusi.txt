@@ -1,7 +1,7 @@
-salam kenal pak dika nama saya ade randika saya mahasiswa dari jogja 
+salam kenal pak dika nama saya monica saya mahasiswa dari semarang 
 
 Resolusi saya:
--Membuat website menggunakan framework codeIgniter
+-Membuat website menggunakan wordpress
 -Saya ingin bekerja di kantor google indonesia 
 -Saya ingin belajar banyak tentang web ke pak dika 
 
