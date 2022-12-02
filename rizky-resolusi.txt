@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Rizky dari Tangerang Selatan
+
+Resolusi Saya :
+- Bekerja sebagai backend web berbasis Python
+- Dapat menggunakan/memahami Django lebih dalam
