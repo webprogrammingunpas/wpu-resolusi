@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+- OS Linux
 - Javascript
   * ES6
   * NodeJS
@@ -16,8 +17,12 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+- C++
 - Python
   ^ Django
+  ^ Machine Learning
+  ^ Deep Learning
+- Micro Python
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
@@ -34,4 +39,7 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ Kotlin
+  ^ Flutter
+- Aplikasi Desktop
 - Sertifikat SSL
