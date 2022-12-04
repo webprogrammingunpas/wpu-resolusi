@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
+- OS Linux
+- GIT
 - Javascript
   * ES6
   * NodeJS
@@ -34,4 +36,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+- Aplikasi Desktop
 - Sertifikat SSL
