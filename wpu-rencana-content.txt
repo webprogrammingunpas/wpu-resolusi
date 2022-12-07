@@ -16,6 +16,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+ * Traveling
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
