@@ -1,2 +1,2 @@
 # wpu-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+saya rizky dari ciamis dan resolusi saya adalah menjadi laravel developer yang mampu beradaptasi pada lebih dari satu bahasa pemrograman
