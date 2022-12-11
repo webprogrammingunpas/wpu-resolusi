@@ -2,11 +2,10 @@ halo pak saya dipta dari jawa timur
 mahasiswa 
 
 resolusi saya tahun 2024
-^ipk stabil 
-^belajar java
-^belajar golang 
-^ikut gemastik(meskipun mental sudah terguncang duluan)
-^bisa ikut magang 
-^menambah pengalaman 
-^belajar terus sampe mampus 
-^buka joki tugas coding bisa kali 
+- stable ipk 
+- learn java 
+- learn golang 
+- participate in gemastik(meskipun mental sudah terguncang duluan)
+- participate in internship
+- gain more experience especially about backend 
+- start a joki for uni task 
