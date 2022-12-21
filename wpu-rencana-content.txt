@@ -16,6 +16,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^ Vlog Roomtour
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
@@ -27,7 +28,8 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Materi Indexing table di Mysql
 - CSS
   * Framework CSS
     ^ Sass
