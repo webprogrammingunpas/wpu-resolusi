@@ -3,4 +3,5 @@ Halo pak, salam kenal nama saya Refa dari Baubau, Sulawesi Tenggara
 Resolusi Saya :
 - Membuat website menggunakan framework Javascript, React JS, Bootstrap and Tailwind
 - Bekerja di start-up
-- Ingin menjadi seorang Web Developer
+- Ingin menjadi seorang Programming Web Developer
+- Bisa membuat landing page
