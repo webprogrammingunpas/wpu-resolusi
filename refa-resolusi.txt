@@ -1,4 +1,4 @@
-Halo pak, salam kenal nama saya Refa Amirul (nama panggilan Refa) asal dari Baubau, Sulawesi Tenggara
+Halo pak, salam kenal nama saya Refa Amirul (nama panggilan Refa) saya seorang mahasiswa Informatika Makassar asal dari Baubau, Sulawesi Tenggara
 
 Resolusi Saya :
 - Membuat website menggunakan framework Javascript, React JS, Bootstrap and Tailwind
