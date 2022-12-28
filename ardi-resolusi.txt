@@ -1,0 +1,7 @@
+Halo pak, salam kenal.
+Saya Ardi dari Yogyakarta.
+Saat ini saya sedang berkuliah di salah satu perguruan tinggi negeri di Yogyakarta.
+
+Resolusi saya di 2023 ini:
+- Membuat website utuh front-end dan back-end-nya
+- Bekerja sebagai data analyst/scientist
