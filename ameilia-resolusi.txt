@@ -1,0 +1,4 @@
+Halo Pak, Nama saya Ameilia !
+Resolusi 2023 :
+1. Mengerti cara menggunakan Git & GitHub pada OS Windows dan Ubuntu :)
+2. Setiap hari meningkatkan skill bahasa C minimal 15 menit
