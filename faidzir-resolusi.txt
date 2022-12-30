@@ -5,3 +5,4 @@ Resolusi 2023
 
 - Belajar python untuk data science.
 - Belajar SAS.
+- Join Computing Lab.
