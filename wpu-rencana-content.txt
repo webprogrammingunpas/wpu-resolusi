@@ -31,7 +31,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
-- Keamanan Website
+- Keamanan Website untuk pemula,middle,high.
 - Odoo
 - Aplikasi android
+  * Flutter
+  * Java
 - Sertifikat SSL
