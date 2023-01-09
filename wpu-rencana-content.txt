@@ -24,7 +24,7 @@ RENCANA KONTEN WPU
   ^back end
   ^front end
 - Ruby on Rails
-- Database
+- Databases
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
