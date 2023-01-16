@@ -1,0 +1,6 @@
+Halo pak Shandika, Salam kenal....
+Nama saya Nusalendra Putra dari Gresik
+
+Resolusi saya :
+  - membuat website menggunakan framework Laravel
+  - Baru mulai belajar VueJS
