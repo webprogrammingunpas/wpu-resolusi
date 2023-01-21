@@ -1,0 +1,6 @@
+Hallo pak salam kenal nama saya krisna dari bengkulu, 
+sekarang saya masih kuliah di universitas bengkulu jurusan informatika, 
+saya saat ini baru belajar tentang website dari proframming bapak, terima kasih banyak atas ilmu yang diberikan semoga allah membalasnya
+ 
+Resolusi saya :
+- saya ingin membuat website ujian online menggunakan framework laravel
