@@ -14,7 +14,6 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
-  ^ Code Igniter
 - Interview
 - Vlogs
 - Python
@@ -35,4 +34,5 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ android studio
 - Sertifikat SSL
