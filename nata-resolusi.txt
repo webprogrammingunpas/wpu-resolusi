@@ -1,0 +1,7 @@
+Halo Pak, perkenalkan nama saya Nata dari Surabaya. 
+
+Resolusi saya untuk tahun 2023 adalah menjadi pemrogram website dengan keahlian sebagai berikut: 
+- Dapat menggunakan XHTML dan CSS
+- Dapat menggunakan bahasa pemrograman PHP dan JavaScript
+- Dapat menggunakan framework Laravel dan Vue.js
+- Dapat menggunakan REST API.
