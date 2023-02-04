@@ -1,0 +1,10 @@
+Halo pak, salam kenal saya Kristain dari Bandung
+
+ini resolusi saya:
+
+Saya akan belajar back end menggunakan golang dengan sangat serius
+belajar github
+belajar mysql
+belajar docker
+belajar echo
+belajar api
