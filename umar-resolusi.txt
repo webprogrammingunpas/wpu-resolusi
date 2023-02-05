@@ -1,0 +1,4 @@
+Mahasiswa informatika UIN Sunan Kalijaga
+Resolusi saya:
+- mempelajari framework js
+- mempelajari backend
