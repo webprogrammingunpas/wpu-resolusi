@@ -1,0 +1,5 @@
+Halo Pak, Salam Kenal Nama Saya Rendi Septia Rahman. Saya mahasiswa jurusan Teknik Informatika Universitas Kuningan. Saya berasal dari Majalengka.
+
+Resolusi Saya :
+- Membuat website dengan framework Laravel
+- Membuat aplikasi dengan java
