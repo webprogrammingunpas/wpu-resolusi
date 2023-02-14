@@ -1,0 +1,20 @@
+Nama : Muhammad Handika Jatikusuma
+Status : Mahasiswa Universitas Kuningan
+
+Target saya selama tahun 2023 yaitu :
+
+Januari       : Berhasil Membuat Satu Projek dengan Bahasa Pemrograman C++
+Februari      : Menguasai Web Fundamental
+Maret	    	  : Menguasai HTML, dan CSS
+April		      : Menguasai Java Script
+Mei		        : Menguasai PHP dan MySQL
+Juni		      : Menguasai materi Git & Github
+Juli		      : Mulai membuat Toko Online Sederhana berbasis Website
+Agustus	      : Lulus Program Dev Ops dari beasiswa Dicoding
+September	    : Mulai berhasil dalam bidang Saham di Aplikasi AJAIB
+Oktober	      : Belajar OOP PHP
+November	    : Mulai menjadi Freelancer Youtube
+Desember	    : Mulai Belajar Bahasa Pemrograman Java
+
+Dan semoga keinginan saya supaya bisa menjadi Fullstack Developer tercapai :)
+@copyright 2023 | Muhammad Handika Jatikusuma
