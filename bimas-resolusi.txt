@@ -1,0 +1,6 @@
+Halo pak, nama saya Bima dari Tuban.
+
+Resolusi saya :
+- Membuat website menggunakan react
+- Membuat aplikasi menggunakan JAVA
+- Mempelajari Backend
