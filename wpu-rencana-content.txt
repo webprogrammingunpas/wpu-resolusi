@@ -1,8 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
-  * ES6
-  * NodeJS
+  ^ ES6
+  ^ NodeJS
   * Framework Javascript
     ^ Vue
     ^ React
@@ -18,11 +18,13 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ TensorFlow
+  ^ Project Jupyter
 - Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
+  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
+  ^ Back end
+  ^ Front end
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
@@ -35,3 +37,14 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- C++
+  ^ OOP
+  * Game
+    ^ 2D game
+    ^ Game psychic
+    ^ 3D game
+    ^ Ray tracing
+    ^ Shader
+  ^ Pointer
+- Struktur Data
+- Algoritma dan Pemrogramman
