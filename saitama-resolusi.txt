@@ -6,3 +6,5 @@ Resolusi saya tahun 2019 ini :
 - Membuat website menggunakan framework Javascript
 - Mengikuti shortcourse start up
 - Fokus mempelajari Javascipt dan Vue Js
+
+semangatt
