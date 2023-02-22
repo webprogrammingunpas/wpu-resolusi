@@ -1,0 +1,5 @@
+Halo pak, saya Niko dari Tangerang
+
+Resolusi :
+- Menguasai RestAPI
+- Memahami DB Mysql, NoSQL, MonggoDB, dll
