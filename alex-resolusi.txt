@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Alex dari Bogor
+
+Resolusi saya:
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
