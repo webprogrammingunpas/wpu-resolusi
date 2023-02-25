@@ -18,6 +18,8 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+- C++ dan C#
+ * Materi dasar
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
