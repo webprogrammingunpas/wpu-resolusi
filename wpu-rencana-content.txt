@@ -31,6 +31,8 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Boostrap
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
