@@ -1,0 +1,5 @@
+- Git & Github
+- Figma
+- Jquery
+- MERN JS
+- Shreded
