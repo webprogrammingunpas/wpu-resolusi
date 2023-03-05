@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- bahas menganei perkembangan web developer untuk kedepannya setelah adanya chat gpt
