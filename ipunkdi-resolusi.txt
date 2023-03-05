@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Ipang asal Banyuwangi dan saya seorang mahasiswa di Politeknik Negeri Banyuwangi
+
+Resolusi saya :
+- Membuat website menggunakan framework laravel
+- Bekerja di Google
