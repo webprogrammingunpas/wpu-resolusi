@@ -5,7 +5,7 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
-    ^ React
+    ^ React versi terbaru
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
