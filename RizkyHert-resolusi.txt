@@ -1,0 +1,5 @@
+Halo pak, nama saya rizky hertama dari Bekasi.
+
+Resolusi saya :
+- Membuat web menggunakan vue js
+- Membuat bisnis IT
