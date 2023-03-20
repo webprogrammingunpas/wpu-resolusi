@@ -1,0 +1,6 @@
+Selamat Siang Pak Sandhika, Nama saya Stephen Baldwin, saya masih kelas 11 Jurusan RPL,
+Umur saya 17 tahun, saya berasal dari Bekasi Timur
+Ini Resolusi Saya Pak😉: 
+- Membuat Sebuah Website Yang Isinya tentang Komik Menggunakan Library JSnya ReactJS,
+  Framework CSSnya TailwindCSS dan Framework ReactJSnya NextJS.
+- Saya Ingin Bekerja di Perusahaan IT Baik Yang Besar, Menengah maupun yang masih Kecil
