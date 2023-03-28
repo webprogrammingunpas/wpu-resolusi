@@ -1,0 +1,4 @@
+Halo pak salam kenal saya Ali dari Bekasi
+Resolusi saya:
+- Bisa ETL Big Data
+- Bisa machine learning
