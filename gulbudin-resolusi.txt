@@ -1,0 +1,19 @@
+Halo pak, salam kenal nama saya gulbudin dari bitung sulawesi utara
+saya sekarang sedang kuliah di jurusan biologi dan tertarik mempelajari web developer di youtube web progaming unpas
+
+resolusi saya:
+-membuat website portofolio fotografi
+-mempelajari bahasa pemograman javascript dan PHP
+-memperdalam ilmu untuk web developer pemula
+
+yang telah saya pelajari untuk jalur belajar web developer pemula :
+-HTML dasar
+-HTML 5
+-CSS dasar
+-CSS Layouting
+-CSS 3
+-CSS Framework : materialize & bootstrap 4
+-CSS Flexbox & grid
+-Javascript dasar
+
+terima kasih pak atas pelajarannya 
