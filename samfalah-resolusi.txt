@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya Sam dari bandung
+
+Resolusi saya :
+- Membuat aplikasi web menggunakan framework php 
+- Mendalamai Database Management Sistem
+- Mendalami Machine Learning 
