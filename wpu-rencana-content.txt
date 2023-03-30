@@ -23,11 +23,13 @@ RENCANA KONTEN WPU
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
+- Membuat web online shopping lengkap dengan framework php
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ Materi Perancangan Database (Database Design System) dari dasar
 - CSS
   * Framework CSS
     ^ Sass
@@ -35,3 +37,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Video Streaming
