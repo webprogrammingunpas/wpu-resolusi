@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Zaki Andriansa dari Depok. Saya pelajar dari SMKN 1 Depok. Saya sedang duduk dibangku kelas 10 di tahun 2023 ini.
+
+Resolusi :
+- Membuat web jualan dengan menggunakan laravel
+- Membuat game dengan kelompok saya
