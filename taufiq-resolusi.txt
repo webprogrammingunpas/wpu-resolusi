@@ -1,0 +1,5 @@
+Halo Pak Dika, salam kenal. Saya Taufiq dari Medan.
+
+Resolusi saya :
+- Membuat website Undangan Digital menggunakan Framework JavaScript
+- Membuat aplikasi Undangan Digital berbasis Mobile
