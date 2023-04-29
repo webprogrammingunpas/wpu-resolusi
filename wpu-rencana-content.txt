@@ -29,7 +29,7 @@ RENCANA KONTEN WPU
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
-  * Framework CSS
+  * Framework CSS (Selalu Update video terbaru terkait versi terbaru framework-framework seperti bootsrtrap, tailwind, dll)
     ^ Sass
 - Keamanan Website
 - Odoo
