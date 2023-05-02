@@ -20,9 +20,7 @@ RENCANA KONTEN WPU
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
-- Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
+- Belajar Flutter
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
