@@ -22,6 +22,7 @@ RENCANA KONTEN WPU
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
+  -best practice membuat API
   ^front end
 - Ruby on Rails
 - Database
