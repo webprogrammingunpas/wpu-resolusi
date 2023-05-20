@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Valentinov dari Bogor
+
+Resolusi Saya:
+- Mendesain webisite menggunakan framework tailwind
+- Membuat projek back-end dan front0end
