@@ -1,0 +1,14 @@
+Halo Pak, salam kenal Saya Sophia dari Surabaya. 
+Saya merupakan mahasiswi Universitas Ciputra Surabaya, sekarang saya semester 2.
+Kebetulan saya sedang ada project untuk UAS di perkuliahan yang membutuhkan saya untuk belajar GitHub, untuk bekerja dalam tim
+Untuk project yang saya buat ini tentang JavaScript dalam topik OOP, jadi saya perlu belajar GitHub untuk memudahkan.
+
+Resolusi Saya : 
+- Ingin membuat website untuk gereja saya 
+- Ingin di channel WPU membahas tentang mata kuliah database (normalisasi - pembuatan tabel)
+- Ingin WPU membahas MK.Database yang dihubungkan dengan PHP 
+- Ingin WPU membahas tentang website yang disambungkan dengan Database yang telah dibuat di PHPmyAdmin
+- Ingin WPU membahas tentang bagaimana cara memberikan harga untuk project yang dikerjakan 
+- Ingin memulai dan membuat project dari klien pertama saya dengan bantuan beberapa teman yang ada di WPU
+
+Mungkin sekian dulu, mohon bantuan doanya untuk kesuksesan saya Pak. Semoga sukses selalu untuk Pak Dhika. Thank you
