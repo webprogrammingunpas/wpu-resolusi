@@ -1,6 +1,8 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
+> membuat konsekuensi kalau gak membuat
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+> form diskusi yang berbobot untuk dunia kerja besok
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
