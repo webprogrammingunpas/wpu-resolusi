@@ -1,0 +1,5 @@
+Halo, nama saya ihsan ali
+
+Resolusi saya :
+- Mendalami Web Programming
+- Mempelajari HTML, CSS, Tailwind CSS, JS, ReactJS, NodeJS, PHP, Laravel & Codeigniter, MySQL, MongoDB
