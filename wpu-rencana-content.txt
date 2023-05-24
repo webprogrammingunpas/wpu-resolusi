@@ -19,6 +19,8 @@ RENCANA KONTEN WPU
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
+- Berbagi tips mengenai spek laptop untuk programming pemula
+- A Day In My Life seorang programming dan dosen
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
