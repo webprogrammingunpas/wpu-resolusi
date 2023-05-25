@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Iqbal dari Jambi
+
+Resolusi saya :
+- Membuat website menggunakan laravel
+- Bekerja di startup setelah tamat kuliah
