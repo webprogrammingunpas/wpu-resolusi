@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat 'quest' untuk para programmer pemula khususnya yang baru belajar tentang percodingan, contoh: halaman login, navbar, website sederhana
