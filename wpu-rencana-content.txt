@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+- cara penggunaan laragon dan XAmpp
 - Javascript
   * ES6
   * NodeJS
