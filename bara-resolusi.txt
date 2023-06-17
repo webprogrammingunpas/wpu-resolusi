@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Bara Tegar Sudjiwo dari Bogor
+
+Resolusi saya :
+  - Membuat Website dengan framework css dan javascript
+  - Bekerja sebagai Front-end Developer
