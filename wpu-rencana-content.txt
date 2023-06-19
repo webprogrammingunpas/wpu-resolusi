@@ -7,13 +7,16 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Next JS
+    ^ HapiJS
+    ^ NestJS 
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel 5
 - Interview
 - Vlogs
 - Python
