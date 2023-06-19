@@ -1,6 +1,12 @@
-Halo Pak Dika, salam kenal saya Rafli dari Balikpapan.
+Halo Pak Dika, salam kenal saya Rafli mahasiswa dari Makassar.
 
-Rseolusi saya:
+Resolusi saya:
+- Membuat website menggunakan framework React JS
+- Saya ingin bekerja di perusahaan-perusahan besar maupun start-up dan juga saya ingin bekerjsa sebagai seorang freelancer
+
+Impian saya:
 - Menjadi Front End Developer
 - Menjadi Back End Developer
 - Bekerja di start-up
+- Menjadi programmer yang dapat bermanfaat bagi orang banyak
+- Ingin membagi ilmu saya tentang pemerograman khusus nya di bidang pemerograman website
