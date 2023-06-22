@@ -11,7 +11,8 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
-- Struktur Data Dasar
+- Wordpress
+- Web Design
 - PHP Frameworks
   ^ Laravel
 - Interview
@@ -24,6 +25,7 @@ RENCANA KONTEN WPU
   ^back end
   ^front end
 - Ruby on Rails
+- Cyber Security
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
@@ -31,6 +33,8 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
