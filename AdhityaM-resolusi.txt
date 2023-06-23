@@ -2,7 +2,7 @@ Halo pak sandhika, salam kenal saya Adhitya Maulana Wijaya dari kuningan jawa ba
 saya lulusan SMA jurusan IPS dan merupakan calon mahasiswa baru di teknik informatika, pada salah satu kampus swasta di Kuningan.
 
 Resolusi saya:
-= Memberangkatkan haji kedua orang tua saya
+- Memberangkatkan haji kedua orang tua saya
 - Menjadi seorang fullstack javascript web developer profesional
 - Menjadi mobile app developer
 - Bekerja di jepang suatu hari nanti
