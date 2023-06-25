@@ -27,7 +27,9 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  ^ Materi join table di Mysql
+  ^ DDL dan DML
+  ^ Normalisasi Data
 - CSS
   * Framework CSS
     ^ Sass
