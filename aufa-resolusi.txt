@@ -1,0 +1,5 @@
+Assalamu'alaikum pak Sandhika, salam kenal saya Aufa dari Banda Aceh
+
+Resolusi dari saya:
+- Semoga ke depannya ada pembahasan mengenai express.js
+- Semoga ke depannya ada playlist pembuatan website sederhana yang siap, ada back-end, front-end, database, dam pembuatan server
