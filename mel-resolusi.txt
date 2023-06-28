@@ -1,0 +1,5 @@
+Halo, Pak. Nama Saya Camela dari Semarang. Saya adalah seorang pelajar yang sedang duduk di bangku SMK. 
+
+Resolusi Saya:
+- Membuat website menggunakan framework Laravel,
+- Membuat project berupa website yang bisa dipakai/bermanfaat.
