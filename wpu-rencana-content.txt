@@ -30,11 +30,11 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
-- Mobile
-  ^ Flutter
-  ^ Dart
     ^ Sass
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Mobile
+  ^ Flutter
+  ^ Dart
