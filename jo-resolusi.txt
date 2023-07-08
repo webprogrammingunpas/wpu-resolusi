@@ -1,0 +1,5 @@
+Halo Pak, Salam kenal.
+
+Resolusi:
+- Membuat webiste menggunakan framework javascript
+- bekerja di start-up
