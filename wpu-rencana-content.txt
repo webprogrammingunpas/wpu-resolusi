@@ -5,12 +5,15 @@ RENCANA KONTEN WPU
   * NodeJS
   * Framework Javascript
     ^ Vue
-    ^ React
+    ^ React -> 
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+- API
+    ^ Cara membaca dokumentasi dan menggunakan api pada web
+    ^ Membuat website menggunakan data dari api
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
@@ -31,6 +34,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Talwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
