@@ -1,0 +1,5 @@
+Hallo Pak, saya Thatha dari New York
+
+Resolusi tahun ini:
+- Belajar Python
+- Belajar bikin website menggunakan Django
