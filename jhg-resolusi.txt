@@ -4,3 +4,4 @@ Resolusi saya :
 - Membuat website menggunakan framework javascript
 - ingin bekerja di start-u
 -io
+-.
