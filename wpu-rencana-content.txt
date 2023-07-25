@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+- Go language
 - Javascript
   * ES6
   * NodeJS
