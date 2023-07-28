@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya budi dari Manado
+
+Resolusi saya:
+- Membuat website menggunakan framework laravel
+- Mendirikan Startup
