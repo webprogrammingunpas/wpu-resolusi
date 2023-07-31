@@ -15,6 +15,7 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+- Vlogs
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
