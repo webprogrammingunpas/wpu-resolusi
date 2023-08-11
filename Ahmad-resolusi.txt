@@ -1,0 +1,14 @@
+Halo Pak, Salam Kenal Nama Saya Ahmad Dari Makassar
+Saat Ini Saya Mahasiswa Baru Dari Universitas Negeri Makassar Dan Masuk Di Jurusab Teknik Informatika Dan Komputer,
+Tepatnya Di Prodi Teknik Komputer.
+
+Alasan Saya Masuk Di Teknik Kompurter di UNM, Karena Teknik Komputer Memiliki Gelar S.Kom, Berbeda dengan Prodi Sebelah(Pendidikan Teknik
+Komputer Dan Informatika) Yang Memiliki Gelar S.Pd, Walaupun Begitu, Pada Teknik Komputer Di UNM, Ia Memiliki Kurikulum Yang Lumayan Berkaitan
+Coding, Dan Ada Juga Matkul "Programan WEB"
+
+Dan Saya Sangat Berterima Kasih Kepada Pak Sandhika Karena Materinya Yang Sangat Berguna
+
+Resolusi Saya
+-Membuat Portofolio Menggunakan Html,Css(Tailwand),Javascript(React)
+-Membuat Sebuah Project Tentang Kost/Laundry Yang Menggunakan Nodejs
+-Ingin Bekera Di Perusahaan Luar Negeri
