@@ -1,3 +1,19 @@
 Hallo salam kenal Pak Sandhika saya dari Provinsi Kalimantan Barat, Pontianak, Kab. Sanggau, Kec. Noyan, suatu daerah terpencil di perbatasan dengan Malaysia
 
 Saya sudah mengikuti banyak playlist WPU, saya banyak belajar dari WPU
+
+Resolusi
+- Framework JS
+  ^ Vue Js
+  ^ Express JS
+- PHP
+  ^ Laravel
+  ^ CI
+- DBSM
+  ^ Postgresql
+  ^ MongoDB
+- Docker
+- GraphQL
+- Android
+  ^ Quasar
+  ^ Ionic
