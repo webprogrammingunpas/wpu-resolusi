@@ -18,6 +18,16 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Pandas
+  ^ Numpu
+  ^ Seaborn
+  ^ Matplotlib
+  ^ Scikit-learn
+  ^ Keras
+  ^ Tensorflow
+- Hadoop
+- Spark
+- Tableau
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
