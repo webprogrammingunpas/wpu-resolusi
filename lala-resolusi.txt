@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Lala dari Bandung
+
+Resolusi saya :
+- Membuat web dari nol
+( Menguasai frontend, backend, database)
+Menguasai dan paham sampai bisa mengimplementasikan nodejs dan javascript dalam project saya
