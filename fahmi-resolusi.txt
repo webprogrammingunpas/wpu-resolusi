@@ -1,0 +1,6 @@
+Halo Pak, salam kenal nama saya Fahmi dari Medan.
+Saya seorang Dosen di Fakultas Teknologi Prodi Sistem Informasi Universitas Battuta.
+
+Resolusi Saya :
+- Membuat website CRUD menggunakan Laravel 9
+- Membuat mobile app menggunakan Fluter
