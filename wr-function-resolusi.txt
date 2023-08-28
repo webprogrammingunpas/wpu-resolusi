@@ -1,0 +1,7 @@
+assamu'alaikum pak Dhika Perkenalkan saya wr-function dari jatim
+saya masih awam soal web programming mohon bimbingannya pak Dhika
+
+resolusi saya :
+- python dasar, hingga OOP-nya pak hehe
+- tentang framework python untuk web, django ataupun flask
+- tentang databse sekalian pak dhik hehe... 
