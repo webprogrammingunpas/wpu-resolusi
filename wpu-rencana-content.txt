@@ -18,12 +18,14 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Flask
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
   ^front end
 - Ruby on Rails
+- Bash
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
