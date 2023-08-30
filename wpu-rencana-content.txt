@@ -10,28 +10,56 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
-- Webpack
-- Struktur Data Dasar
-- PHP Frameworks
-  ^ Laravel
-- Interview
-- Vlogs
-- Python
-  ^ Django
-- Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
-- Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
-- Ruby on Rails
+
 - Database
-  ^ NoSQL MongoDB
-  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
-  ^ Materi join table di Mysql 
+  * Struktur Data Dasar
+  * NoSQL
+    ^ MongoDB
+  * SQL
+    ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
+  * DBMS
+    ^ phmyadmin
+    ^ pgadmin
+  * Language
+    ^ DDL (Data Definition Language)
+    ^ DML (Data Manipulation Language)
+    ^ DCL (Data Control Language)
+    ^ TCL (Transaction Control Language)
+
+- PHP Frameworks
+   * Laravel
+   * CodeIgniter
+
+- DevOps
+   * CI/CD
+     ^ Ansible
+     ^ Jenkins
+     ^ Gitlab-CI
+   * Kubernetes
+   * Docker
+
 - CSS
-  * Framework CSS
-    ^ Sass
+   * Sass
+   * Bootstrap
+   * Tailwind
+
+- Python
+   * Django
+   * Flask
+
+- Membuat sistem blog CMS
+   * backend
+   * frontend
+
+- Webpack
+- Ruby on Rails
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
+# Non Programming
+- Interview
+- Vlogs
+- Quick Tips dan trik programming ala Pak Sandhika Galih
+  * Materi Sweet alert
