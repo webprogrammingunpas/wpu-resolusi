@@ -1,0 +1,3 @@
+Hallo pak, saya mahasiswa Unair prodi Teknologi Sains Data semester 3, saat ini saya sedang mengambil matkul Algoritma Pemrograman 2 dan saya sedang belajar Git dan GitHub
+
+Semoga di akhir semester saya bisa membuat website yang bisa bermanfaat
