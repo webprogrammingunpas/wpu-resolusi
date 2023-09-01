@@ -1,0 +1,5 @@
+halo pak salam kenal saya achbar dari semarang
+
+resolusi saya :
+- membuat website menggunakan framework laravel
+- bisa melakukan ui/ux dengan menggunakan figma
