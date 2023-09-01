@@ -1,0 +1,6 @@
+Halo assalamualaikum pak saya erika dari surabaya
+
+Resolusi saya :
+- Membuat website menggunakan framework laravel
+- Belajar pembangunan perangkat lunak dengan Django
+- Bekerja di tech company
