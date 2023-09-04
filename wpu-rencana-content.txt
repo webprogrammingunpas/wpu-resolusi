@@ -31,6 +31,8 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+-Ultility Class
+ ^ Tailwind CSS
 - Keamanan Website
 - Odoo
 - Aplikasi android
