@@ -1,5 +1,8 @@
 RENCANA KONTEN WPU
 
+- Konsep OOP
+- Clean Code
+- Design Pattern
 - Javascript
   * ES6
   * NodeJS
