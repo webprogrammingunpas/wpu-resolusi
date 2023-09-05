@@ -1,0 +1,4 @@
+Halo Pak lagi belajar git nih
+Resolusi :
+- Belajar Menggunakan GIT
+- Tidak perlu lagi fileFix, fileNew, filepalingNew
