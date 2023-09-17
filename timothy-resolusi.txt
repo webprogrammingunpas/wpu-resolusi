@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Timothy dari Bandung
+
+Resolusi saya :
+- Membuat website menggunakkan framework javascript seperti react dan vue
+-Mampu membangun restfull API dan website dengan database
