@@ -1,0 +1,4 @@
+Halo pak, nama saya satrio akbar baru belajar front end web
+
+Resolusi Saya :
+- Mampu membuat front end web dengan HTML, CSS dan Javascript
