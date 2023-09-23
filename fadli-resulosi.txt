@@ -1,0 +1,11 @@
+halo, pak nama saya muhamad fadli saya tinggal d jakarta saya biasa di panggil fadli. Saya seorang siswa SMK jurusan perkantoran tapi saya tetarik coding ini.
+mungkin saya telat mengikuti seri ini tapi saya beharap pak dika bisa melihat fork yang saya buat ini terimaksih.
+saya sudah lumayan banyak mengikuti seri materi dari pak dika dari html, CSS, javscript dasar, javascipt lanjutan, DOM, NodeJS, TailwindCSS. Dan Seperti nya saya lebih ingin memperdalam di javscript.
+setelah saya mengikuti seri pak dika saya mulai mencoba membuat website sebuah oraginisasi daerah sekitar saya dan saya masih stuck soal database heheh :)
+semoga setlah saya mengikuti seri node js pak dika saya bisa melajutkan jam terbang saya lebih dari ini mohon bantuan nya ya pak 
+resolusi saya :
+  - saya ingin membuat sebuah website portofolio 
+  - mempelajari FronEnd dan BackEnd
+  - melanjutkan & mencoba jam terbang saya di dunia progammer ini 
+
+  semoga saya bisa mencapai tujuan yang saya mau aamiin
