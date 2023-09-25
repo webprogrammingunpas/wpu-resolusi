@@ -1,0 +1,7 @@
+Halo pak dika, salam kenal, nama saya Umar Bin Abdul Aziz 
+
+Resolusi Saya:
+
+- Membuat website dengan framework codeigniter 
+- Lancar menggunakan git & github
+- Belajar framework lain selain codeigniter
