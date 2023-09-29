@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Informasi apa saja yang ditanyakan pada interview di dunia pekerjaan sebagai programmer, khususnya web
