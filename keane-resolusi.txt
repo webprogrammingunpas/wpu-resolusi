@@ -1,0 +1,7 @@
+Halo pak, Salam Kenal nama saya Keane Athallah dari Palu, Saya mahasiswa dari Universitas Negeri Makassar.
+
+Resolusi Saya :
+- Belajar laravel 10x sampai ecosystem nya
+- Belajar Golang sampai tahap intermediate
+- Belajar Membuat aplikasi multiplatform
+
