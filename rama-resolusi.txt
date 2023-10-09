@@ -1,0 +1,13 @@
+Assalamualaikum Pak Dhika, salam kenal Pak
+
+Berikut resolusi saya:
+Ingin menjadi Front End Dev serta menguasai beberapa skill berikut:
+CSS:
+  - Sass
+  - Tailwind
+
+Javascript:
+  - React Js + Next Js
+  - Vue Js + Nuxt Js
+  - Three Js
+  - GSAP
