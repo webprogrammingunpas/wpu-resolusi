@@ -33,5 +33,8 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
+- Machine Learning
+  ^ Neural Network
+  ^ deep learning
 - Aplikasi android
 - Sertifikat SSL
