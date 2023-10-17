@@ -12,16 +12,9 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
-- PHP Frameworks
-  ^ Laravel
-- Interview
-- Vlogs
-- Python
-  ^ Django
-- Quick Tips dan trik programming ala Pak Sandhika Galih
- * Materi Sweet alert
-- Membuat sistem blog (cms) lengkap
-  ^back end
+fdgfadgadsfjkhfgadsjhfadsjfgasjfhg
+adsfjkhadsbfgiadsdfbk
+dsifuadgsfiygdsfkhbscfiygads
   ^front end
 - Ruby on Rails
 - Database
