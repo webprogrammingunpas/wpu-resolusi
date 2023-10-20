@@ -3,3 +3,4 @@ Halo pak Sandhika, salam kenal. Saya Bancar dari oSlo
 Resolusi saya
 - Belalajar Dasar JavaScript
 - Belajar Git
+- Belajar DOM
