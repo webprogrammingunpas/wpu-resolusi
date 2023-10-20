@@ -4,3 +4,4 @@ Resolusi saya
 - Belalajar Dasar JavaScript
 - Belajar Git
 - Belajar DOM
+- Belajar MERN
