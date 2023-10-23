@@ -29,6 +29,7 @@ RENCANA KONTEN WPU
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
   ^ Materi join table di Mysql 
 - CSS
+  * Effect Parralax
   * Framework CSS
     ^ Sass
 - Keamanan Website
