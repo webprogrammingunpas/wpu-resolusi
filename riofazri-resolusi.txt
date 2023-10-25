@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Rio Fazri Septian dari Jakarta
+
+Resolusi Saya :
+-Membuat Website menggunakan framework Laravel dan ReactJS
+-Bekerja di Startup dunia
