@@ -1,0 +1,4 @@
+Halo pak, nama saya Muhamad Aridho, saya seorang pelajar SMK kelas 2, saya berasal dari Bekasi
+Ini Resolusi saya pak : 
+- Mempelajari teknologi JavaScript
+- Membuat bot whatsapp sederhana
