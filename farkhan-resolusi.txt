@@ -1,0 +1,5 @@
+Halo Pak, Nama saya Farkhan Muhammad dari Medan
+
+Resolusi saya:
+- Membuat front-end menggunakan reactjs
+- Bekerja di startup
