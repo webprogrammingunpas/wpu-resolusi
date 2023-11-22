@@ -1,0 +1,7 @@
+Halo pa saya ilhan asal bandung, mahasiswa semester 3
+  Resolusi saya yaitu 
+1. Learn about REACT JS
+2. Make project using REACT JS
+3. Finish the class project
+4. More consistent in learning coding
+5. Make website using CRUD in Javascript
