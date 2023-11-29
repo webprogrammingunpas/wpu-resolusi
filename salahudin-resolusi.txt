@@ -1,0 +1,6 @@
+Halo pak , salam kenal nama saya salahudin dari jateng . terimakasih pak ilmunya untuk git dan github , dengan video ini saya jadi tau alur atau cara bagaiamana berkontribusi di repo orang lain 
+
+Resolusi saya : 
+- saya ingin menjadi backend developer 
+- saya ingin membuat project website yang kompleks dengan laravel
+- semoga saya bisa mencari bakat saya di bagian apa , saya sendiri masih bingung antara di web atau android 
