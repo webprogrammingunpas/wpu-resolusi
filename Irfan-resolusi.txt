@@ -1,0 +1,9 @@
+Halo pak,
+salam kenal nama saya Irfan Faisal dari bandung. sekarang saya alhamdulillah diterima di Universitas Komputer Indonesia.
+
+Resolusi saya :
+- Membuat website Company Profile menggunakan Semantic, Angular, Dan pelengkap framework web design yang lainnya.
+- Saya ingin membuat startup yang bertempat di bandung.
+- Untuk sekarang, saya ingin belajar lebih ke arah back endnya. seperti Code Igniter, Laravel.
+- Terlebih saya ingin freelance untuk menambah uang jajan dan uang jalan saya hehe
+- Pengen kerja di startup
