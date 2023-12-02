@@ -16,6 +16,8 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+- jalur belajar front-end development 2023
+- pekerjaan yg cocok untuk bidang progamming
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
