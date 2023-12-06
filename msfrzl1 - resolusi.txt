@@ -1,0 +1,6 @@
+halo pak nama saya muhammad saifur rizal dari jakrta timur
+
+RESOLUSI SAYA : 
+
+1. saya sudah belajar java script dan mengikuti pelatihan , tetapi saya belum dapat logic untuk menyelesaikan test case.
+2. contohnya logic di perkondisian if else
