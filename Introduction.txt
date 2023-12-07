@@ -1,1 +1,6 @@
-H
+Hello saya sedang mengikuti tutorial integrasi GitHub dan Git
+
+Saya berencana menggunakan GitHub dan Git ini untuk project pembuatan Automation Framework yang menggunakan Java dengan framwork maven dan Library:
+- Selenium
+- Apache POI
+- TestNG
