@@ -10,6 +10,9 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+  * Framework PHP
+    ^ Laravel
+    ^ Codeigniter
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
