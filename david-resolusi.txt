@@ -1,0 +1,6 @@
+Hallo nama saya David dari singkawang
+
+  Resolusi saya :
+  - Membuat sistem yang bisa dipakai oleh orang lain , dan dapat memajukan kota singkawang ke Go Digital
+  - Menggunakan framework PHP Laravel
+  - Memiliki team developer dan bertumbuh didunia programming
