@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Moh. Dwi Afandi dari Kediri, Jawa Timur
+
+Ini adalah daftar resolusi saya :
+- Menjadi expert di pemrograman python
+- Bekerja di perusahaan
+- Bisa menggunakan framework django python
