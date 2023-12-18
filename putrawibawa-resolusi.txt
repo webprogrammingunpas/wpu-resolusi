@@ -1,0 +1,6 @@
+test test test
+
+resolusi
+-tests resolusi 1
+-tests resolusi 2
+-tests resolusi 3
