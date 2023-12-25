@@ -30,9 +30,9 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
-- Cyber Security
     ^ Sass
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Cyber Security
