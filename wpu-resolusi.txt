@@ -1,6 +1,6 @@
-WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+WPU RESOLUSI :
+
+- Membuat podcast dengan tema dunia programming
+- Membuat konten tentang era winter tech
+- Membuat konten tentang jenjang karir tenaga kerja IT terutama web developer di indonesia
+- Membuat konten tentang wordpress, mngkin bisa tutorial tentang wordpress atau membahas apakah web dev yang sering menggunakan wordpress untuk menyelesaikan pekerjaan dari client itu lebih baik karena efisiensi waktu atau ada baiknya tetap di bangun dengan full coding
