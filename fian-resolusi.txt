@@ -1,0 +1,12 @@
+Perkenalkan pak Sandhika Galih, Saya Fian asal Ngawi. Tepat pada hari ini adalah bulan ke 3 saya belajar tentang web programming melalui berbagai sumber dan platform.
+Dan salah satunya melalui chanel youtube bapak yang sangat membantu saya belajar dan memahami tentang dunia programming terutama di bidang web developer dengan penjelasan yang mudah di pahami.
+Saya sangat bersyukur ada orang seperti bapak yang selalu bermurah hati membagikan ilmu tentang web developer. Dan saya juga ingin mengucapkan termikasih karena dengan video video tutorial,
+dari pak dika membuat saya cepat dan mudah  memahami tentang pemrograman website. untuk resolusi yang ingin saya wujudkan kedepanya adalah :
+
+- Menguasai basic web programming HTML, CSS dan JavaScript.
+- Menguasai Framework CSS (Bootstrap dan Tailwind CSS).
+- Menguasai bahasa pemrograman PHP beserta framework nya yaitu Laravel.
+- Memahami tentang SQL dan konsep Database.
+- Menjadi web developer yang dapat bersaing dengan web developer hebat lainnya seperti pak dhika.
+
+Itu saja yang ingin saya sampaikan, sekali lagi terimakasih atas ilmu yang di bagikan pak dhika dan semoga selalu bermanfaat :)
