@@ -21,8 +21,8 @@ RENCANA KONTEN WPU
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
-  ^back end
-  ^front end
+  ^ back end
+  ^ front end
 - Ruby on Rails
 - Database
   ^ NoSQL MongoDB
@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Menjelaskan Materi Seputar Dunia Cyber Security
