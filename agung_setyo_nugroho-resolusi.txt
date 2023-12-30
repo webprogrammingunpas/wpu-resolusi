@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Agung Setyo Nugroho dari Serang, Banten
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Saya ingin mengimplementasikan ilmu yang saya dapatkan dari video pembelajaran bapak ke lingkungan saya terutama juga untuk yang sebidang dengan latar belakang pendidikan saya
