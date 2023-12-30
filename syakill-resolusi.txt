@@ -1,0 +1,2 @@
+resolusi saya:
+- belajar react js, express js, tailwaind
