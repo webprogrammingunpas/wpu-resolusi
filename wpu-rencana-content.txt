@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * NodeJS
+    ^ Nextjs
+      - Menambahkan fitur tambahan NextUI
   * Framework Javascript
     ^ Vue
     ^ React
