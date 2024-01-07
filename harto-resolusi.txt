@@ -1,0 +1,6 @@
+Salam kenal, pak dosen Sandhika Galih. Saya Harto Sudianto tinggal Papua. Saya suka belajar sendiri ( otodidak ) dan hobby coding. Dulu saya programmer. Masih pakai dBase, Clipper, terus lanjut FoxPro for LAN. Terus lama berhenti. 
+Saya banyak belajar Web Programming mulai dari HTML, CSS, PHP, JavaScript dari bapak Sandhika melalui video Youtube Web Programming UNPAS. Sekarang belajar GIT dan GITHUB. Penyampaian bapak Sandhika mudah diikuti, terstruktur, dan dalam bahasa yang dimengerti orang awam sekalipun. Terima kasih banyak pak dosen. Semoga tetap sehat dan bisa terus membagi ilmu kepada lebih banyak orang lagi.
+Resolusi saya:
+-Menuntaskan belajar PHP MVC, walau sangat sulit dan banyak istilah asing.
+-Belajar JavaScript ( DOM & Lanjutan )
+Belajar Java
