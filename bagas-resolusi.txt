@@ -1,0 +1,9 @@
+Halo pak, nama saya Bagas Saputra dari Bogor. Saya adalah seorang pelajar yang baru belajar pemrograman.
+Cita-cita saya menjadi developer web dan game(masih bingung) dan jauh dari sesat pikir.
+Resolusi saya untuk tahun 2024:
+- Membuat website portofolio
+- Jago javascript
+- Belajar computational thinking
+- Belajar mengenai teknologi AI
+- Jago bahasa inggris
+- Belajar logical fallacies
