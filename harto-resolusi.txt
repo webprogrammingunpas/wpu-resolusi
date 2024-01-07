@@ -3,3 +3,4 @@ Saya banyak belajar Web Programming mulai dari HTML, CSS, PHP, JavaScript dari b
 Resolusi saya:
 -Menuntaskan belajar PHP MVC, walau sangat sulit dan banyak istilah asing.
 -Belajar JavaScript ( DOM & Lanjutan )
+Belajar Java
