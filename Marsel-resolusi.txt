@@ -3,5 +3,6 @@ Saya salah satu mahasiswa dari UIN SMDD di Bukittinggi
 Saat ini saya sedang mempelajari bahasa pemograman untuk web developer
 
 Resolusi saya:
-- Mempelajari Vue.js 
+- Mempelajari Vue.js dan React.js
+- Membuat Portofolio dan web yang berguna untuk masyarakat
 - Menyelesaikan Skripsi tepat waktu
