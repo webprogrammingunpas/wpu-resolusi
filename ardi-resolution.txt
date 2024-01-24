@@ -1,0 +1,4 @@
+halo pak salam kenal saya ardi dari tangerang
+resolusi saya :
+- membuat website menggunakan javascript dan golang sebagai backend
+- dan membuat start-up di bidang jasa
