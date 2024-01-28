@@ -37,3 +37,4 @@ RENCANA KONTEN WPU
 - Sertifikat SSL
 -Playlist tutorial Typescript
 -Playlist simple project dengan HTML, CSS, dan JavaScript
+-Playlist update belajar fungsi baru javascript perhari (minimal 1 fungsi)
