@@ -13,7 +13,8 @@ RENCANA KONTEN WPU
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel 
+    ^Laravel Breeze
 - Interview
 - Vlogs
 - Python
