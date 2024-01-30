@@ -1,0 +1,6 @@
+Salam kenal pa, nama saya Rizki dari Tasik.
+  ini resolusi saya :
+  - Fullstack python
+  - Jago SQL
+  - Belajar EDA
+  - Belajar Machine Learning
