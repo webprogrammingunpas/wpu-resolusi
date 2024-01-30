@@ -1,0 +1,8 @@
+Halo pak, salam kenal, saya Gray dari Bogor
+
+Resolusi saya:
+- Membuat website gym training app sebagai bahan untuk tugas penulisan ilmiah saya di semester 6.
+- Mempelajari MERN Stack untuk membuat website tersebut.
+- Setelah itu, saya juga ingin mempelajari tech stack lainnya, seperti menggunakan Django, Laravel, atau Go.
+- Lalu, saya juga ingin mempelajari bidang data analytics.
+- Setelahnya, menggabungkan kedua bidang tersebut untuk membuat project berupa dashboard.
