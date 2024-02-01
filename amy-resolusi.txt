@@ -1,0 +1,4 @@
+Halo, saya Amy Ramadhan dari Bekasi.
+
+Resolusi saya pada tahun 2094:
+1. Membuat Aplikasi toDo menggunakan framework Flutter.
