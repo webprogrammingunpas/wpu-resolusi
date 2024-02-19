@@ -18,7 +18,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
-- Quick Tips dan trik programming ala Pak Sandhika Galih
+- Quick Tips, trik programming dan cara belajar ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
