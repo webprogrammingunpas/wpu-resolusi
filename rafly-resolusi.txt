@@ -1,0 +1,12 @@
+Halo pak, saya rafly dari lampung
+
+Resolusi saya dapat menguasai
+-Git (Visual Control System
+  1. Branch
+  2. Checkout
+  3. Push and Pull
+-Python
+  1. Requests         5. PYQTCode (Python)      9. Flask
+  2. Serial           6. PYpng                 10. QML (Front End)
+  3. SQLite3 (SQL)    7. Dlib
+  4. OpenCV           8. Pygame
