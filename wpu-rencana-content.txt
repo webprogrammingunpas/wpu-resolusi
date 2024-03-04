@@ -27,6 +27,9 @@ RENCANA KONTEN WPU
 - Database
   ^ NoSQL MongoDB
   ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
+
+
+thank you all
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
