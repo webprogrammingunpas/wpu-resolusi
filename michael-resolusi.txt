@@ -1,0 +1,5 @@
+Halo Pak Salam kenal nama saya Michael Sanjaya
+
+Resolusi saya:
+1. saya ingin mempelajari lebih dalam tentang laravel
+2. saya ingin mempelajari lebih dalam tentang react js
