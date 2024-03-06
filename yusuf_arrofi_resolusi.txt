@@ -1,0 +1,13 @@
+Hallo Pak, Saya Arrofi dari wilayah Surakarta Jawa Tengah
+
+Resolisi saya kedapan dari tanggal 6 Maret 2024 - 1 November 20214
+- Mempelajari dasar dasar Git & GitHub
+- Mempelajari dasar dasar JavaScript
+- Mempalajari Bahasa Pemrgraman Golang (GO)
+- Mempelajari Faramework Laravel
+- Mempelajari Faramework Laravel
+- Mempelajari Faramework JavaScript 
+  * React.js
+  * vue.js
+  * Node.js
+- Belajar Typescript
