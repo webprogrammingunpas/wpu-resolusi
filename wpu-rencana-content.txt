@@ -18,7 +18,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
-- Quick Tips dan trik programming ala Pak Sandhika Galih
+- Quick Tips dan tik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^back end
@@ -32,6 +32,7 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+-tensorflow
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
