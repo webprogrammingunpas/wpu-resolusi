@@ -1,0 +1,4 @@
+Halo pak sandhika, nama saya Yahya dari Tulungagung, Saya masih sekolah SMA kelas XII 
+Resolusi Saya : 
+- Saya ingin membuat Shopping-Cart Fullstack Mevn (MongoDB, Express.js, Vue.js, Dan Node.js)
+- Dan juga semoga saya kedepanya bisa bekerja di Perusahaan Atau Freelancer 
