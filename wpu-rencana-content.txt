@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Materi tentang Cybersecurity ( ilmu apa saja yang dibutuhkan dalam belajar Cyber)
+- Bahasa Pemograman apa saja yang dibutuhkan dalam dunia Cybersecurity
+- Tutorial menginstal Kali Linux
+- Tutorial menginstal Phyton
