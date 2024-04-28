@@ -35,3 +35,5 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- 1. Buat Kuis atau challenge pak saat selesai live dan direview hari kedepannya (live)
+- 2. Buat challenge bikin web tentang hari-hari besar Indonesia 
