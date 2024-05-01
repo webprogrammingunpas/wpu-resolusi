@@ -1,0 +1,9 @@
+Halo pak, salam kenal nama saya Putri dari Tangerang. 
+Saya mahasiswa UNTIRTA di Serang, Banten.
+Prodi saya Pertanian tapi tertarik untuk belajar Pemrograman.
+
+Resolusi saya:
+- Membuat website menggunakan HTML dan CSS (tugas MSIB) di VS Code
+- Join Kampus Merdeka Batch 7
+- Mahir bahasa pemrograman (SQL dan Python) 
+- Kerja menjadi frontend engineer
