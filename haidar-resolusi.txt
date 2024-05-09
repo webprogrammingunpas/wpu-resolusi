@@ -1,0 +1,11 @@
+Halo Pak Sandhika salam kenal saya haidar dari semarang,saya sedang berusaha belajar programming dengan giat,karena saat di SMK menurut saya kurikulumnya kurang mendukung jadi saya haru belajar lagi dari awal
+Belajar Programming
+1.Front-End Web
+-HTML,CSS,Javascript
+-FrameWork Front End
+2.Back-End Web
+-Mysql
+-Laravel
+-Node JS
+#Kerja
+  Kerja sesuai passion yaitu menjadi programmer
