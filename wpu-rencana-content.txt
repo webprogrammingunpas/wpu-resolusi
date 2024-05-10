@@ -15,6 +15,10 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+-Motivasi agar semangat belajar
+ ^cara agar konsisten belajar
+ ^cara agar tidak gampang lupa hal yang sudah di pelajari
+ ^cara melawan rasa jenuh saat belajar
 - Vlogs
 - Python
   ^ Django
