@@ -1,0 +1,3 @@
+Resolusi Saya :
+- Membuat website dengan Spring boot
+- Bekerja di perusahaan IT
