@@ -1,0 +1,6 @@
+halo pak, salam kenal saya josse surya pinem dari medan 
+resolusi saya :
+- membuat aplikasi akuntansi&pos berbasis web menggunakan mern-stack, android&ios menggunakan react native, desktop menggunakan electron&sqlite
+- bug bounty di nasa, google, netflix, dll 
+- menjadi milliarder 
+
