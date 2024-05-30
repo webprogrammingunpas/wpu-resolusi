@@ -1,0 +1,8 @@
+Halo semuanya, salam kenal nama saya Wilson, pelajar SMP dari Surabaya. (2024)
+
+Resolusi Wilson :
+- Membuat website project dengan html css js, dan reactjs
+- Menyelsaikan dan memahami git & github dari wpu
+- Memahami package manager (nodejs)
+- Bisa bermanfaat bagi yang lain
+- front-end development
