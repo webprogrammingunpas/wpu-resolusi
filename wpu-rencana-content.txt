@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Framework Angular18
