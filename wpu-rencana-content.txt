@@ -16,6 +16,8 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+ * Persiapan ngoding
+ * Room tour (tempat biasa pak sandhika ngoding)
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
@@ -35,3 +37,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+Menyelesaikan roadmap ala pak Sandhika di Roadmap.sh
