@@ -1,0 +1,6 @@
+Halo pak, nama saya Riyan Darmawan dari Purwakarta
+
+Resolusi saya :
+- Membuat project menggunakan ReactJS
+- Membuat project menggunakan Laravel
+- Kuliah
