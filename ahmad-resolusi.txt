@@ -1,5 +1,0 @@
-Assalamualaikum pak dika, Salam kenal dari saya ahmad qomaini(panggilanya = beni) dari medan.
-
-Resolusi saya:
-- Karena saya newbie masalah web program, jadi saya ingin belajar untuk lebih memahami tentang PHP,
-- Jika PHP sudah begitu paham, akan saya lanjut kan dengan membuat website menggunakan framework php.
