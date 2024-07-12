@@ -31,6 +31,7 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Web3
 - Keamanan Website
 - Odoo
 - Aplikasi android
