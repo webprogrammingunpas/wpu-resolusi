@@ -35,3 +35,8 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Framework Android
+  ^ Flutter
+  ^ Kotlin
+- Tips Extension VS Code
+- Konten Penggunaan ChartJS pada Laravel

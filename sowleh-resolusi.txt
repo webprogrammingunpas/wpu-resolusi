@@ -1,0 +1,5 @@
+Hallo kak, salam kenal nama saya Moh Solehudin dari Cirebon
+
+Resolusi Saya :
+- Membuat program web dengan menggunakan framework laravel
+- Kerja dibagian IT dengan gaji yang besar :)
