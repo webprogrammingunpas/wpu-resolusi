@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya Fitri dari Surabaya
+
+Resolusi saya:
+- membuat website menggunakan framework javascript, laravel, dan PHP
+- memiliki pekerjaan sampingan di bidang IT
