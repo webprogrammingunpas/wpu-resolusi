@@ -1,0 +1,3 @@
+Resolusi 2024
+- Belajar Laravel
+- Belajar MySQL
