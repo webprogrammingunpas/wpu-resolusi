@@ -31,7 +31,9 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ TailwindCSS
 - Keamanan Website
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Membuat website dengan semantik
