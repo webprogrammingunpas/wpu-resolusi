@@ -1,0 +1,7 @@
+halo pak sandhika, terimakasih untuk ilmunya sejauh ini alhamdulilah saya dapat kerja karena ilmu dari bapak
+
+Resolusi 2025 
+1. Bisa Unit test untuk react js
+2. Membuat web profile dari react js 
+3. Membuat web perswaan mobil
+4. membuat blog untuk mobil
