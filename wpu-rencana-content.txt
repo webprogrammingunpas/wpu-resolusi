@@ -32,6 +32,10 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+- Roadmap Cyber Security secara Terurut
+    * fundamental Cyber Security
+    * Syarat Menjadi Cyber Security
+    * Teknik Yang Digunakan Dalam Cybert Security
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
