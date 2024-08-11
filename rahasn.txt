@@ -1,0 +1,4 @@
+Hallo saya dari Sumedang saya masih sekolah
+
+Resolusi saya :
+- Membuat website menggunakan laravel
