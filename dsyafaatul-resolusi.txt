@@ -1,0 +1,7 @@
+Halo Pak, salam kenal nama saya D. Syafa'atul Anbiya dari Majalengka.
+
+Resolusi saya :
+- Membuat Web App menggunakan framework javascript
+- Membuat Mobile App menggunakan Kotlin Jetpack Compose
+- Coba Berbagai Distro Linux
+- Membuat Home Server
