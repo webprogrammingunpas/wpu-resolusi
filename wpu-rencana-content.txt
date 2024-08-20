@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- standart programming pinsip like OOP, DRY, SOLID
+- C#
+ ^ASP.NET Core Web API
