@@ -7,6 +7,8 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Node
+    ^ Express
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -14,6 +16,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ CI4
 - Interview
 - Vlogs
 - Python
