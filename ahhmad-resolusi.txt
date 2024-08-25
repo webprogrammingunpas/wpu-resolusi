@@ -1,0 +1,7 @@
+ ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ 
+pa dika nama saya ahmad saya masih pemula walau pun saya telat 5 tahun saya tetep semangat nontonin tutorial dari pa dika, rosolusi saya
+- react js
+- tailwind
+sama mau coba react native
+
+sekarang lagi bikin projek calculator nih pa pakai vanila javascript, jangan lupa pa nanti nilai project saya 
