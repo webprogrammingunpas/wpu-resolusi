@@ -14,6 +14,8 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+   - Membuat study case Company Profile dengan Laravel 11
+   - Membuat study case Toko Online dengan Laravel 11
 - Interview
 - Vlogs
 - Python

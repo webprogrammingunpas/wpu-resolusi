@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Anton Rivalvino dari Tangerang Selatan.
+
+Ini adalah resolusi saya:
+- Membuat website menggunakan framework laravel 11
+- Saya ingin bekerja di big company, contohnya Google Indonesia
