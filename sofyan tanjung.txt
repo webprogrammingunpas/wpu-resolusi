@@ -1,0 +1,7 @@
+Halo Pak, perkenalkan Saya Sofyan Tanjung
+ada beberapa hal yang ingin saya gapai / resolusi
+  Mastering 
+- React JS
+-  TailwindCSS
+-  Laravel
+-  Database
