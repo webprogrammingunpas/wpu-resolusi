@@ -1,0 +1,9 @@
+Halo, salam kenal pak. Nama saya Alvin
+
+Resolusi saya:
+- Paham Fullstack Web Development
+- Bisa memahami dan menggunakan vue js
+- Bisa memahami dan menggunakan laravel
+- Bisa Memahami REST API
+- Bisa Memahami MongoDB
+- Bisa Mehamahi Next JS
