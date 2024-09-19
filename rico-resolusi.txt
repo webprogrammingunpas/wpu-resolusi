@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Rico dari Bandung
+
+Resolusi saya di tahun 2024 :
+1. Menguasai framework PHP berupa laravel
+2. Membuat website sendiri menggunakan laravel
