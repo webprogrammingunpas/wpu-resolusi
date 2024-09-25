@@ -1,0 +1,4 @@
+Peemisi pak, saya Faiz dari purwokerto
+
+saya mahasiswa sistem informasi semester 5, saat ini saya sedang mengikuti program MSIB kemendikbud di mitra PT RuangRaya (Ruangguru).
+disini saya mengambil fullstack web development dengan Golang, saat saya cari di channel YT bapak, saya belum menemukan playlist Golang, kalau boleh saya ingin belajar Golang dari Bapak :)
