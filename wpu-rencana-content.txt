@@ -18,6 +18,7 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ OpenCV
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
@@ -34,4 +35,6 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ Java
+  ^ Kotlin
 - Sertifikat SSL
