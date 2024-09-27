@@ -1,8 +1,0 @@
-Halo pak, salam kenal nama saya Nilo dari Tangerang
-
-Resolusi Saya :
-- Membuat website menggunakan freamwork Laravel dengan SQL Server
-- Membuat website menggunakan freamwork javascript dengan SQL Server
-- Membuat website menggunakan freamwork ASP.NET atau ASP.NET CORE dengan SQL Server
-- Membuat website menggunakan freamwork Ruby On Rails
-- Bekerja di pabrik Textile sebagai Staff IT

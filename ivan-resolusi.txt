@@ -1,7 +1,0 @@
-Halo Pak, selamat siang. Perkenalkan nama saya Ivan dari Semarang
-
-Resolusi saya di tahun ini:
-- Membuat website dengan menggunakan framework Laravel, Flask, dan Django
-- Belajar membuat tema website sendiri dengan menggunakan Photoshop
-
-Terima kasih sudah dibaca :)
