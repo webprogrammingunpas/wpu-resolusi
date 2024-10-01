@@ -15,7 +15,9 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+  * Podcast tentan dunia IT
 - Vlogs
+  * Berkunjung ke perusahaan IT terbaik.
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
