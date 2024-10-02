@@ -1,0 +1,5 @@
+Halo, Pak. Salam kenal, nama saya Anonymous567 dari Semarang.
+
+Resolusi:
+- Menguasai stack Front End dengan library React
+- Menguasai stack Back End dengan framework Next.js
