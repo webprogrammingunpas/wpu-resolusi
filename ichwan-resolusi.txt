@@ -1,0 +1,4 @@
+"Hallo, Pak. Nama saya Ichwan, saya berasal dari Purwokerto, Jawa Tengah.
+
+Resolusi saya:
+- Memahami konsep React dan Tailwind agar bisa membangun aplikasi web modern yang responsif dan efisien.
