@@ -1,0 +1,4 @@
+Halo, Pak, saya Lily dari Bandung.
+Saya ingin belajar:
+  - Software life cycle di industri
+  - Bagaimana prinsip menulis clean code
