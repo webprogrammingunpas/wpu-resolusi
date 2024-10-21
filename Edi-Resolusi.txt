@@ -1,0 +1,15 @@
+Hallo Pak Sandika, salam kenal, Nama saya Purnomo Edi biasa di panggil Pung atau Edi
+
+Saya tinggal di Yogyakarta
+baru skitar 2 mingguan ini saya menemukan chanel WPU dan saya tertarik belajar GitHub
+saya blm pernah menggunakan sama sekali GitHub, saya juga sedang belajar pemrograman
+sesuai yg pak Sandika ajarkan pada video ke #4 GITHUB : FORK, saya menemui kendala.
+saya sudah mempraktekkan pelajaran #1 sd #3 menggunakan akun gmail : punkbribantul
+untuk praktek video #4 saya menggunakan akun gmail : hrnsutejo (akun ini yg skrg sy pakai)
+aneh nya menggunakan akun ini saya ga bisa melihat akun punkbribantul yang akan saya FORK
+saya coba menggunakan searching, akun punkbribantul tsb tdk muncul juga.
+tapi ketika dari akun ini saya searching webprogrammingunpas, bisa muncul.
+kira2 penyebabnya apa ya pak ?
+trimakasih sebelumnya ya pak Sandika.
+sbg info tambahan : saya berminat menjadi seorang Front End dev, langkah awal saya : 
+mempelajari GitHub, selanjutnya saya berencana belajar javascript.
