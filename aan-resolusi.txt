@@ -1,0 +1,10 @@
+Halo pak, Salam Kenal ^^
+Perkenalkan nama saya Muhammad Filyan Syahril, saya memiliki keinginan untuk kedepan nya agar bisa menjadi Web Developer Expert, Berikut list resolusi saya :
+* Pandai menggunakan Framework/Library : 
+- React JS
+- Vue Js
+- Express JS
+- Node Js
+- Next Js
+- Tailwind Css
+* Bisa bekerja di luar kota/luar negeri

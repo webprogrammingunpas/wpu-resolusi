@@ -7,6 +7,9 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Next JS
+    ^ Express JS
+    ^ Node JS
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
