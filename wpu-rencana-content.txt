@@ -11,6 +11,8 @@ RENCANA KONTEN WPU
     ^ Highcharts.js
     ^ Numeral.js
 - Webpack
+- Kalkulus
+- Algoritma dan Pemrograman
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
