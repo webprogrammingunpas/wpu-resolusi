@@ -21,6 +21,7 @@ RENCANA KONTEN WPU
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
+- node js.
   ^back end
   ^front end
 - Ruby on Rails
