@@ -1,0 +1,4 @@
+Ini adalah resolusi saya tahun ini
+- Pelajari dasar-dasar Git dan implementasikan dalam proyek sehari-hari.
+- Kuasai Laravel 11 dan manfaatkan fitur-fiturnya secara maksimal.
+- Eksplorasi PowerShell untuk automasi tugas-tugas pengembangan.
