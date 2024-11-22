@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- membuat web interactive atau game di website untuk tujuan pembelajaran tingkat sekolah dasar, menengah dan akhir
