@@ -14,6 +14,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ CI
 - Interview
 - Vlogs
 - Python
