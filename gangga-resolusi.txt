@@ -1,0 +1,4 @@
+hallo,aku gangga
+-belajar git dan github
+-belajar javascript lanjutan
+-belajar framework dan library
