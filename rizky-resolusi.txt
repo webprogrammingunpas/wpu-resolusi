@@ -1,0 +1,5 @@
+halo pak salam kenal nama saya rizky dari jakarta
+saya akan menjadi devops tahun depan
+membuat ci/cd pipeline menggunakan jenkins
+deploy menggunakan gitlab
+menggunakan container docker dan orchestra menggunakan kubernetes
