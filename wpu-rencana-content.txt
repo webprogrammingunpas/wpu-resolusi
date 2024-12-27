@@ -33,5 +33,6 @@ RENCANA KONTEN WPU
     ^ Sass
 - Keamanan Website
 - Odoo
-- Aplikasi android
+- Aplikasi android dengan kotlin
 - Sertifikat SSL
+- membuat aplikasi untuk IOS dengan swift
