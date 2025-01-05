@@ -19,6 +19,7 @@ RENCANA KONTEN WPU
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
+- What is documentation?
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
   ^Back End
