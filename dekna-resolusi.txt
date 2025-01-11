@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Dekna dari Bali, saat ini masih kuliah di IT STIKOM Bali dan sedang mengerjakan TA
+
+Resolusi saya:
+- membuat webiste menggunakan framework laraverl dan tailwind
+- tahun ini ingin menyelesaikan TA tepat waktu dan Wisuda
