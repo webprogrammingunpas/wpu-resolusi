@@ -1,0 +1,8 @@
+Halo pa, salam sejahtera, perkenalkan nama saya aditya bagas, seorang mahasiswa smt 5 ilmu politik,
+mungkin saya terhitung telat di banding teman-teman yang sama-sama belajar di pa dika hehe.
+
+- Resolusi Saya
+  * Membuat Web Interaktif dengan framework javascript
+  * Membuat website untuk portofolio
+  * Membuat website jurusan saya lebih interaktif dan lebih bagus
+  * Membuat website tentang politik yang mudah di pahami bagi masyarakat
