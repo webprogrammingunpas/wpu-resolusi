@@ -1,0 +1,10 @@
+Saya Husnul Fikri memiliki Resolusi 
+✅ Menguasai HTML, CSS, dan JavaScript dengan baik
+✅ Memahami Responsive Design dan menerapkan CSS Framework (Tailwind, Bootstrap)
+✅ Belajar JavaScript lebih dalam (ES6+, Async/Await, Fetch API)
+✅ Menguasai React.js atau Vue.js untuk membangun UI yang interaktif
+✅ Memahami Git & GitHub untuk version control
+✅ Mengerjakan minimal 3-5 proyek nyata untuk portofolio
+✅ Belajar tentang UI/UX Design agar website lebih menarik
+✅ Berpartisipasi dalam komunitas developer (open source, forum, hackathon)
+✅ Mencari kesempatan freelance atau internship untuk pengalaman kerja
