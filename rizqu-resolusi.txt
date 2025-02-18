@@ -1,0 +1,5 @@
+Salam kenal, saya rizqu
+
+Resolusi:
+- Buat app dengan flutter
+- Belajar laravel
