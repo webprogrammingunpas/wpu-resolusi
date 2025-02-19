@@ -1,0 +1,8 @@
+Halo Pak
+
+Resolusi saya jadi QA:
+- Appium
+- Web3
+- RPA
+- Selenium
+- Katalon
