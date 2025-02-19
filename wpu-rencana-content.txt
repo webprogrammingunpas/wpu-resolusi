@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Cara hosting file web yang telah dibuat dengan node.js dan mongo-db agar bisa diakses menjadi website asli
