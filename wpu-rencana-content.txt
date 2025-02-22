@@ -18,6 +18,8 @@ RENCANA KONTEN WPU
 - Vlogs
 - Python
   ^ Django
+  ^ Numpy
+  ^ Matplotlib
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
