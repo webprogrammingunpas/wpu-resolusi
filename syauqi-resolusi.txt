@@ -1,0 +1,7 @@
+Halo Pak Dhika, saya Syauqi Murtadlo dari Jombang Jawa Timur
+
+Resolusi Saya :
+- Membuat Website menggunakan Framework Laravel sebegai teknologi backend dan React sebagai teknologi frontend
+- Bekerja di Perusahaan besar di Jakarta
+- Menjadi Dosen IT
+- Membangun bisnis IT
