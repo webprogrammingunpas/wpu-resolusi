@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Arief Anggriawan dari Kabupaten Tangerang.
+
+Resolusi saya : 
+- Membuat project menggunakan Laravel
+- Bisa bekerja dari rumah dari skill ngoding yang dipunya
