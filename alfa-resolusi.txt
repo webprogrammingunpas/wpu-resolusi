@@ -1,0 +1,4 @@
+Hallo pak, saya alfa berasal dari palembang
+
+Resolusi:
+- Membuat project menggunakkan laravel
