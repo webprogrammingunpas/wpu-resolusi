@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya Dwip dari Depok
+
+Resolusi Saya :
+- Membuat website menggunakan framework javascript untuk menambah portofolio
+- Bekerja di BUMN
+- Bikin aplikasi kasir sederhana
