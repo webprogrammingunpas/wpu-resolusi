@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
+- membuat aplikasi web untuk control smart home
+
 - Javascript
   * ES6
   * NodeJS
