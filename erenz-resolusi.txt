@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya erenz dari sulawesi baru saja lulus dari kuliah jurusan teknik mesin
+
+Resolusi saya:
+-membuat drone autonom yang bisa mengenali objek dengan library OpenCV
+-saya ingin bekerja di perusahaan RnD robotika
