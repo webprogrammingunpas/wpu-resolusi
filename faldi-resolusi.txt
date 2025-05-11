@@ -1,0 +1,5 @@
+halo pa, salam kenal nama saya Faldi dari Bandung
+
+resolusi saya tahun ini adalah :
+-belajar Dart
+-belajar Flutter
