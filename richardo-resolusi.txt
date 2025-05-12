@@ -1,0 +1,8 @@
+salam kenal pak saya richardo arif harianto dari kudus
+
+resolusi tahun 2025 saya:
+ - belajar git/github
+ - belajar jenkins untuk menghubungkan github ke server
+ - belajar konfigurasi server seperti ubuntu dan debian
+
+terima kasih
