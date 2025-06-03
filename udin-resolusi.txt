@@ -1,0 +1,4 @@
+Halo pak saya Udin dari Cikarang
+Resolusi saya
+- Membuat aplikasi menggunakan FLutter
+- Lolos SNMPTN
