@@ -7,6 +7,8 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Hapi
+    ^ Express
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -32,6 +34,7 @@ RENCANA KONTEN WPU
   * Framework CSS
     ^ Sass
 - Keamanan Website
+  * Macam-macam kejahatan cyber
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
