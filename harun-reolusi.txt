@@ -1,0 +1,9 @@
+Hallo pak dosen,aku adalah murid dari bootcamp IT Programmer dari united traktor school jakarata yang ingin memplajari beberapa hal seperti
+-version control system
+-merge
+-branch
+-stash
+-stash pop
+dan fitur vcs yang lainnya,semoga bisa menyerap ilmu banyak dari bapak UNPAS ini yaaa hihi
+
+aku sih rencana ngambil web frontend developer pak dan lagi internship juga nih di PT Traktor Nusantara yang memakai bahasa pemrograman Javascript (react)
