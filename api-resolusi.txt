@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Rafli dari Bandung
+
+Resolusi :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
