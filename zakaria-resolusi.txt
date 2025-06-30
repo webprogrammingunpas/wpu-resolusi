@@ -1,0 +1,7 @@
+Hallo pak nama saya Zakaria dari Bandung, saya seorang pemula web developer.
+saya terinspirasi dari bapak, semoga jadi amal jariyah👍🙏🙏  
+saya menggunakan php sebagai end point backend, javascript sebagai frontend
+
+resolusi saya :
+ - bisa mengembangkan project dengan framework yang mendukung sesuai project yang saya kembangkan
+ - bisa menjadi profesional developer dengan bahasa dan struktur pemrograman yang efisien
