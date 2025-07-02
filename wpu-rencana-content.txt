@@ -35,3 +35,6 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
+Tamabahan dari saya
+- Belajar bahasa Dart untuk Flutter
