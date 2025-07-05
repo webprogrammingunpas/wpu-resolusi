@@ -1,6 +1,3 @@
-WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+MALYA RESOLUSI
+- pengen bisa nguasain front-end dev
+- pengen belajar lebih lanjut tentang ui/ux
