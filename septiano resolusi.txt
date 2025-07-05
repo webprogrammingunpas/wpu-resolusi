@@ -1,0 +1,5 @@
+Hallo Pak, Salam kenal Saya Septiano Ferdiansyah dari Cirebon.
+
+Resolusi Saya :
+- Memaahami Konsep Git & Github
+- Mendevelop API menggunakan Laravel
