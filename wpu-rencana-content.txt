@@ -30,6 +30,7 @@ RENCANA KONTEN WPU
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
+  * Framework terbarunya pak
     ^ Sass
 - Keamanan Website
 - Odoo
