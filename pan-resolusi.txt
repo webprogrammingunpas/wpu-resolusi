@@ -1,0 +1,8 @@
+Halo pak, salam kenal saya irfan dari karawang
+
+resolusi saya :
+-buatin cara penggunaan Framework Tailwind CSS
+-cara penggunaan Framework react & laravel 
+
+impian saya :
+-ingin jadi programmer full stack
