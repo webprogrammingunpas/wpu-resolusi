@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Bimo dari Solo
+
+Resolusi Saya :
+- Membuat roket menggunakan Javascript 
+- Bekerja di NASA
