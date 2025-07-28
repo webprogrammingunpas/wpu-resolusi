@@ -1,0 +1,6 @@
+Halo pak dan temen temen semua, salam kenal saya seorang mahasiswa bernama Dhika dari Padang
+
+Resolusi saya:
+- Konsisten untuk belajar dan memperdalami framework springboot
+- Membuat lebih banyak project seperti website dengan framework laravel, data science dengan python, dan lainnya untuk portfolio
+- Memperbanyak pengalaman magang dan kerja
