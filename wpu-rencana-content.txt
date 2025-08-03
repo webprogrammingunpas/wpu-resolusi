@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ React Native
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -25,8 +26,8 @@ RENCANA KONTEN WPU
   ^front end
 - Ruby on Rails
 - Database
-  ^ NoSQL MongoDB
-  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite
+  ^ NoSQL MongoDB, 
+  ^ MySQL, PostgreSQL, SQL Server, Firebase, SQL Lite, MariaDb
   ^ Materi join table di Mysql 
 - CSS
   * Framework CSS
