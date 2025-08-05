@@ -1,0 +1,7 @@
+Hallo Pak, salam kenal nama saya muji dari Depok
+
+resolusi saya 
+membuat website dengan 
+- Next js
+- tailwind
+- Golang
