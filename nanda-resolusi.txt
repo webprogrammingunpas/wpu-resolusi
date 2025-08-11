@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Nanda dari Bandung
+
+Resolusi saya :
+- membuat website menggunakan framework Codeigniter4
+- bekerja sebagai Designer web
