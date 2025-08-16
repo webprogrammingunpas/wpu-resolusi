@@ -1,0 +1,6 @@
+Hai Pak, saya Anjas dari Yogyakarta:
+
+Resolusi:
+- Belajar web backend dengan framework django python
+- Belajar web backend dengan framework .NET C#
+- Belajar web backend dengan framework Spring boot java
