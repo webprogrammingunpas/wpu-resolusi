@@ -1,0 +1,5 @@
+halo, pak! salam kenal, saya zesi dari magelang.
+
+saya mahasiswa teknik informatika semester 5 di STMIK Bina Patria Magelang.
+resolusi saya:
+saya ingin membuat aplikasi dengan java.
