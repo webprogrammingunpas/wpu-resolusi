@@ -1,5 +1,6 @@
 RENCANA KONTEN WPU
 
+- FIGMA
 - Javascript
   * ES6
   * NodeJS

@@ -1,0 +1,9 @@
+Hai, perkenalkan saya Mahendra berasal dari Aceh Barat
+
+Resolusi Saya :
+- Membuat website menggunakan Javascript
+  ^ Membuat website menggunakan framework Javascript
+- Membuat website menggunakan PHP
+  ^ Membuat website menggunakan framework PHP
+- Membuat website dengan framework Bootstrap
+- Membuat website dengan framework Tailwind 
