@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya Dzikri dari Bandung
+
+Resolusi saya :
+- Memahami Webpack 
+- Memahami Framework Javascript 
+- Membuat portofolio 
