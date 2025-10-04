@@ -13,7 +13,7 @@ RENCANA KONTEN WPU
 - Webpack
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel 12
 - Interview
 - Vlogs
 - Python
@@ -31,7 +31,11 @@ RENCANA KONTEN WPU
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Bootstrap
+  * Library CSS
+    ^ Tailwind
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  ^ Flutter
 - Sertifikat SSL
