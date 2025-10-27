@@ -4,6 +4,7 @@ Resolusi saya:
 -Membuat website menggunakan framework codeIgniter
 -Saya ingin bekerja di kantor google indonesia 
 -Saya ingin belajar banyak tentang web ke pak dika 
+-belajar framework laravel
 
 Impian saya adalah :
 -Menjadi programmer yang dapat bermanfaat bagi orang banyak
