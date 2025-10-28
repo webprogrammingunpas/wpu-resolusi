@@ -1,6 +1,6 @@
-WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+Hallo Pak, Salam Kenal Saya Farhan dari Yogyakarta
+
+saya memiliki mimpi sebagai cloud engineer
+resolusi saya :
+-memhami cara database bekerja
+-Memahami c++
