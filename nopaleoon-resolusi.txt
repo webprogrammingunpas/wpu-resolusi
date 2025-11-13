@@ -1,0 +1,7 @@
+Halo pak sandhika, saya Naufal dari Kendal. Saya maba teknik informatika
+
+Ini resolusi saya smt 1:
+- memahami algoritma pemrograman
+- dapat memahami OOP
+- paham dasar-dasar python dan java
+- memahami function, percabangan, dan perulangan
