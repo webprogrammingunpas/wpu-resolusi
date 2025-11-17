@@ -36,3 +36,4 @@ RENCANA KONTEN WPU
 - Aplikasi android
 - Sertifikat SSL
 - UI UX Design
+- AR (Augmented Reality) dan VR (Virtual Reality)
