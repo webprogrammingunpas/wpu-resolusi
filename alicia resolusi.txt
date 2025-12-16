@@ -1,0 +1,7 @@
+Halo, Pak. Salam kenal saya Alicia dari Cirebon
+
+Resolusi Saya :
+1. membuat website menggunakan framework laravel versi 12
+2. saya ingin membuat website untuk portofolio saya sendiri
+3. saya ingin meningkatkan kemampuan public speaking saya
+4. saya ingin bekerja di KAI
