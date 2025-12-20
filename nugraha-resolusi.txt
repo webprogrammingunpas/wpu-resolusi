@@ -1,0 +1,4 @@
+Resolusi saya:
+- Membuat aplikasi menggunakan java dan framework spring boot
+- Bekerja di start-up
+- Status: freshgraduate
