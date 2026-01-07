@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+
+- Bikin web interaktif 
+  ^belajar ngoding dengan bahasa apapun kayak mungkin kayak belajar phyton gitu di web nya
+  ^buat jadi kita bisa nonton video sekalian ngoding di sana nya juga buat UI\UX nya interaktif dengan target pasar pelajar kak
