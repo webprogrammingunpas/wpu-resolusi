@@ -1,0 +1,10 @@
+Halo Pak, salam kenal, nama saya Aksa, mahasiswa dari Depok.
+
+Resolusi/Keinginan saya tahun ini:
+• Belajar Git & Github
+• Belajar bikin game dengan Godot
+• Belajar tentang AI
+  - Apa itu AI
+  - Bagaimana cara kerja AI
+  - Bagaimana membuat AI
+• Belajar HTML, CSS, dan Javascript
