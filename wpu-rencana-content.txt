@@ -34,4 +34,6 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
+  * backend (mengolah data"nya / databasenya, launch ke playstore sampai bisa didownload orang lain)
 - Sertifikat SSL
+- roadmap back end dan fullstack  dengan step" nya langsung jadi langsung di playlistnya gitu
