@@ -1,0 +1,8 @@
+Halo pak,saya baru belajar dan nonton playlist github dari bapak di tahun 2026
+
+Resolusi saya :
+- Bisa ngoding full tanpa bantuan ai
+- Menjadi backend developer
+- Menguasai php dan framework nya seperti CI dan Laravel
+- Menguasai python dan framework nya seperti flask dan django
+- Belajar IoT
