@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya fajar yoga borneo dari kalteng
+
+Resolusi Saya pada tahun ini:
+- Bisa membuat Website sendiri untuk memudahkan pekerjaan saya di bidang administrasi
+- Membuat website menggunkan framework php (Laravel)
