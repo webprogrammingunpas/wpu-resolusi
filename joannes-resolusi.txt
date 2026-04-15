@@ -1,0 +1,13 @@
+salam kenal Pak Sandhika. 
+Perkenalkan nama saya Joannes, saya dari jogjakarta 
+
+Resolusi saya untuk tahun 2022:
+- Memahami dan lancar dalam menggunakan git dan guthub
+- Saya ingin belajar mengenai Docker, Kubernet, Helm
+- Saya ingin belajar menggunakan GCP
+- Saya ingin belajar menggunakan automation dan setup CI / CD
+- Saya ingin belajar banyak tentang web ke pak dika 
+- Saya ingin belajar Python
+
+Impian saya adalah :
+-Menjadi Cloud ops yang dapat bermanfaat bagi orang banyak
