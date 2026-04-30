@@ -1,5 +1,7 @@
-Halo pak, salam kenal nama saya Sandhika dari Bandung
+Halo pak, salam kenal nama saya viona dari nganjuk saya sekolah di smkn 1 nganjuk, saya jurusan tkj 
 
 Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Bekerja di start-up
+- Mempelajari framework javascript
+- implementasi proyek nyata
+- best practices dalam coding
+- pengembangan diri
