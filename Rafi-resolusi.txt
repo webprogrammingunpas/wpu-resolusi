@@ -1,0 +1,3 @@
+Resolusi Saya:
+1. Pengen paham konsep Git & GitHub sampai lancar.
+2. Sukses praktek fitur Fork dan Pull Request hari ini!
