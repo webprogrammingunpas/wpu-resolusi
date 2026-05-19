@@ -1,0 +1,5 @@
+Halo pak , salam kenal saya Rearizth Muhammad Daffaa dari Sumedang
+
+resolusi saya : 
+- Membuat website menggunakan framework javascript yang ditambahkan dengan LLM
+- Bekerja di Startup
