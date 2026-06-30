@@ -1,0 +1,12 @@
+1. Mulai belajar C++
+  - Mulai belajar C++ dari nol
+2. Menguasai html/css dan javascript
+  - Mulai terbiasa/nyaman ngoding bagian frontend
+3. mendalami bagian backend
+  -Semakin jago di bagian backend
+4. Video editing
+  - Belajar mengedit video dari nol
+5. Menguasai python
+  - Sudah terbiasa ngoding python
+6. Menguasai java
+  - Sudah terbiasa ngoding java
