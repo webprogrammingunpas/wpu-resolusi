@@ -1,0 +1,16 @@
+Assalamualaikum, halo pak Sandhika. senang bisa mencoba mempraktikkan forking repositori milik webprogrammingunpas. 
+Perkenalkan, saya Kei, maba teknik informatika 2026 yang saat ini belum bisa ngoding. 
+Karena saya (benar-benar) takut terbantai ketika memulai perkuliahan hanya berbekal basic python dan javascript, oleh karena itu—
+Saya mencoba mempelajari materi yang berkaitan dengan perkuliahan nanti.
+
+Resolusi:
+- mereview ulang python dan javascript di website w3school
+- menamatkan materi ddp0/ddp1
+- mempraktikkan sendiri/mengubah project aplikasi menstruasi flowgorithm  saya ke source code
+- eksplorasi code editor dan website coding
+- mempelajari lebih dalam tentang fitur-fitur vscode yang lain
+- mencoba website leetcode
+- mencari referensi dan menentukan roadmap belajar
+
+tambahan: sebenarnya ingin belajar ui/ux juga especially cara menggunakan figma, namun saat ini saya masih sangat clueless
+
