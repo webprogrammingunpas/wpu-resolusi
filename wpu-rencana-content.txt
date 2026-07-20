@@ -34,7 +34,8 @@ RENCANA KONTEN WPU
 - Keamanan Website
 - Odoo
 - Aplikasi android
-- AI Agent
-- Agentic AI
-- Orchestration AI
+- Kecerdasan Buatan
+  ^ AI Agent
+  ^ Agentic AI
+  ^ Orchestration AI
 - Sertifikat SSL
