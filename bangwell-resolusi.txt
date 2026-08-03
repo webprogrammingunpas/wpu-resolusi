@@ -1,0 +1,6 @@
+Halo, Saya Wildan biasa dipanggil WELL dari Jawa 
+
+Saya akan membagikan resolusi sebagai newbie programmer
+- Mempelajari bahasa pemrograman Java beserta OOP nya
+- Mempelajari JavaScript beserta Frameworknya
+- Mempelajari Database d
