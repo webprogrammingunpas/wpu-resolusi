@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya irsan dari Purwodadi, Jawa Tengah.
+
+Resolusi Saya : 
+- Mengimplementasikan RESTful API pada Framework Laravel.
+- Mengimplementasikan Authentication & Authorization pada Framework Laravel. 
+- dan Tidak Malasssssssss
