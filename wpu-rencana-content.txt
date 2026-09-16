@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+-seputar app dev
+ *bahasa pemrogaraman yang digunakan
+ *cara install
+ *penjelasan seputar app dev
