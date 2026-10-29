@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- AI Engineer
+  ^ Fundamental LLM
+  ^ AI Agent
+  ^ Text-to-SQL
