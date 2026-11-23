@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Bahasa pemerograman yang paling terpakai saat ini dan yang akan datang
